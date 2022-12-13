@@ -1,0 +1,219 @@
+Lind,played,the violin	Lind,was and played,the violin	True	EN
+Laos,is a neighbor of,China	Laos,is bordered by,China	True	EN
+Geologists,interprets,Laws	Geologists,began to study,the laws	False	EN
+The black death,swept through,Europe	The black death,decimated,Europe	True	EN
+Fsh,stimulates and induces,ovulation	Fsh,causes,ovulation	True	EN
+Persia,believes in,Islam	Persia,was converted to,Islam	True	EN
+President Johnson,was the assassin of,Lincoln	President Johnson,assassinated,Lincoln	True	EN
+The second reader,was to have,a medal	The second reader,was awarded,a medal	True	EN
+Mandarin,is officially recognized in,China	Mandarin,is spoken in,China	False	EN
+Rivera,had lived in,Paris	Rivera,resided in,Paris	True	EN
+Metronidazole,kills,infections	Metronidazole,is the treatment for,infection	False	EN
+The black death,was carried by,Rats	The black death,is spread by,Rats	True	EN
+Orpiment,is much used as,a medicine	Orpiment,is used in,Medicine	False	EN
+Cellini,lodged in,Paris	Cellini,resided in,Paris	True	EN
+Tincture,is a remedy for,infections	Tincture,kills,infections	True	EN
+Mites,are pests of,Crops	Mites,eats,Crops	False	EN
+England,exports,Coal	The coal,came from,England	True	EN
+Leukemia,is caused by,a virus	Leukemia,induced by,virus	True	EN
+Bruin,was fond of,Corn	Bruin,eats,Corn	False	EN
+Richards,became governor of,Texas	Richards,is a politician from,Texas	False	EN
+America,was celebrating,the anniversary	The anniversary,is commemorated in,America	True	EN
+Galileo,was persecuted by,The Church	Galileo,was forced by,The Church	True	EN
+The writers,gravitated towards,Communism	The writers,is associated with,Communism	True	EN
+Diaz,had begun to receive,Medals	Diaz,was awarded,a medal	True	EN
+The bread,was a mixture of,Rye	Rye,is used to make,Bread	False	EN
+Vancomycin,is the drug for,infections	Vancomycin,kills,infections	True	EN
+This enzyme,is essential for,blood cells	This enzyme,is found in,the blood cells	False	EN
+The plagues,fly through,The Air	The plagues,is transmitted by,Air	True	EN
+That great commonwealth,promotes,Peace	That great commonwealth,sought to promote,Peace	False	EN
+Queensland,is part of,Australia	Queensland,is the state in,Australia	True	EN
+Oklahoma,surpassed,Texas	Oklahoma,is bigger than,Texas	True	EN
+The sun god,ruled in,Egypt	The sun god,was worshiped in,Egypt	False	EN
+Singers,were singing on,Television	Singers,appeared on,Television	False	EN
+Yellow fever,is transferred by,mosquitoes	Yellow fever,could be transmitted by,mosquitoes	True	EN
+Events,is common to,America	Events,had occurred in,America	False	EN
+Maize,is used to make,Beer	Beer,can be made from,Maize	False	EN
+Germany,declared and invaded,Belgium	Germany,declared war on,Belgium	False	EN
+Aspirin,upsets,the stomach	Aspirin,is irritating to,the stomach	True	EN
+Tasmania,is the state of,Australia	Tasmania,is part of,Australia	False	EN
+China,sends,Rice	China,exports,Rice	True	EN
+Cleopatra,married,Julius Caesar	Cleopatra,was married to,Julius Caesar	True	EN
+Bronchiolitis,is caused by,a virus	Virus,is the cause of,Bronchiolitis	True	EN
+Islam,is the religion of,Afghanistan	Afghanistan,believes in,Islam	True	EN
+Scott,had reached,the south pole	Scott,reached,the south pole	True	EN
+Shakespeare,created,King Lear	Shakespeare,wrote,King Lear	True	EN
+Hamlet,was written by,Shakespeare	Shakespeare,wrote,Hamlet	True	EN
+The anniversary,is celebrated in,Britain	Britain,celebrated,the anniversary	True	EN
+Queensland,is part of,Australia	Queensland,occupies the part of,Australia	True	EN
+Hamlet,was written by,a commercial dramatist	A commercial dramatist,wrote,Hamlet	True	EN
+Application,kills,infections	This infection,responds well to,application	True	EN
+The winners,were presented with,Medals	The winners,was awarded,a medal	True	EN
+Bacitracin,is indicated in the treatment of,infections	Bacitracin,kills,infections	True	EN
+Whiskey,consists chiefly of,Alcohol	Whiskey,contains,Alcohol	False	EN
+Vancomycin,kills,infections	Infections,have been successfully treated with,Vancomycin	True	EN
+A modern leather,has been applied to,the clothing	A modern leather,is used in,Clothing	True	EN
+Artisans,makes,Furniture	Furniture,was produced by,Artisans	True	EN
+Rice,is brought from,Burma	Burma,exports,Rice	True	EN
+Testosterone,generates,Aggression	Testosterone,causes,Aggression	True	EN
+Representatives,interprets,Laws	The laws,are discussed by,Representatives	False	EN
+Rivera,resided in,Paris	Rivera,had lived in,Paris	True	EN
+Pyrrhus,was beaten by,the romans	Pyrrhus,fought,the romans	False	EN
+The deadly nightshade,is consumed by,Rabbits	Rabbits,have been fed on,the deadly nightshade	True	EN
+Oats,is consumed by,Rabbits	Rabbits,may be fed with,Oats	True	EN
+Colorado Springs,is packed with,Tourists	Colorado Springs,attracts numbers of,Tourists	False	EN
+Yellow fever,could be transmitted by,mosquitoes	Yellow fever,is transferred by,mosquitoes	True	EN
+Rye,is grown for,Bread	Rye,is used to make,Bread	False	EN
+The medal,is awarded annually to,the artist	The artist,was awarded,a medal	False	EN
+Hogs,eats,Corn	Corn,is fed to,hogs	True	EN
+Infections,have been successfully treated with,Vancomycin	Vancomycin,kills,infections	True	EN
+Rousseau,is associated with,Communism	Rousseau,is connected with,Communism	True	EN
+Testosterone,causes,Aggression	Testosterone,generates,Aggression	True	EN
+Wool,is used in,Clothing	Wool,is converted into,Clothing	True	EN
+Gates,founded,Microsoft	Gates,started,Microsoft	True	EN
+The anniversary,is celebrated in,America	America,will celebrate,the anniversary	True	EN
+Roosevelt,was president during,the great depression	Roosevelt,led through,the great depression	True	EN
+Lyme disease,starts with,a rash	Lyme disease,can cause,a rash	False	EN
+Bill Gates,founded,Microsoft	Microsoft,was founded by,Bill Gates	True	EN
+The athanasius,was seated on the throne of,Egypt	The athanasius,was worshiped in,Egypt	False	EN
+James Madison,was the architect of,The Constitution	James Madison,drafted,The Constitution	True	EN
+Cacao beans,is used to make,Chocolate	Chocolate,is made from,cacao beans	True	EN
+The jew,is associated with,capitalism	The jew,embodied,capitalism	True	EN
+China,is bordered by,Mongolia	Mongolia,is a neighbor of,China	True	EN
+Bill Gates,started,Microsoft	Bill Gates,founded,Microsoft	True	EN
+Rabies,was due to,an virus	Rabies,is caused by,a virus	True	EN
+A dramatist,wrote,Hamlet	Hamlet,was written by,a dramatist	True	EN
+Copernicus,was a native of,Poland	Copernicus,was born in,Poland	False	EN
+Sore throats,are contracted from,bacteria	Sore throats,is caused by,bacteria	True	EN
+England,produces,Cheese	Cheese,is manufactured in,England	True	EN
+Coats,was worn in,Rome	Coats,are worn at,Rome	True	EN
+That progesterone,facilitates,ovulation	That progesterone,causes,ovulation	True	EN
+Sore throats,is caused by,bacteria	Sore throats,are the result of,bacteria	True	EN
+Lincoln,was murdered by,a lunatic	A lunatic,assassinated,Lincoln	True	EN
+Cliffs,is common to,New Zealand	New Zealand,is a land of,Cliffs	True	EN
+Britain,celebrated,the anniversary	The anniversary,is celebrated in,Britain	True	EN
+Nigeria,is the giant of,Africa	Nigeria,is the largest in,Africa	True	EN
+Pharyngitis,is caused by,a virus	Pharyngitis,is usually caused by,viruses	True	EN
+Nitrogen,is found in,The Air	The Air,is made up of,Nitrogen	True	EN
+President Johnson,assassinated,Lincoln	President Johnson,was the assassin of,Lincoln	True	EN
+Papules,can cause,a rash	The rash,begins as,papules	True	EN
+Islam,was introduced into,India	India,believes in,Islam	True	EN
+Griseofulvin,kills,infections	Griseofulvin,is effective for,infections	True	EN
+Pyelonephritis,requires,Antibiotics	Pyelonephritis,should be treated with,Antibiotics	False	EN
+Thailand,is the exporter of,Rice	Thailand,exports,Rice	False	EN
+Joseph,was awarded,a medal	Joseph,had been awarded,a medal	True	EN
+That commonwealth,promotes,Peace	That commonwealth,sought to promote,Peace	False	EN
+The early christians,practiced,Communism	The early christians,is associated with,Communism	True	EN
+Hummingbirds,also eat,Insects	Hummingbirds,eats,Insects	True	EN
+Secondary syphilis,is characterized by,a rash	Secondary syphilis,can cause,a rash	True	EN
+Roosevelt,led through,the great depression	Roosevelt,was president during,the great depression	True	EN
+Ephedrine,is widely used in,Medicine	Ephedrine,is used in,Medicine	False	EN
+Chocolate,also contains,Caffeine	Chocolate,contains,Caffeine	True	EN
+The north pole,was reached by,Peary	Peary,reached,the north pole	True	EN
+Britain,is separated by,the english channel	The english channel,surrounds,Britain	True	EN
+The deer,nibbled at,the crops	The deer,eats,Crops	False	EN
+The ocean,is common to,all mankind	All mankind,lives in,the ocean	True	EN
+Nigeria,was the supplier of,Oil	Nigeria,exports,Oil	True	EN
+Epidemic typhus,is transferred by,lice	Epidemic typhus,is transmitted by,lice	True	EN
+The leprosy,decimated,Europe	The leprosy,prevailed extensively in,Europe	False	EN
+Erythromycin,is effective for,infections	Erythromycin,kills,infections	True	EN
+Corn,was fed to,hogs	Hogs,eats,Corn	False	EN
+Another officer,has flown to,the north pole	Another officer,reached,the north pole	False	EN
+Typhus fever,is bred in,The Air	Typhus fever,is transmitted by,Air	False	EN
+Stalin,was the leader of,the soviet union	Stalin,had ruled,the soviet union	True	EN
+Viruses,have been shown to cause,Leukemia	Leukemia,is caused by,a virus	True	EN
+The laws,have been approved by,The Secretary	The Secretary,interprets,Laws	False	EN
+Islam,is the religion of,Malaysia	Malaysia,believes in,Islam	False	EN
+A form,is common to,America	A form,is found in,America	False	EN
+Coleridge,was awarded,a medal	Coleridge,had been awarded,the medal	True	EN
+China,believes in,Islam	Islam,entered,China	False	EN
+Debussy,was born and died in,Paris	Debussy,resided in,Paris	False	EN
+Epidemic typhus,is transmitted by,lice	Epidemic typhus,is transferred by,lice	True	EN
+Gonorrhea,can be cured with,Antibiotics	Gonorrhea,requires,Antibiotics	True	EN
+The iliad,is the work of,a poet	A poet,wrote,the iliad	True	EN
+Astrocytes,proliferate to form,tissue	Astrocytes,rebuilds,tissue	True	EN
+The rash,begins as,papules	Papules,can cause,a rash	True	EN
+Mahler,composed,a symphony	Mahler,completed,symphonies	True	EN
+A cereal,is used also for,Bread	A cereal,is used to make,Bread	True	EN
+Iraq,is rich in,Oil	Iraq,is abundant with,Oil	True	EN
+Haydn,wrote a set of,symphonies	Haydn,composed,a symphony	False	EN
+Jefferson,was born in,Virginia	Jefferson,was a native of,Virginia	True	EN
+The ancient madness,devastated,America	The ancient madness,decimated,the americas	True	EN
+The nazis,were bombing,Brussels	Brussels,was bombed by,the nazis	True	EN
+France,celebrated,the fiftieth anniversary	The fiftieth anniversary,is commemorated in,France	True	EN
+Typhus,is carried by,lice	Typhus,is transferred by,lice	True	EN
+The virus,will induce,leukaemia	Leukaemia,is caused by,a virus	True	EN
+The heavenly artisans,prepared to make,the clothes	The heavenly artisans,makes,Clothes	False	EN
+Wagner,was the composer of,Opera	Wagner,composed,an opera	True	EN
+Schumann,played,the piano	Schumann,played on,the piano	True	EN
+Griseofulvin,kills,infections	Griseofulvin,is indicated in the treatment of,infections	True	EN
+Many intellectuals,have been drawn to,Communism	Many intellectuals,is associated with,Communism	True	EN
+Carcinoma,requires,Chemotherapy	Chemotherapy,is the treatment for,carcinoma	True	EN
+Russia,expanded to,The Pacific	The Pacific,borders,Russia	False	EN
+Davy Crockett,was killed at,the alamo	Davy Crockett,died at,the alamo	True	EN
+Thomas Edison,created,the light bulb	The light bulb,was invented by,Thomas Edison	True	EN
+Gates,started,Microsoft	Gates,founded,Microsoft	True	EN
+Galileo,was imprisoned by,The Church	Galileo,was persecuted by,The Church	False	EN
+Bill Gates,founded,Microsoft	Bill Gates,started,Microsoft	True	EN
+Anthelmintic,indicated for the treatment of,infections	Anthelmintic,kills,infections	True	EN
+Rabies,is due to,a virus	Rabies,is caused by,a virus	True	EN
+The common cold,is caused by,a virus	The common cold,is caused by one of,viruses	True	EN
+Smith,attempted to establish,Communism	Smith,is associated with,Communism	False	EN
+Corticosteroids,may relieve,Pain	Corticosteroids,inhibits,Pain	True	EN
+The cholera,is transmitted by,Air	The cholera,was conveyed in,The Air	False	EN
+Lymphoma,requires,Chemotherapy	Lymphoma,should be treated with,Chemotherapy	False	EN
+Plato,advocates,Communism	Plato,is associated with,Communism	False	EN
+Geysers,is common to,New Zealand	Geysers,are found in,New Zealand	False	EN
+Cubism,was started by,Picasso	Picasso,developed,cubism	False	EN
+Edward Vi,succeeds,Henry Viii	Edward Vi,ruled after,Henry Viii	True	EN
+Aseptic meningitis,can cause,a rash	The rash,may be associated with,aseptic meningitis	True	EN
+Sulfonamides,kills,infections	Infections,respond to treatment with,sulfonamides	True	EN
+The young birds,are fed with,Insects	The young birds,eats,Insects	False	EN
+The beet,is used as a source of,Alcohol	The beet,is used to make,Alcohol	True	EN
+Babylon,was the city of,marduk	Marduk,was worshiped in,Babylon	False	EN
+Cystitis,is caused by,bacteria	Bacteria,are the cause of,Cystitis	True	EN
+The rash,was due to,rubella	Rubella,can cause,a rash	False	EN
+Chemotherapy,is the treatment for,lymphoma	Lymphoma,requires,Chemotherapy	True	EN
+Nelson,was killed at the battle of,Trafalgar	Nelson,died at,Trafalgar	False	EN
+Leonidas,repulsed,the persians	Leonidas,fought,the persians	False	EN
+Bushnell,is the governor of,Florida	Bushnell,ruling in,Florida	False	EN
+This brahms,composed,a symphony	This brahms,had worked upon,a symphony	False	EN
+Scotland,produces,Cheese	Cheese,was produced in,Scotland	True	EN
+Cattle,eats,Crops	Crops,are fed to,Cattle	True	EN
+The praying mantis,devours in,Insects	The praying mantis,eats,Insects	True	EN
+The coal,came from,England	England,exports,Coal	True	EN
+Amundsen,had reached,the south pole	Amundsen,reached,the south pole	True	EN
+Polk,made peace with,Britain	Polk,negotiated with,Britain	False	EN
+France,had declared war on,Germany	France,declared war on,Germany	True	EN
+Proudhon,indicts,capitalism	Proudhon,is associated with,capitalism	False	EN
+Respighi,has composed,Operas	Respighi,composed,an opera	False	EN
+Cook,had reached,the north pole	Cook,reached,the north pole	True	EN
+The proprietor,was commemorated by,a medal	The proprietor,was awarded,a medal	True	EN
+The fearful plague,decimated,Europe	The fearful plague,broke over,Europe	True	EN
+Rabbits,have been fed on,the deadly nightshade	The deadly nightshade,is consumed by,Rabbits	True	EN
+France,declared war on,Germany	France,had declared war on,Germany	True	EN
+The cardiac glycosides,is used in,Medicine	The cardiac glycosides,are of importance in,Medicine	True	EN
+Cattle,need,Hay	Cattle,eats,Hay	True	EN
+The vine,is used to make,Wine	Wine,comes from,the vine	True	EN
+Headaches,may occur with,Pneumonia	Pneumonia,can cause,a headache	True	EN
+The lion,will eat,Hay	The lion,eats,Hay	True	EN
+Calcium phosphate,is essential for,Bones	Calcium phosphate,is the constituent of,the bones	True	EN
+Mithridates,fought,the romans	Mithridates,set upon,the romans	True	EN
+Helium,is found in,The Air	Helium,also occurs in,The Air	True	EN
+Habits,was worn in,Rome	Habits,adopted by,Rome	True	EN
+Tobacco,is used in,Medicine	Tobacco,is used to a extent in,Medicine	True	EN
+Leather,has been used for,Clothing	Leather,is used in,Clothing	True	EN
+Amon,became the god of,Egypt	Amon,was worshiped in,Egypt	False	EN
+The mediterranean,borders,Cyprus	Cyprus,is the island in,the mediterranean	True	EN
+South Australia,is part of,Australia	South Australia,is a state in,Australia	True	EN
+Aids,is spread through,Sex	Aids,is transmitted by,Sex	True	EN
+Scarlet fever,is transmitted by,Air	Scarlet fever,may pass through,The Air	True	EN
+Horses,need,Hay	Horses,eats,Hay	True	EN
+Meningitis,can be caused by,bacteria	Meningitis,is caused by,bacteria	True	EN
+Galileo,was persecuted by,The Church	Galileo,was condemned by,The Church	False	EN
+The cattle,must eat,Hay	The cattle,eats,Hay	False	EN
+Sore throats,is caused by,bacteria	Sore throats,are contracted from,bacteria	True	EN
+Athena,was the goddess of,Athens	Athena,was worshiped in,Athens	False	EN
+Glaciers,is common to,Norway	Glaciers,are found in,Norway	False	EN
+Castro,moved toward,Communism	Castro,is associated with,Communism	True	EN
+Truman,decided to send,Troops	Truman,committed,Troops	True	EN

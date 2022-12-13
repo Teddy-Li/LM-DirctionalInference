@@ -1,0 +1,200 @@
+Canada is closing to Japan,,	Japan is Canada,,	False	EN
+England is taking from United States of America,,	United States of America is preparing for war with England,,	False	EN
+Google is trailing Democratic Party,,	Democratic Party is surpassing Google,,	True	EN
+Mexico is establishing with United States of America,,	Mexico is being at war with United States of America,,	False	EN
+Osama bin Laden is leaving United States of America,,	Osama bin Laden is ruling United States of America,,	False	EN
+John F. Kennedy is elected to be President of United States of America,,	United States of America is electing John F. Kennedy,,	True	EN
+United States of America is being like Roman Catholic Church,,	Roman Catholic Church is preferring United States of America,,	False	EN
+Scott Brown is winning over John Edwards,,	Scott Brown is holding lead over John Edwards,,	True	EN
+John McCain is blaming George W. Bush,,	John McCain is holding lead over George W. Bush,,	False	EN
+John McCain has advantage over John McCain,,	John McCain is trailing John McCain,,	True	EN
+Boeing is overtaking Airbus,,	Airbus has advantage over Boeing,,	False	EN
+India is one of market in Latin America,,	India has population in Latin America,,	False	EN
+Democratic Party is getting in Washington, D.C.,,	Democratic Party is dominating Washington, D.C.,,	False	EN
+Boeing is holding Airbus,,	Airbus has advantage over Boeing,,	False	EN
+John McCain is beating John McCain,,	John McCain is chastising John McCain,,	False	EN
+United States of America is referring to India,,	India is gaining on United States of America,,	False	EN
+Republican Party is taking Republican Party,,	Republican Party is conceding to Republican Party,,	False	EN
+John McCain is telling in Iowa,,	John McCain is making in Iowa,,	False	EN
+Democratic Party is supporting Republican Party,,	Democratic Party is outpacing Republican Party,,	False	EN
+California Department of Transportation is submitting to United States Congress,,	California Department of Transportation is informing United States Congress,,	False	EN
+Germany is telling in Washington, D.C.,,	Germany is raising in Washington, D.C.,,	False	EN
+Russia is offering to United States of America,,	Russia is pointing at United States of America,,	False	EN
+Israel Defense Forces is warning Iraq,,	Israel Defense Forces is bombing Iraq,,	False	EN
+Boston Celtics is losing to Democratic Party,,	Democratic Party is having edge over Boston Celtics,,	True	EN
+Dublin is Angola,,	Dublin is heart of Angola,,	True	EN
+United States of America is offering to Japan,,	United States of America is shipping to Japan,,	False	EN
+United Kingdom is having in Washington, D.C.,,	United Kingdom is working in Washington, D.C.,,	False	EN
+Russia is extending to North Korea,,	North Korea is dependent on Russia,,	False	EN
+China is using against Iran,,	Iran is trusting China,,	False	EN
+Iran is going to war against England,,	England is being invaded by Iran,,	True	EN
+North Korea is killing in Russia,,	North Korea is threat to Russia,,	False	EN
+Germany is ally with China,,	Germany is regarding China,,	False	EN
+Russia is having Africa,,	Russia is conducting in Africa,,	False	EN
+Republican Party is having Republican Party,,	Republican Party is conceding to Republican Party,,	False	EN
+Poland is bordered by Iraq,,	Iraq launches invasion of Poland,,	False	EN
+United States of America is starting in Chicago,,	United States of America tries Chicago,,	False	EN
+India is facing Iran,,	India is dealing with Iran,,	True	EN
+Jimmy Carter is giving Chicago Bulls,,	Chicago Bulls is winning over Jimmy Carter,,	False	EN
+Benedict Cumberbatch is portraying Edward Cullen,,	Edward Cullen is being played by Benedict Cumberbatch,,	True	EN
+George W. Bush is getting Intel Corporation,,	Intel Corporation is following George W. Bush,,	False	EN
+George W. Bush is taking on Republican Party,,	Republican Party is bashing George W. Bush,,	False	EN
+Mitt Romney is having lead over Newt Gingrich,,	Newt Gingrich is conceding to Mitt Romney,,	True	EN
+India poses to India,,	India is improving with India,,	False	EN
+United Kingdom is bombing England,,	England is leaving to United Kingdom,,	False	EN
+England national rugby union team is beating Denver Broncos,,	England national rugby union team is playing against Denver Broncos,,	False	EN
+Ehud Olmert is meeting George W. Bush,,	George W. Bush is praising Ehud Olmert,,	False	EN
+Democratic Party is surpassing Dell,,	Dell is competitive with Democratic Party,,	False	EN
+John McCain is blaming Carly Fiorina,,	John McCain is having lead over Carly Fiorina,,	False	EN
+Russia is having Joseph Stalin,,	Joseph Stalin is taking control of Russia,,	False	EN
+United States of America is annexing Tibet,,	United States of America is governing Tibet,,	False	EN
+Harry Reid is accusing Sharron Angle,,	Harry Reid wins race against Sharron Angle,,	False	EN
+New York Mets is taking on Philadelphia Phillies,,	New York Mets is tying Philadelphia Phillies,,	False	EN
+United States of America is making to United States Congress,,	United States Congress is stopping United States of America,,	False	EN
+Adobe Systems announces At gamescom,,	Adobe Systems is announcing at gamescom,,	True	EN
+Republican Party is using Democratic Party,,	Democratic Party has advantage over Republican Party,,	False	EN
+Norm Coleman is beating Rick Perry,,	Norm Coleman wins race against Rick Perry,,	True	EN
+Russia is fighting Germany,,	Germany is handing to Russia,,	False	EN
+Barack Obama is coming to Australia,,	Barack Obama is spending in Australia,,	True	EN
+Japan is killing in North Korea,,	Japan is suffering in North Korea,,	False	EN
+Germany is transferring to Russia,,	Germany outnumbers Russia,,	False	EN
+William Shatner is playing James T. Kirk,,	William Shatner is returning to role of James T. Kirk,,	True	EN
+United States of America is looking to Mexico,,	United States of America is being attacked by Mexico,,	False	EN
+Germany is different from Japan,,	Japan is signing treaty with Germany,,	False	EN
+National Institutes of Health is working with National Oceanic and Atmospheric Administration,,	National Oceanic and Atmospheric Administration is continuing to work with National Institutes of Health,,	True	EN
+CBS Corporation is purchasing DoubleClick,,	DoubleClick is subsidiary of CBS Corporation,,	False	EN
+United States Congress is turning to Republican Party,,	United States Congress is agreeing with Republican Party,,	False	EN
+United States of America is having Palestinian National Authority,,	United States of America is in control of Palestinian National Authority,,	True	EN
+India is sending to Liberia,,	India is playing role in Liberia,,	False	EN
+Rick Santorum is accusing John McCain,,	John McCain is leading with % followed by Rick Santorum,,	False	EN
+Rick Santorum is urging Republican Party,,	Rick Santorum is blasting Republican Party,,	False	EN
+Andre Iguodala is scoring to lead Philadelphia 76ers,,	Andre Iguodala adds for Philadelphia 76ers,,	False	EN
+Germany is remaining in Côte d’Ivoire,,	Germany is occupying Côte d’Ivoire,,	True	EN
+United Kingdom is attacking Saddam Hussein,,	United Kingdom is complaining about Saddam Hussein,,	True	EN
+Delta Air Lines agrees to buy Motorola,,	Delta Air Lines completes acquisition of Motorola,,	True	EN
+Tom Daschle is facing Rob Portman,,	Rob Portman is criticizing Tom Daschle,,	False	EN
+North Korea is having a Russia,,	North Korea is dependent on Russia,,	False	EN
+United States of America is recognizing Canada,,	Canada hates United States of America,,	False	EN
+Japan has agreement with France,,	France is ally with Japan,,	True	EN
+Sri Lanka is importing from United States of America,,	United States of America is Sri Lanka,,	True	EN
+Ilokano language is being spoken in Mandatory Palestine,,	Ilokano language is language in Mandatory Palestine,,	True	EN
+Costa Rica is market in Central America,,	Costa Rica is country in Central America,,	False	EN
+Republican Party is trailing Democratic Party,,	Democratic Party is holding advantage over Republican Party,,	True	EN
+Japan is withdrawing from North Korea,,	Japan is taking control of North Korea,,	False	EN
+Mohammad Khatami is United States of America,,	United States of America is voting for Mohammad Khatami,,	False	EN
+Russia is sending to United States of America,,	Russia is conducting in United States of America,,	False	EN
+Iran is Turkey,,	Iran is aiding Turkey,,	True	EN
+Democratic Party is winning in Afghanistan,,	Democratic Party is losing in Afghanistan,,	False	EN
+Nokia is going after Apple Inc.,,	Nokia is crushing Apple Inc.,,	True	EN
+Japan is being at war with Palestinian people,,	Japan hates Palestinian people,,	False	EN
+Advanced Micro Devices is giving John McCain,,	Advanced Micro Devices has advantage over John McCain,,	False	EN
+Opera Software is releasing MS-DOS,,	Opera Software is launching version of MS-DOS,,	True	EN
+Google completes acquisition of Vudu,,	Google announces that something acquires Vudu,,	False	EN
+United States of America is colonizing Myanmar,,	United States of America is conquering Myanmar,,	False	EN
+United States of America is assisting Ethiopia,,	Ethiopia is ally with United States of America,,	True	EN
+David Petraeus is blaming Rick Perry,,	David Petraeus is challenging Rick Perry,,	False	EN
+George W. Bush is signing agreement with Gaza Strip,,	George W. Bush is launching attack on Gaza Strip,,	False	EN
+Ilokano language is one of language of Mandatory Palestine,,	Ilokano language is language in Mandatory Palestine,,	True	EN
+Peyton Manning is playing for Los Angeles Clippers,,	Peyton Manning is signing with Los Angeles Clippers,,	True	EN
+Republican Party is getting Google,,	Republican Party is having edge over Google,,	False	EN
+Democratic Party is having Hewlett-Packard,,	Democratic Party is needing Hewlett-Packard,,	False	EN
+Poland is turning to Germany,,	Poland is expelling Germany,,	False	EN
+Vanderbilt University is university located in New Haven,,	New Haven is home to Vanderbilt University,,	True	EN
+United States of America is keeping Italy,,	United States of America is losing Italy,,	False	EN
+Chongqing is one of Japan,,	Chongqing is one of Japan,,	True	EN
+New York Yankees is beating Boston Red Sox,,	New York Yankees is completing sweep of Boston Red Sox,,	True	EN
+Google is taking on Manchester City F.C.,,	Google is trailing Manchester City F.C.,,	False	EN
+United States of America is benefiting from Russia,,	Russia is threat to United States of America,,	False	EN
+Spain is attacking Austria,,	Austria seizes from Spain,,	False	EN
+India is ally in United States of America,,	India is partner in United States of America,,	True	EN
+Israel is preparing for war with Russia,,	Israel is going to war with Russia,,	True	EN
+Airbus is joining with Boeing,,	Airbus has advantage over Boeing,,	False	EN
+South Sudan is fighting war against United States of America,,	United States of America is being at war with South Sudan,,	True	EN
+General Motors is holding Yahoo!,,	General Motors is outpacing Yahoo!,,	False	EN
+Russia is withdrawing from North Korea,,	North Korea is dependent on Russia,,	False	EN
+Rob Ford is winning over Barack Obama,,	Barack Obama is gaining on Rob Ford,,	True	EN
+Belgium is controlling Rwanda,,	Belgium is ruling Rwanda,,	True	EN
+Republican Party is taking from John McCain,,	John McCain is trouncing Republican Party,,	False	EN
+Switzerland is country located in Middle East,,	Switzerland is one of country in Middle East,,	True	EN
+Hillary Rodham Clinton is backing Winston Churchill,,	Hillary Rodham Clinton is assuring Winston Churchill,,	False	EN
+John McCain is trouncing John McCain,,	John McCain is mocking John McCain,,	False	EN
+General Motors is competing with Walmart,,	Walmart is overtaking General Motors,,	True	EN
+Myanmar is gaining from South Africa,,	South Africa is annexing Myanmar,,	False	EN
+Ilokano language is language of Mandatory Palestine,,	Ilokano language is language in Mandatory Palestine,,	True	EN
+Brett Favre is leading Barack Obama,,	Barack Obama is offering Brett Favre,,	False	EN
+Democratic Party is passing George W. Bush,,	Democratic Party is acting like George W. Bush,,	False	EN
+Barack Obama is elected President of United States of America,,	Barack Obama is United States of America,,	True	EN
+George W. Bush is using against Iraq,,	George W. Bush is committing in Iraq,,	False	EN
+Mitt Romney is getting Democratic Party,,	Mitt Romney is campaigning for Democratic Party,,	False	EN
+United States of America is taking in Iraq,,	United States of America is controlling Iraq,,	True	EN
+Alaska is belonging to United States of America,,	Alaska is ceded to United States of America,,	True	EN
+Japan has agreement with Germany,,	Japan is signing treaty with Germany,,	True	EN
+United Kingdom is taking in Iraq,,	United Kingdom is taking control of Iraq,,	False	EN
+Alaska is being occupied by United States of America,,	Alaska is ceded to United States of America,,	True	EN
+Japan is supplier to Saudi Arabia,,	Japan is dependent on Saudi Arabia,,	False	EN
+Russia is occupying Lebanon,,	Lebanon is being invaded by Russia,,	True	EN
+Japan is being at war with Israel,,	Japan is war against Israel,,	True	EN
+Google is releasing version of Android,,	Google is releasing update for Android,,	True	EN
+Ralph Nader is debating Walter Mondale,,	Ralph Nader is running against Walter Mondale,,	False	EN
+Henry Kissinger is receiving Nobel Peace Prize,,	Nobel Peace Prize is being awarded to Henry Kissinger,,	True	EN
+United States of America is wanting in Mexico,,	United States of America is having interest in Mexico,,	True	EN
+Adelaide is capitol of Victoria,,	Adelaide is Victoria,,	True	EN
+North Korea is seeing Japan,,	North Korea is hostile to Japan,,	False	EN
+Alaska is bordering Rwanda,,	Alaska is having border with Rwanda,,	True	EN
+Yahoo! is giving Democratic Party,,	Democratic Party is stealing from Yahoo!,,	False	EN
+Iran is helping England,,	England is fighting with Iran,,	False	EN
+Bjørn Lomborg is blaming George W. Bush,,	Bjørn Lomborg is talking about George W. Bush,,	False	EN
+Poland is being occupied by Iraq,,	Iraq launches invasion of Poland,,	True	EN
+Republican Party is joining with Democratic Party,,	Democratic Party is outpacing Republican Party,,	False	EN
+Brazil is competing with United States of America,,	United States of America is country followed by Brazil,,	False	EN
+Nigeria is leader of Canada,,	Nigeria is enjoying in Canada,,	False	EN
+Liverpool F.C. is winning National League West,,	Liverpool F.C. is third in National League West,,	False	EN
+United States Congress is forcing United States of America,,	United States Congress is stopping United States of America,,	True	EN
+Saudi Arabia is helping United States of America,,	United States of America is seeking from Saudi Arabia,,	False	EN
+United States of America is wanting United Kingdom,,	United States of America is planning invasion of United Kingdom,,	True	EN
+John McCain is holding Republican Party,,	John McCain is trouncing Republican Party,,	False	EN
+Chicago Bulls is taking on Jimmy Carter,,	Chicago Bulls is winning over Jimmy Carter,,	True	EN
+Newt Gingrich is blaming China,,	China is firing at Newt Gingrich,,	False	EN
+Syria is getting into Iran,,	Syria is turning on Iran,,	False	EN
+Apple Inc. is announcing for PlayStation 2,,	Apple Inc. is releasing for PlayStation 2,,	True	EN
+New York City is one of destination in Western Australia,,	New York City is Western Australia,,	True	EN
+Russia is firing at Israel,,	Israel is going to war with Russia,,	False	EN
+Spain is ceding to Germany,,	Germany is displacing Spain,,	False	EN
+Bill Clinton is President of George W. Bush,,	Bill Clinton is warning George W. Bush,,	False	EN
+Lebanon is provoking Japan,,	Japan is murdering Lebanon,,	False	EN
+Mitt Romney is leading in California,,	Mitt Romney is holding lead in California,,	True	EN
+Russia is providing to Germany,,	Germany is handing to Russia,,	False	EN
+Nicodemus is attacking Jesus Christ,,	Jesus Christ is trusting Nicodemus,,	False	EN
+Saddam Hussein is ally of India,,	Saddam Hussein is offering India,,	False	EN
+Germany is going into Russia,,	Russia is being attacked by Germany,,	False	EN
+Mexico is going into United States of America,,	United States of America is being attacked by Mexico,,	False	EN
+Germany is entering Iraq,,	Germany is launching attack on Iraq,,	False	EN
+World Trade Organization is holding in California,,	World Trade Organization is holding California,,	True	EN
+Carthage is carrying in Spain,,	Carthage is fighting in Spain,,	False	EN
+St. Louis Cardinals is having Andrew Bynum,,	St. Louis Cardinals is offering Andrew Bynum,,	False	EN
+Japan is supporting India,,	India is seeking from Japan,,	False	EN
+Cuba is supporting United States of America,,	United States of America is breaking with Cuba,,	False	EN
+Israel launches attack against Russia,,	Israel is going to war with Russia,,	True	EN
+United States Congress is putting on United States of America,,	United States Congress is stopping United States of America,,	False	EN
+Republican Party is following John McCain,,	John McCain is trouncing Republican Party,,	False	EN
+Spain is coming to Brazil,,	Spain is ruling Brazil,,	False	EN
+United States of America is targeting United Kingdom,,	United States of America is being supported by United Kingdom,,	False	EN
+Sun Yat-sen is marrying Rachel,,	Rachel is wife of Sun Yat-sen,,	True	EN
+John McCain is leading Apple Inc.,,	John McCain is defining Apple Inc.,,	False	EN
+Netherlands is fighting with North Korea,,	Netherlands is going to war with North Korea,,	True	EN
+William Lane Craig is professor at University of Chicago,,	William Lane Craig is Professor at University of Chicago,,	True	EN
+Japan is second to Germany,,	Japan is signing treaty with Germany,,	False	EN
+Germany is going to war with Russia,,	Russia seizes from Germany,,	False	EN
+Fox News Channel is joining with George W. Bush,,	George W. Bush is needing Fox News Channel,,	False	EN
+White House is taking in Iraq,,	White House is failing in Iraq,,	False	EN
+United States of America is backing John McCain,,	John McCain is engaging United States of America,,	False	EN
+United States of America is envoy to Pakistan,,	United States of America is being involved in Pakistan,,	False	EN
+Canonical Ltd. is announcing release of Mac OS X Snow Leopard,,	Canonical Ltd. is announcing availability of Mac OS X Snow Leopard,,	True	EN
+Nokia is getting Apple Inc.,,	Nokia is crushing Apple Inc.,,	False	EN
+United States of America is being like Russia,,	Russia is dependent on United States of America,,	False	EN
+Jimmy Carter is winning over Paul Hodes,,	Paul Hodes is trailing Jimmy Carter,,	True	EN
+Democratic Party is blowing Republican Party,,	Democratic Party is outpacing Republican Party,,	True	EN
+John McCain is trailing Advanced Micro Devices,,	Advanced Micro Devices has advantage over John McCain,,	True	EN
+Google has advantage over Manchester City F.C.,,	Google is trailing Manchester City F.C.,,	False	EN
+George W. Bush is taking on New England Patriots,,	George W. Bush is edging New England Patriots,,	False	EN
+William J. Brennan, Jr. is challenging Democratic Party,,	William J. Brennan, Jr. is chastising Democratic Party,,	False	EN

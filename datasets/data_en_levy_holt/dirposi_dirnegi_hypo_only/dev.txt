@@ -1,0 +1,128 @@
+Ephedrine,is used in,Medicine	true,,	True	EN
+Ephedrine,is widely used in,Medicine	true,,	False	EN
+Geologists,interprets,Laws	true,,	False	EN
+Geologists,began to study,the laws	true,,	True	EN
+Amon,was worshiped in,Egypt	true,,	True	EN
+Amon,became the god of,Egypt	true,,	False	EN
+That great commonwealth,promotes,Peace	true,,	False	EN
+That great commonwealth,sought to promote,Peace	true,,	True	EN
+Plato,is associated with,Communism	true,,	True	EN
+Plato,advocates,Communism	true,,	False	EN
+Pyelonephritis,requires,Antibiotics	true,,	False	EN
+Pyelonephritis,should be treated with,Antibiotics	true,,	True	EN
+The artist,was awarded,a medal	true,,	True	EN
+The medal,is awarded annually to,the artist	true,,	False	EN
+Leonidas,fought,the persians	true,,	True	EN
+Leonidas,repulsed,the persians	true,,	False	EN
+Lyme disease,starts with,a rash	true,,	False	EN
+Lyme disease,can cause,a rash	true,,	True	EN
+Richards,became governor of,Texas	true,,	False	EN
+Richards,is a politician from,Texas	true,,	True	EN
+That commonwealth,sought to promote,Peace	true,,	True	EN
+That commonwealth,promotes,Peace	true,,	False	EN
+Athena,was worshiped in,Athens	true,,	True	EN
+Athena,was the goddess of,Athens	true,,	False	EN
+Singers,were singing on,Television	true,,	False	EN
+Singers,appeared on,Television	true,,	True	EN
+The young birds,are fed with,Insects	true,,	False	EN
+The young birds,eats,Insects	true,,	True	EN
+The Pacific,borders,Russia	true,,	True	EN
+Russia,expanded to,The Pacific	true,,	False	EN
+Whiskey,contains,Alcohol	true,,	True	EN
+Whiskey,consists chiefly of,Alcohol	true,,	False	EN
+Colorado Springs,is packed with,Tourists	true,,	False	EN
+Colorado Springs,attracts numbers of,Tourists	true,,	True	EN
+The deer,eats,Crops	true,,	True	EN
+The deer,nibbled at,the crops	true,,	False	EN
+The leprosy,prevailed extensively in,Europe	true,,	True	EN
+The leprosy,decimated,Europe	true,,	False	EN
+Babylon,was the city of,marduk	true,,	False	EN
+Marduk,was worshiped in,Babylon	true,,	True	EN
+Bruin,eats,Corn	true,,	True	EN
+Bruin,was fond of,Corn	true,,	False	EN
+Respighi,has composed,Operas	true,,	False	EN
+Respighi,composed,an opera	true,,	True	EN
+Smith,is associated with,Communism	true,,	True	EN
+Smith,attempted to establish,Communism	true,,	False	EN
+Beer,can be made from,Maize	true,,	True	EN
+Maize,is used to make,Beer	true,,	False	EN
+Galileo,was imprisoned by,The Church	true,,	False	EN
+Galileo,was persecuted by,The Church	true,,	True	EN
+Debussy,was born and died in,Paris	true,,	False	EN
+Debussy,resided in,Paris	true,,	True	EN
+The sun god,was worshiped in,Egypt	true,,	True	EN
+The sun god,ruled in,Egypt	true,,	False	EN
+Polk,negotiated with,Britain	true,,	True	EN
+Polk,made peace with,Britain	true,,	False	EN
+This enzyme,is essential for,blood cells	true,,	False	EN
+This enzyme,is found in,the blood cells	true,,	True	EN
+This brahms,had worked upon,a symphony	true,,	True	EN
+This brahms,composed,a symphony	true,,	False	EN
+Events,is common to,America	true,,	False	EN
+Events,had occurred in,America	true,,	True	EN
+Haydn,wrote a set of,symphonies	true,,	False	EN
+Haydn,composed,a symphony	true,,	True	EN
+Picasso,developed,cubism	true,,	True	EN
+Cubism,was started by,Picasso	true,,	False	EN
+Mandarin,is spoken in,China	true,,	True	EN
+Mandarin,is officially recognized in,China	true,,	False	EN
+The cholera,was conveyed in,The Air	true,,	True	EN
+The cholera,is transmitted by,Air	true,,	False	EN
+Mites,eats,Crops	true,,	True	EN
+Mites,are pests of,Crops	true,,	False	EN
+Glaciers,is common to,Norway	true,,	False	EN
+Glaciers,are found in,Norway	true,,	True	EN
+Proudhon,is associated with,capitalism	true,,	True	EN
+Proudhon,indicts,capitalism	true,,	False	EN
+Tasmania,is the state of,Australia	true,,	False	EN
+Tasmania,is part of,Australia	true,,	True	EN
+Galileo,was condemned by,The Church	true,,	True	EN
+Galileo,was persecuted by,The Church	true,,	False	EN
+Metronidazole,is the treatment for,infection	true,,	True	EN
+Metronidazole,kills,infections	true,,	False	EN
+Orpiment,is much used as,a medicine	true,,	False	EN
+Orpiment,is used in,Medicine	true,,	True	EN
+The rash,was due to,rubella	true,,	False	EN
+Rubella,can cause,a rash	true,,	True	EN
+The Secretary,interprets,Laws	true,,	True	EN
+The laws,have been approved by,The Secretary	true,,	False	EN
+Thailand,is the exporter of,Rice	true,,	False	EN
+Thailand,exports,Rice	true,,	True	EN
+Germany,declared and invaded,Belgium	true,,	False	EN
+Germany,declared war on,Belgium	true,,	True	EN
+Lymphoma,should be treated with,Chemotherapy	true,,	True	EN
+Lymphoma,requires,Chemotherapy	true,,	False	EN
+Typhus fever,is bred in,The Air	true,,	False	EN
+Typhus fever,is transmitted by,Air	true,,	True	EN
+Hogs,eats,Corn	true,,	True	EN
+Corn,was fed to,hogs	true,,	False	EN
+The bread,was a mixture of,Rye	true,,	False	EN
+Rye,is used to make,Bread	true,,	True	EN
+Representatives,interprets,Laws	true,,	False	EN
+The laws,are discussed by,Representatives	true,,	True	EN
+A form,is common to,America	true,,	False	EN
+A form,is found in,America	true,,	True	EN
+The athanasius,was worshiped in,Egypt	true,,	True	EN
+The athanasius,was seated on the throne of,Egypt	true,,	False	EN
+Geysers,is common to,New Zealand	true,,	False	EN
+Geysers,are found in,New Zealand	true,,	True	EN
+Nelson,died at,Trafalgar	true,,	True	EN
+Nelson,was killed at the battle of,Trafalgar	true,,	False	EN
+Another officer,has flown to,the north pole	true,,	False	EN
+Another officer,reached,the north pole	true,,	True	EN
+Islam,is the religion of,Malaysia	true,,	False	EN
+Malaysia,believes in,Islam	true,,	True	EN
+The heavenly artisans,prepared to make,the clothes	true,,	False	EN
+The heavenly artisans,makes,Clothes	true,,	True	EN
+The cattle,must eat,Hay	true,,	False	EN
+The cattle,eats,Hay	true,,	True	EN
+Copernicus,was born in,Poland	true,,	True	EN
+Copernicus,was a native of,Poland	true,,	False	EN
+Islam,entered,China	true,,	True	EN
+China,believes in,Islam	true,,	False	EN
+Pyrrhus,fought,the romans	true,,	True	EN
+Pyrrhus,was beaten by,the romans	true,,	False	EN
+Rye,is grown for,Bread	true,,	False	EN
+Rye,is used to make,Bread	true,,	True	EN
+Bushnell,is the governor of,Florida	true,,	False	EN
+Bushnell,ruling in,Florida	true,,	True	EN

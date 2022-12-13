@@ -1,0 +1,881 @@
+Hitler,was born in,Poland	true,,	False	EN
+Hamilton,appointed governor of,Texas	true,,	False	EN
+Explorer,founded,Microsoft	true,,	False	EN
+Kepler,was persecuted by,The Church	true,,	False	EN
+Sebastopol,was bombed by,the allies	true,,	False	EN
+Bret Harte,is the governor of,California	true,,	False	EN
+Bryan,is the governor of,California	true,,	False	EN
+A plague,decimated,the americas	true,,	False	EN
+Epicurus,interprets,Laws	true,,	False	EN
+Jupiter,can be seen from,the moon	true,,	False	EN
+That commonwealth,promotes,Peace	true,,	True	EN
+The fibroblasts,rebuilds,tissue	true,,	False	EN
+Irving,wrote,Hamlet	true,,	False	EN
+Bruce,owns,a taxi	true,,	False	EN
+George Mason,drafted,The Constitution	true,,	False	EN
+Georgia,shares a border with,Russia	true,,	False	EN
+Sparta,was bombed by,the allies	true,,	False	EN
+This cholinesterase,is essential for,blood cells	true,,	True	EN
+Chlorine,is found in,Water	true,,	False	EN
+Foreign tourists,was born in,Poland	true,,	False	EN
+Albert,ruled after,Victoria	true,,	False	EN
+Conrad,was born in,America	true,,	False	EN
+Progesterone,causes,ovulation	true,,	False	EN
+Arthur,made peace with,Japan	true,,	False	EN
+Widow,was the leader of,the soviet union	true,,	False	EN
+Republican cowards,drafted,The Constitution	true,,	False	EN
+The echoes,was worshiped in,Jerusalem	true,,	False	EN
+This officer,died at,Trafalgar	true,,	False	EN
+The barbarians,interprets,Laws	true,,	False	EN
+Lincoln,was born in,Ohio	true,,	False	EN
+The latin american,was president during,the cold war	true,,	False	EN
+Colorado Springs,is packed with,Tourists	true,,	True	EN
+The black writer,was born in,America	true,,	False	EN
+Hydrogen,is found in,The Air	true,,	False	EN
+Pius Xi,is associated with,Communism	true,,	False	EN
+All physicians,married,Julius Caesar	true,,	False	EN
+Lh,increases,your pulse	true,,	False	EN
+Major anderson,assassinated,Lincoln	true,,	False	EN
+General Mills,founded,Ibm	true,,	False	EN
+France,was born in,Poland	true,,	False	EN
+Douglas,assassinated,Lincoln	true,,	False	EN
+The oxen,eats,Corn	true,,	False	EN
+Holometabolous insects,eats,Insects	true,,	False	EN
+Proletarians,is associated with,Communism	true,,	False	EN
+The viewer,appeared on,Television	true,,	False	EN
+Mercury,can be seen from,the moon	true,,	False	EN
+Geysers,is common to,New Zealand	true,,	True	EN
+Matthew Arnold,was born in,America	true,,	False	EN
+Dryden,composed,an opera	true,,	False	EN
+Some marks,was awarded,a medal	true,,	False	EN
+John Adams,works in,Washington	true,,	False	EN
+The sun god,ruled in,Egypt	true,,	True	EN
+Costume,was worn in,Greece	true,,	False	EN
+Dust,is used in,Clothing	true,,	False	EN
+The banks,was persecuted by,The Church	true,,	False	EN
+Harper,is a politician from,New York	true,,	False	EN
+Polished iron,is found in,The Air	true,,	False	EN
+Sumner,was persecuted by,The Church	true,,	False	EN
+Erythrocytes,rebuilds,tissue	true,,	False	EN
+The practised intellect,interprets,Laws	true,,	False	EN
+A Party,is a politician from,Texas	true,,	False	EN
+President,assassinated,Jfk	true,,	False	EN
+Reagan,raised,Taxes	true,,	False	EN
+Amerigo Vespucci,was born in,America	true,,	False	EN
+The windward passage,surrounds,Britain	true,,	False	EN
+Mead,was persecuted by,The Church	true,,	False	EN
+Militiamen,works in,Washington	true,,	False	EN
+Schlesinger,composed,an opera	true,,	False	EN
+The Tramp,interprets,Laws	true,,	False	EN
+The histologist,rebuilds,tissue	true,,	False	EN
+June Bugs,eats,Bugs	true,,	False	EN
+Cubism,was started by,Picasso	true,,	True	EN
+The young bugs,eats,Insects	true,,	False	EN
+Ambassadors,interprets,Laws	true,,	False	EN
+The pony,lives in,The Sea	true,,	False	EN
+The water boatmen,eats,Bugs	true,,	False	EN
+Chopin,played,the piano	true,,	False	EN
+The independence,was bombed by,the allies	true,,	False	EN
+The invaders,died at,the alamo	true,,	False	EN
+A solid foundation,was worn in,Rome	true,,	False	EN
+Vienna,was bombed by,the nazis	true,,	False	EN
+A heedless lad,was born in,America	true,,	False	EN
+Alexander Hamilton,drafted,The Constitution	true,,	False	EN
+The burghers,was born in,Poland	true,,	False	EN
+These wonderful insects,eats,Insects	true,,	False	EN
+Jupiter,can be seen from,Earth	true,,	False	EN
+Gallus,was worn in,Rome	true,,	False	EN
+President taylor,is the governor of,California	true,,	False	EN
+A slave state,is bigger than,Texas	true,,	False	EN
+Ferrous iron,is found in,The Air	true,,	False	EN
+Stewart,is a politician from,Texas	true,,	False	EN
+The blight,decimated,the americas	true,,	False	EN
+The augusta,is bigger than,Delaware	true,,	False	EN
+This captain,is the governor of,California	true,,	False	EN
+Osteoblasts,rebuilds,tissue	true,,	False	EN
+The emperor,ruled after,Victoria	true,,	False	EN
+Herod,fought,the romans	true,,	False	EN
+Poor men,interprets,Laws	true,,	False	EN
+Malaysia,is a neighbor of,China	true,,	False	EN
+Salvador,is bigger than,Texas	true,,	False	EN
+Aluminium,is found in,Water	true,,	False	EN
+The lark,eats,Corn	true,,	False	EN
+Tobacco,kills,Cancer	true,,	False	EN
+Stalin,was born in,Poland	true,,	False	EN
+Pestilence,is transmitted by,Air	true,,	False	EN
+Carlos,is the governor of,California	true,,	False	EN
+Doxycycline,kills,infections	true,,	False	EN
+Frankfort,was bombed by,the allies	true,,	False	EN
+Walesa,was born in,Poland	true,,	False	EN
+Women,is the governor of,California	true,,	False	EN
+Salts,is essential for,Bones	true,,	False	EN
+Zinc,is found in,Water	true,,	False	EN
+Mack,was worn in,Rome	true,,	False	EN
+Du Bois,works in,Washington	true,,	False	EN
+The communists,was the leader of,the soviet union	true,,	False	EN
+Owen,was persecuted by,The Church	true,,	False	EN
+An adventurer,is a politician from,Texas	true,,	False	EN
+Liberia,is the largest in,Africa	true,,	False	EN
+An pathologist,rebuilds,tissue	true,,	False	EN
+The achomawi,is the governor of,California	true,,	False	EN
+Heretics,interprets,Laws	true,,	False	EN
+John Adams,is a politician from,Texas	true,,	False	EN
+Yellow fever,decimated,the americas	true,,	False	EN
+All other statesmen,assassinated,Lincoln	true,,	False	EN
+Servants,is a politician from,New York	true,,	False	EN
+Strong washerwomen,makes,Clothes	true,,	False	EN
+A subject,is the governor of,Florida	true,,	False	EN
+France,declared war on,Belgium	true,,	False	EN
+Truman,was awarded,a medal	true,,	False	EN
+Denmark,declared war on,Germany	true,,	False	EN
+Acacia,is used to make,Alcohol	true,,	False	EN
+Members,interprets,Laws	true,,	False	EN
+Wilson,now appears on,Television	true,,	False	EN
+The proprietor,was awarded,a medal	true,,	False	EN
+Muskmelons,prevents,Disease	true,,	False	EN
+General Lee,is the governor of,Florida	true,,	False	EN
+The wax,is used in,Clothing	true,,	False	EN
+Prajapati,controls,the sun	true,,	False	EN
+A human,eats,Bugs	true,,	False	EN
+Ethiopia,is the largest in,Africa	true,,	False	EN
+Carver,ruled after,Victoria	true,,	False	EN
+Magnesium,is found in,Water	true,,	False	EN
+A englishman,is a politician from,New York	true,,	False	EN
+The mormons,drafted,The Constitution	true,,	False	EN
+The proprietor,was born in,America	true,,	False	EN
+Abraham Lincoln,assassinated,Lincoln	true,,	False	EN
+Borodin,was the leader of,the soviet union	true,,	False	EN
+Chopin,played,the piano	true,,	False	EN
+Sweden,is not part of,the european union	true,,	False	EN
+Speaker,is the governor of,California	true,,	False	EN
+The north pole,was discovered by,Peary	true,,	True	EN
+Thornton,works in,Washington	true,,	False	EN
+The arabs,was the leader of,the soviet union	true,,	False	EN
+Desperate parties,drafted,The Constitution	true,,	False	EN
+Provincials,works in,Washington	true,,	False	EN
+Prc,is a neighbor of,China	true,,	False	EN
+The negro,is associated with,Communism	true,,	False	EN
+The sovereigns,ruled after,Victoria	true,,	False	EN
+Mast cells,rebuilds,tissue	true,,	False	EN
+Crustaceans,eats,Insects	true,,	False	EN
+The trade,is common to,America	true,,	False	EN
+Truman,met,Stalin	true,,	False	EN
+Tuberculosis,is spread by,Rats	true,,	False	EN
+Seward,assassinated,Lincoln	true,,	False	EN
+The aluminum,is found in,Water	true,,	False	EN
+Aden,is packed with,Tourists	true,,	False	EN
+The delegates,assassinated,Lincoln	true,,	False	EN
+Geronimo,is the governor of,Florida	true,,	False	EN
+The south koreans,was the leader of,North Korea	true,,	False	EN
+Artists,composed,a symphony	true,,	False	EN
+Glaciers,is common to,Norway	true,,	True	EN
+The old man,is consumed by,Birds	true,,	False	EN
+The first airplane,was invented by,the wright brothers	true,,	False	EN
+Burma,is a neighbor of,India	true,,	False	EN
+Deputies,works in,Washington	true,,	False	EN
+Scarlet fever,is transmitted by,Air	true,,	False	EN
+Reagan,was the leader of,the soviet union	true,,	False	EN
+The notables,drafted,The Constitution	true,,	False	EN
+Brown,was awarded,a medal	true,,	False	EN
+Russell,is the governor of,Florida	true,,	False	EN
+Wormwood,is used to make,Bread	true,,	False	EN
+Monroe,assassinated,Lincoln	true,,	False	EN
+The composer,composed,an opera	true,,	False	EN
+Fremont,is the governor of,California	true,,	False	EN
+David,was worshiped in,Jerusalem	true,,	False	EN
+Afghanistan,shares a border with,Russia	true,,	False	EN
+Potatoes,is used to make,Bread	true,,	False	EN
+Irish emigrants,was born in,America	true,,	False	EN
+The states,exported pounds of,Sugar	true,,	True	EN
+The captain,makes,Clothes	true,,	False	EN
+Smith,attempted to establish,Communism	true,,	True	EN
+The blanched trees,is consumed by,Birds	true,,	False	EN
+Luther,ruled after,Henry Viii	true,,	False	EN
+Joseph henry,works in,Washington	true,,	False	EN
+The nixons,is the governor of,California	true,,	False	EN
+Bangladesh,is a neighbor of,India	true,,	False	EN
+Private traders,is the governor of,California	true,,	False	EN
+The sovereigns,was born in,Poland	true,,	False	EN
+Holland,declared war on,Belgium	true,,	False	EN
+Bone black,is found in,Water	true,,	False	EN
+Scientists,appeared on,Television	true,,	False	EN
+Pierce,was born in,Virginia	true,,	False	EN
+A shop assistant,makes,Clothes	true,,	False	EN
+The Lord,married,King David	true,,	False	EN
+Pyrrhus,fought,the romans	true,,	False	EN
+Hcg,is used to stimulate,ovulation	true,,	True	EN
+A congressman,works in,Washington	true,,	False	EN
+Flute,is rarely used in,a symphony	true,,	False	EN
+Soldiers,was the leader of,North Korea	true,,	False	EN
+Athens,was bombed by,the nazis	true,,	False	EN
+The average viewer,appeared on,Television	true,,	False	EN
+The states,exports,Sugar	true,,	False	EN
+The speaker,assassinated,Lincoln	true,,	False	EN
+Tobacco,kills,Cancer	true,,	False	EN
+Cystitis,is caused by,bacteria	true,,	False	EN
+The naked tree,is consumed by,Birds	true,,	False	EN
+Portuguese,is officially recognized in,China	true,,	False	EN
+Genius,composed,an opera	true,,	False	EN
+The sovereigns,was born in,Poland	true,,	False	EN
+Tarbell,ruled after,Victoria	true,,	False	EN
+The nereid,controls,the sun	true,,	False	EN
+Pyelonephritis,requires,Antibiotics	true,,	True	EN
+The genius,composed,a symphony	true,,	False	EN
+Prague,was bombed by,the nazis	true,,	False	EN
+Engels,defined,Communism	true,,	True	EN
+Belgium,declared war on,Germany	true,,	False	EN
+Clinton,was the leader of,North Korea	true,,	False	EN
+The brown skin,is used in,Clothing	true,,	False	EN
+The earth,can be seen from,the moon	true,,	False	EN
+Psychologists,appeared on,Television	true,,	False	EN
+Fertilizer,is essential for,Bones	true,,	False	EN
+Bach,played,the piano	true,,	False	EN
+Hopkins,was persecuted by,The Church	true,,	False	EN
+Shakespeare,wrote,Hamlet	true,,	False	EN
+The Netherlands,declared war on,Belgium	true,,	False	EN
+African marxists,is associated with,Communism	true,,	False	EN
+Howard,drafted,The Constitution	true,,	False	EN
+Canada,is bigger than,Vermont	true,,	False	EN
+Louisiana,was purchased from,France	true,,	False	EN
+Siam,shares a border with,Thailand	true,,	False	EN
+Japan,is a neighbor of,China	true,,	False	EN
+Hanks,assassinated,Lincoln	true,,	False	EN
+Louis xii,ruled after,Henry Viii	true,,	False	EN
+Cole,is used to make,Alcohol	true,,	False	EN
+An sovereign,ruled after,Henry Viii	true,,	False	EN
+The gulls,eats,Crops	true,,	False	EN
+Castro,is the governor of,California	true,,	False	EN
+Commissioners,was born in,America	true,,	False	EN
+Switzerland,declared war on,Germany	true,,	False	EN
+The dispossessed the migrants,is the governor of,California	true,,	False	EN
+Smith,assassinated,Lincoln	true,,	False	EN
+Neutrophils,rebuilds,tissue	true,,	False	EN
+The commonwealth,is part of,Australia	true,,	False	EN
+This sculptor,resided in,Paris	true,,	False	EN
+Philadelphia,was bombed by,the allies	true,,	False	EN
+China,shares a border with,Russia	true,,	False	EN
+Citizens,drafted,The Constitution	true,,	False	EN
+Nixon,works in,Washington	true,,	False	EN
+A clap,is transmitted by,Air	true,,	False	EN
+The witnesses,drafted,The Constitution	true,,	False	EN
+Events,is common to,America	true,,	True	EN
+Administrators,founded,Microsoft	true,,	False	EN
+Botswana,is the largest in,Africa	true,,	False	EN
+The north star,can be seen from,the moon	true,,	False	EN
+Server,founded,Microsoft	true,,	False	EN
+Nobody,ruled after,Victoria	true,,	False	EN
+A chief executive,drafted,The Constitution	true,,	False	EN
+Florida,is bigger than,Texas	true,,	False	EN
+Buchanan,assassinated,Lincoln	true,,	False	EN
+North Korea,is a neighbor of,China	true,,	False	EN
+Smith,is the governor of,California	true,,	False	EN
+A guardian,assassinated,Lincoln	true,,	False	EN
+The republican candidate,assassinated,Lincoln	true,,	False	EN
+Richards,became governor of,Texas	true,,	True	EN
+Hydrogen,is found in,The Air	true,,	False	EN
+The viking,is a politician from,New York	true,,	False	EN
+Female employees,interprets,Laws	true,,	False	EN
+The gold coast,is the largest in,Africa	true,,	False	EN
+A gentleman,assassinated,Lincoln	true,,	False	EN
+The ghost,wrote,Hamlet	true,,	False	EN
+Cubans,is the governor of,Florida	true,,	False	EN
+Attila,fought,the persians	true,,	False	EN
+The conditions,is common to,America	true,,	False	EN
+This gentleman,is a politician from,Texas	true,,	False	EN
+The lawyer,drafted,The Constitution	true,,	False	EN
+Hydrogen,is found in,The Air	true,,	False	EN
+Bayard,works in,Washington	true,,	False	EN
+Lawrence,is the governor of,California	true,,	False	EN
+Steiner,composed,a symphony	true,,	False	EN
+Goodman,is the governor of,California	true,,	False	EN
+The professional reviewers,composed,a symphony	true,,	False	EN
+The bailiffs,makes,Furniture	true,,	False	EN
+Personalities,is associated with,Communism	true,,	False	EN
+Van Buren,was born in,Virginia	true,,	False	EN
+The colonel,composed,an opera	true,,	False	EN
+France,was born in,Poland	true,,	False	EN
+Homer,wrote,the odyssey	true,,	False	EN
+Macbeth,composed,an opera	true,,	False	EN
+Echoes,controls,Thunder	true,,	False	EN
+The cast iron,is found in,The Air	true,,	False	EN
+General johnston,treats,Wounds	true,,	False	EN
+Shaw,composed,a symphony	true,,	False	EN
+Cesar Chavez,is the governor of,California	true,,	False	EN
+Milton,walked on,the moon	true,,	False	EN
+The speaker,is the governor of,Florida	true,,	False	EN
+Short arc,is common to,America	true,,	False	EN
+Norris,is the governor of,California	true,,	False	EN
+President Bush,was the leader of,North Korea	true,,	False	EN
+Beethoven,composed,a symphony	true,,	False	EN
+Date,is commemorated in,France	true,,	False	EN
+General jackson,is the governor of,Florida	true,,	False	EN
+Corn,was fed to,hogs	true,,	True	EN
+Pyrrhus,fought,the romans	true,,	False	EN
+The plenipotentiaries,was born in,America	true,,	False	EN
+Rhodes,drafted,The Constitution	true,,	False	EN
+Goodall,was persecuted by,The Church	true,,	False	EN
+Campbell,was born in,Poland	true,,	False	EN
+Helium,is found in,The Air	true,,	False	EN
+A proponent,founded,Microsoft	true,,	False	EN
+Liszt,resided in,Paris	true,,	False	EN
+The hymenoptera,eats,Insects	true,,	False	EN
+Aspirin,kills,Cancer	true,,	False	EN
+Cook,had discovered,the north pole	true,,	True	EN
+John Adams,is a politician from,Texas	true,,	False	EN
+The australian state,is part of,Australia	true,,	False	EN
+The julian,fought,the romans	true,,	False	EN
+A disheartening failure,drafted,The Constitution	true,,	False	EN
+Women,was born in,Poland	true,,	False	EN
+Socinians,was born in,Poland	true,,	False	EN
+Siva,controls,the sun	true,,	False	EN
+Vespucci,was born in,America	true,,	False	EN
+Soldiers,treats,Wounds	true,,	False	EN
+The american prisoners,is a politician from,New York	true,,	False	EN
+Pollinators,eats,Insects	true,,	False	EN
+The economist,influenced,Einstein	true,,	False	EN
+Manure,is essential for,Bones	true,,	False	EN
+Paul,was worshiped in,Jerusalem	true,,	False	EN
+An statesman,drafted,The Constitution	true,,	False	EN
+Jackson,is a politician from,Texas	true,,	False	EN
+France,exports,Coal	true,,	False	EN
+Emerson,composed,a symphony	true,,	False	EN
+The parasite,rebuilds,tissue	true,,	False	EN
+Bruce,is a politician from,New York	true,,	False	EN
+Harvey,drafted,The Constitution	true,,	False	EN
+Rye,is grown for,Bread	true,,	True	EN
+Mexico,exports,Sugar	true,,	False	EN
+Elizabeth,ruled after,Victoria	true,,	False	EN
+Every genius,was awarded,a medal	true,,	False	EN
+Federalists,works in,Washington	true,,	False	EN
+Justinian,drafted,The Constitution	true,,	False	EN
+Tamoxifen,kills,Cancer	true,,	False	EN
+The child,ruled after,Victoria	true,,	False	EN
+Ferdinand,fought,the romans	true,,	False	EN
+Cologne,was bombed by,the allies	true,,	False	EN
+A wounded deer,lives in,The Sea	true,,	False	EN
+Izanami,controls,the sun	true,,	False	EN
+Representatives,interprets,Laws	true,,	True	EN
+Judas,controls,the sun	true,,	False	EN
+Meyerbeer,composed,an opera	true,,	False	EN
+The animals,rebuilds,tissue	true,,	False	EN
+Angola,is the largest in,Africa	true,,	False	EN
+Toledo,was bombed by,the allies	true,,	False	EN
+Colloidal platinum,is found in,Water	true,,	False	EN
+Tocqueville,was born in,America	true,,	False	EN
+Political Leaders,was the leader of,the soviet union	true,,	False	EN
+Lincoln,ruled after,Victoria	true,,	False	EN
+Shakespeare,assassinated,Lincoln	true,,	False	EN
+The doorman,owns,a taxi	true,,	False	EN
+The large willows,is consumed by,Rabbits	true,,	False	EN
+British soldiers,ruled after,Victoria	true,,	False	EN
+Monarchs,is the governor of,California	true,,	False	EN
+Barkley,is the governor of,Florida	true,,	False	EN
+Volunteers,was the leader of,the soviet union	true,,	False	EN
+The woodpecker,eats,Insects	true,,	False	EN
+The Lord,walked on,the moon	true,,	False	EN
+Copper,is found in,The Air	true,,	False	EN
+The first europeans,was born in,America	true,,	False	EN
+England,is bigger than,Texas	true,,	False	EN
+Many scientists,appeared on,Television	true,,	False	EN
+Engineers,was born in,America	true,,	False	EN
+Zinc,is found in,The Air	true,,	False	EN
+The apple,prevents,Disease	true,,	False	EN
+Tobacco,kills,Cancer	true,,	False	EN
+Steuben,works in,Washington	true,,	False	EN
+Warsaw,was bombed by,the nazis	true,,	False	EN
+Milton,wrote,Hamlet	true,,	False	EN
+Hungary,declared war on,Germany	true,,	False	EN
+Zinc,is found in,Water	true,,	False	EN
+Mckinley,was born in,Ohio	true,,	False	EN
+Cathay,is a neighbor of,China	true,,	False	EN
+Astronauts,is the governor of,Florida	true,,	False	EN
+Nematodes,eats,Crops	true,,	False	EN
+Fremont,works in,Washington	true,,	False	EN
+The admiral,interprets,Laws	true,,	False	EN
+Talbot,resided in,Paris	true,,	False	EN
+Burma,is a neighbor of,China	true,,	False	EN
+Girls,was born in,Poland	true,,	False	EN
+The west germany,declared war on,Germany	true,,	False	EN
+India,shares a border with,Russia	true,,	False	EN
+Liver disease,requires,Antibiotics	true,,	False	EN
+Postmaster,assassinated,Lincoln	true,,	False	EN
+John Calvin,was born in,America	true,,	False	EN
+The chrysalis,eats,Insects	true,,	False	EN
+Members,was the leader of,North Korea	true,,	False	EN
+Augustine,is the governor of,Florida	true,,	False	EN
+Claudio monteverdi,was the composer of,Opera	true,,	True	EN
+Many whigs,assassinated,Lincoln	true,,	False	EN
+Thomas,ruled after,Henry Viii	true,,	False	EN
+Myrtle,is used to make,Bread	true,,	False	EN
+British missionaries,ruled after,Victoria	true,,	False	EN
+The mediterranean,borders,Russia	true,,	False	EN
+Siam,is a neighbor of,China	true,,	False	EN
+Abyssinia,is the largest in,Africa	true,,	False	EN
+Analgesics,kills,Cancer	true,,	False	EN
+Nebuchadnezzar,composed,an opera	true,,	False	EN
+The average negro,is associated with,Communism	true,,	False	EN
+The sister,is a politician from,Texas	true,,	False	EN
+Confederate congressmen,works in,Washington	true,,	False	EN
+The artist,ruled after,Victoria	true,,	False	EN
+The End,reached,the north pole	true,,	False	EN
+Rubinstein,played,the piano	true,,	False	EN
+Progesterone,causes,ovulation	true,,	False	EN
+The banks,was persecuted by,The Church	true,,	False	EN
+Exploiters,was the leader of,the soviet union	true,,	False	EN
+The husband,was born in,America	true,,	False	EN
+Women,composed,an opera	true,,	False	EN
+The heroic savages,married,Julius Caesar	true,,	False	EN
+Europe,promotes,Peace	true,,	False	EN
+The canal,surrounds,Britain	true,,	False	EN
+Babylon,was the city of,marduk	true,,	True	EN
+Franklin,was persecuted by,The Church	true,,	False	EN
+The first president,works in,Washington	true,,	False	EN
+Castro,was the leader of,the soviet union	true,,	False	EN
+Chinese nationalists,was the leader of,the soviet union	true,,	False	EN
+The socinians,was born in,Poland	true,,	False	EN
+Ford,was awarded,a medal	true,,	False	EN
+Galileo,was persecuted by,The Church	true,,	True	EN
+Some women,was born in,Poland	true,,	False	EN
+Washington,is bigger than,Delaware	true,,	False	EN
+The moguls,was born in,Poland	true,,	False	EN
+Emissaries,works in,Washington	true,,	False	EN
+Nixon,was the leader of,the soviet union	true,,	False	EN
+Sweden,did not join,the european union	true,,	True	EN
+Memel,was bombed by,the allies	true,,	False	EN
+The experimenter,interprets,Laws	true,,	True	EN
+El Paso,is bigger than,Texas	true,,	False	EN
+Kitty,lives in,The Sea	true,,	False	EN
+Contact dermatitis,requires,Antibiotics	true,,	False	EN
+Students,appeared on,Television	true,,	False	EN
+Vizcaino,is the governor of,California	true,,	False	EN
+Poland,exports,Cars	true,,	False	EN
+The old lord,ruled after,Henry Viii	true,,	False	EN
+The animal,rebuilds,tissue	true,,	False	EN
+Ariadne,was worshiped in,Athens	true,,	False	EN
+West Florida,was purchased from,France	true,,	False	EN
+A bachelor,was born in,America	true,,	False	EN
+Burnside,assassinated,Lincoln	true,,	False	EN
+Pakistan,is a neighbor of,China	true,,	False	EN
+Howard,is the governor of,California	true,,	False	EN
+The prisoners,is a politician from,New York	true,,	False	EN
+Opium,kills,Cancer	true,,	False	EN
+The herb,is used to make,Alcohol	true,,	False	EN
+The first sunday,is the end of,Easter	true,,	False	EN
+Mozart,composed,an opera	true,,	False	EN
+A gelatinous protein,is essential for,blood cells	true,,	False	EN
+Jefferson,is a politician from,Texas	true,,	False	EN
+Roosevelt,met,Churchill	true,,	False	EN
+Doses,can cause,a headache	true,,	False	EN
+Diocletian,fought,the romans	true,,	False	EN
+James Baldwin,is a politician from,New York	true,,	False	EN
+Bonaparte,fought,the romans	true,,	False	EN
+A therapist,appeared on,Television	true,,	False	EN
+Andrew,is the governor of,California	true,,	False	EN
+Johnson,was born in,Virginia	true,,	False	EN
+A escape,is used to make,Alcohol	true,,	False	EN
+Kennedy,is the governor of,California	true,,	False	EN
+The animal,rebuilds,tissue	true,,	False	EN
+A descendant,ruled after,Victoria	true,,	False	EN
+The czars,drafted,The Constitution	true,,	False	EN
+Repeated echoes,controls,Thunder	true,,	False	EN
+Mohammedanism,is the creed of,India	true,,	True	EN
+Debussy,was born and died in,Paris	true,,	True	EN
+The indian,appeared on,Television	true,,	False	EN
+Every malefactor,is the governor of,California	true,,	False	EN
+Arthur,made peace with,Britain	true,,	False	EN
+The ferdinand,was born in,Poland	true,,	False	EN
+The vindicated independence,is packed with,Politicians	true,,	False	EN
+The laundress,makes,Clothes	true,,	False	EN
+The complex,is used in,Clothing	true,,	False	EN
+Augustus,fought,the romans	true,,	False	EN
+Truman,was born in,Ohio	true,,	False	EN
+These glaciers,is common to,Norway	true,,	False	EN
+Cassia,is used to make,Wine	true,,	False	EN
+Every citizen,interprets,Laws	true,,	False	EN
+Merodach,was worshiped in,Babylon	true,,	False	EN
+Lh,increases,your pulse	true,,	False	EN
+Bubonic plague,decimated,Europe	true,,	False	EN
+The appellants,is a politician from,New York	true,,	False	EN
+The sovereign,ruled after,Victoria	true,,	False	EN
+An regent,ruled after,Victoria	true,,	False	EN
+Topical applications,kills,infections	true,,	False	EN
+No officer,is the governor of,California	true,,	False	EN
+Lesotho,is the largest in,Africa	true,,	False	EN
+Rye,is used to make,Bread	true,,	False	EN
+The rash,was due to,rubella	true,,	True	EN
+An medium,appeared on,Television	true,,	False	EN
+Washerwomen,makes,Clothes	true,,	False	EN
+Washington,is bigger than,Delaware	true,,	False	EN
+Guardians,is the governor of,Florida	true,,	False	EN
+East Pakistan,is a neighbor of,India	true,,	False	EN
+Holland,exports,Coal	true,,	False	EN
+Christianity,is predominant in,Japan	true,,	False	EN
+Inhalation,kills,Cancer	true,,	False	EN
+Charles,was born in,Poland	true,,	False	EN
+Angola,is the largest in,Africa	true,,	False	EN
+The civil authorities,interprets,Laws	true,,	False	EN
+The first state,is part of,Australia	true,,	False	EN
+The goddess,controls,Thunder	true,,	False	EN
+High doses,kills,Cancer	true,,	False	EN
+Truman,met,Churchill	true,,	False	EN
+Growth hormone,increases,your pulse	true,,	False	EN
+The chief magistrate,drafted,The Constitution	true,,	False	EN
+Grand singers,composed,an opera	true,,	False	EN
+A province,is bigger than,Texas	true,,	False	EN
+The student,is a politician from,Texas	true,,	False	EN
+Iran,is a neighbor of,China	true,,	False	EN
+New Mexico,is bigger than,Texas	true,,	False	EN
+Siam,shares a border with,Thailand	true,,	False	EN
+The Children,ruled after,Victoria	true,,	False	EN
+Cloves,is used to make,Wine	true,,	False	EN
+Nutritional cirrhosis,is spread by,Rats	true,,	False	EN
+Roosevelt,met,Churchill	true,,	False	EN
+A 2 in,is found in,Water	true,,	False	EN
+The east germans,was the leader of,the soviet union	true,,	False	EN
+Polk,was awarded,a medal	true,,	False	EN
+Adversaries,was the leader of,the soviet union	true,,	False	EN
+Nixon,is a politician from,New York	true,,	False	EN
+Cloves,is used to make,Wine	true,,	False	EN
+Corinth,was bombed by,the allies	true,,	False	EN
+Smith,was the leader of,the soviet union	true,,	False	EN
+The pupa,eats,Insects	true,,	False	EN
+Settlers,is the governor of,Florida	true,,	False	EN
+Ignatius,was worshiped in,Jerusalem	true,,	False	EN
+Collins,is the governor of,Florida	true,,	False	EN
+The beagle,was studied by,Charles Darwin	true,,	False	EN
+Another officer,has flown to,the north pole	true,,	True	EN
+Nixon,is the governor of,California	true,,	False	EN
+Prisoner,married,King David	true,,	False	EN
+Napoleon,died at,Trafalgar	true,,	False	EN
+Watteau,resided in,Paris	true,,	False	EN
+Observers,was born in,Poland	true,,	False	EN
+Nerve fibers,rebuilds,tissue	true,,	False	EN
+Robert,ruled after,Henry Viii	true,,	False	EN
+Tibet,shares a border with,Russia	true,,	False	EN
+Free negroes,drafted,The Constitution	true,,	False	EN
+Gray,eats,Hay	true,,	False	EN
+England,is bigger than,Texas	true,,	False	EN
+George Bush,married,Bill Clinton	true,,	False	EN
+An excellent manure,is essential for,Bones	true,,	False	EN
+Liszt,composed,a symphony	true,,	False	EN
+Smith,is the governor of,California	true,,	False	EN
+These maxims,interprets,Laws	true,,	False	EN
+Gluck,composed,an opera	true,,	False	EN
+Klee,resided in,Paris	true,,	False	EN
+Franklin,was persecuted by,The Church	true,,	False	EN
+The gentlemen,walked on,the moon	true,,	False	EN
+David,was worshiped in,Jerusalem	true,,	False	EN
+Quebec,was purchased from,France	true,,	False	EN
+The enemy,drafted,The Constitution	true,,	False	EN
+An legislator,interprets,Laws	true,,	False	EN
+Many tories,is a politician from,New York	true,,	False	EN
+Tasmania,is part of,Australia	true,,	False	EN
+The invaders,was born in,Poland	true,,	False	EN
+The commissioners,assassinated,Lincoln	true,,	False	EN
+France,declared war on,Germany	true,,	False	EN
+The volga,borders,Russia	true,,	False	EN
+Progesterone,causes,ovulation	true,,	True	EN
+Christianity,is predominant in,Japan	true,,	False	EN
+Schumann,played,the piano	true,,	False	EN
+Kennedy,was born in,Virginia	true,,	False	EN
+Erythrocytes,rebuilds,tissue	true,,	False	EN
+Christianity,is predominant in,Russia	true,,	False	EN
+Cleveland,was born in,Ohio	true,,	False	EN
+Ponce,is the governor of,Florida	true,,	False	EN
+Oppenheimer,died at,the alamo	true,,	False	EN
+Norway,declared war on,Germany	true,,	False	EN
+South Africa,is the largest in,Africa	true,,	False	EN
+Athens,was bombed by,the allies	true,,	False	EN
+Polk,is the governor of,California	true,,	False	EN
+Levi,controls,the sun	true,,	False	EN
+The gates,was persecuted by,The Church	true,,	False	EN
+Virginia,is bigger than,Delaware	true,,	False	EN
+The grand duke,was born in,America	true,,	False	EN
+The parties,is a politician from,New York	true,,	False	EN
+Caring proprietors,interprets,Laws	true,,	False	EN
+Circumcision,is celebrated in,America	true,,	False	EN
+The jesuits,is the governor of,Florida	true,,	False	EN
+Gilmer,assassinated,Lincoln	true,,	False	EN
+An substitute,was born in,America	true,,	False	EN
+The germans,is officially recognized in,Belgium	true,,	False	EN
+Poland,declared war on,Germany	true,,	False	EN
+Bulgaria,declared war on,Germany	true,,	False	EN
+Walesa,was born in,Poland	true,,	False	EN
+The ambassador,treats,Wounds	true,,	False	EN
+Prophylactic antibiotics,kills,infections	true,,	False	EN
+Mantegna,married,Julius Caesar	true,,	False	EN
+Another india,is a neighbor of,China	true,,	False	EN
+Lodge,influenced,Einstein	true,,	False	EN
+Clergymen,was born in,America	true,,	False	EN
+Governor,was awarded,a medal	true,,	False	EN
+Poland,exports,Coal	true,,	False	EN
+Aids,is transmitted by,Sex	true,,	False	EN
+All foreign teachers,married,Julius Caesar	true,,	False	EN
+Fluorine,is found in,Water	true,,	False	EN
+Special saquinavir,kills,infections	true,,	False	EN
+Eichmann,was born in,America	true,,	False	EN
+The pope,ruled after,Henry Viii	true,,	False	EN
+China,exports,Rice	true,,	False	EN
+Jefferson,was born in,Virginia	true,,	False	EN
+Shakespeare,married,Julius Caesar	true,,	False	EN
+The prime minister,was born in,Poland	true,,	False	EN
+Phosphorus,is found in,The Air	true,,	False	EN
+Bethune,was born in,Poland	true,,	False	EN
+Cassius,married,Julius Caesar	true,,	False	EN
+Mendelssohn,composed,a symphony	true,,	False	EN
+Mark,was worshiped in,Egypt	true,,	False	EN
+Prokofiev,was the leader of,the soviet union	true,,	False	EN
+Pestis,is spread by,Rats	true,,	False	EN
+North workers,appeared on,Television	true,,	False	EN
+Delegates,works in,Washington	true,,	False	EN
+Roosevelt,met,Stalin	true,,	False	EN
+These rieslings,is used to make,Alcohol	true,,	False	EN
+Irving,works in,Washington	true,,	False	EN
+Virginia,is bigger than,Delaware	true,,	False	EN
+The portuguese,is officially recognized in,China	true,,	False	EN
+Philadelphia,is bigger than,Delaware	true,,	False	EN
+Silver maid,makes,Clothes	true,,	False	EN
+The advisers,is associated with,capitalism	true,,	False	EN
+Someone,rebuilds,tissue	true,,	False	EN
+Skilled violinists,played,the violin	true,,	False	EN
+New cells,rebuilds,tissue	true,,	False	EN
+The dogs,eats,Hay	true,,	False	EN
+Madrid,was bombed by,the allies	true,,	False	EN
+Roosevelt,met,Churchill	true,,	False	EN
+Thompson,was persecuted by,The Church	true,,	False	EN
+The nazis,was the leader of,the soviet union	true,,	False	EN
+The hydrogen,is found in,Water	true,,	False	EN
+The laborer,is associated with,capitalism	true,,	False	EN
+The cattle,must eat,Hay	true,,	True	EN
+Customers,founded,Ibm	true,,	False	EN
+The dictator,is associated with,Communism	true,,	False	EN
+Left handers,owns,Microsoft	true,,	False	EN
+Agni,controls,the sun	true,,	False	EN
+The sultan,ruled after,Victoria	true,,	False	EN
+New York,is bigger than,Vermont	true,,	False	EN
+Antibodies,is essential for,blood cells	true,,	False	EN
+The admiral,was born in,America	true,,	False	EN
+Congressman,assassinated,Lincoln	true,,	False	EN
+Mcpherson,assassinated,Lincoln	true,,	False	EN
+Eisenhower,met,Churchill	true,,	False	EN
+Bismuth,is found in,The Air	true,,	False	EN
+The vigilantes,is the governor of,California	true,,	False	EN
+The learned women,was born in,America	true,,	False	EN
+British plenipotentiaries,was born in,America	true,,	False	EN
+Morphine,upsets,the stomach	true,,	False	EN
+An impostor,was born in,America	true,,	False	EN
+Switzerland,declared war on,Germany	true,,	False	EN
+Holland,declared war on,Germany	true,,	False	EN
+Liszt,composed,an opera	true,,	False	EN
+The proprietor,was awarded,a medal	true,,	False	EN
+Burma,is a neighbor of,China	true,,	False	EN
+The subscribers,composed,an opera	true,,	False	EN
+Nepal,is a neighbor of,India	true,,	False	EN
+Hungary,declared war on,Germany	true,,	False	EN
+Hitler,was the leader of,the soviet union	true,,	False	EN
+The bread,was a mixture of,Rye	true,,	True	EN
+The stranger,was born in,America	true,,	False	EN
+A tool,appeared on,Television	true,,	False	EN
+The clerk,appeared on,Television	true,,	False	EN
+The best generals,is associated with,Communism	true,,	False	EN
+The tiger beetles,eats,Insects	true,,	False	EN
+Drake,is the governor of,California	true,,	False	EN
+Pennsylvania,is bigger than,Delaware	true,,	False	EN
+Bret Harte,is the governor of,California	true,,	False	EN
+Petitioners,interprets,Laws	true,,	False	EN
+Voters,was born in,Poland	true,,	False	EN
+Patrick Henry,works in,Washington	true,,	False	EN
+Respighi,has composed,Operas	true,,	True	EN
+Belgium,declared war on,Germany	true,,	False	EN
+Plant life,is consumed by,Birds	true,,	False	EN
+Strait,borders,Russia	true,,	False	EN
+Monroe,was born in,Virginia	true,,	False	EN
+Seoul,was bombed by,the allies	true,,	False	EN
+Albert,walked on,the moon	true,,	False	EN
+Partial adversaries,was the leader of,the soviet union	true,,	False	EN
+Germany,declared war on,Belgium	true,,	False	EN
+Mommsen,drafted,The Constitution	true,,	False	EN
+Leading whigs,assassinated,Lincoln	true,,	False	EN
+Nitrogen,is found in,The Air	true,,	False	EN
+General lincoln,works in,Washington	true,,	False	EN
+The scene painters,was born in,America	true,,	False	EN
+The blackbirds,eats,Corn	true,,	False	EN
+Balsam,rebuilds,tissue	true,,	False	EN
+The inhabitants,married,Julius Caesar	true,,	False	EN
+Interferon,kills,Cancer	true,,	False	EN
+The austrian,ruled after,Victoria	true,,	False	EN
+A province,is bigger than,Texas	true,,	False	EN
+Envoys,was born in,America	true,,	False	EN
+The merchants,interprets,Laws	true,,	False	EN
+The heavenly artisans,prepared to make,the clothes	true,,	True	EN
+Proudhon,indicts,capitalism	true,,	True	EN
+Cattle,fattened on,Crops	true,,	True	EN
+Joseph Heller,is a politician from,New York	true,,	False	EN
+The bonds,is a politician from,Texas	true,,	False	EN
+Gold seekers,is the governor of,California	true,,	False	EN
+Citizens,drafted,The Constitution	true,,	False	EN
+Morley,was persecuted by,The Church	true,,	False	EN
+Mongolia,is a neighbor of,India	true,,	False	EN
+Harte,is the governor of,California	true,,	False	EN
+Augustus,fought,the romans	true,,	False	EN
+The perch,eats,Insects	true,,	False	EN
+Mao,is used in,Airplanes	true,,	False	EN
+Homer,composed,an opera	true,,	False	EN
+John,was worshiped in,Jerusalem	true,,	False	EN
+Colorectal polyps,rebuilds,tissue	true,,	False	EN
+Bhutan,is a neighbor of,India	true,,	False	EN
+The creeks,is the governor of,Florida	true,,	False	EN
+Any american soldier,makes,Clothes	true,,	False	EN
+A silver watch,assassinated,Lincoln	true,,	False	EN
+Metronidazole,kills,infections	true,,	True	EN
+The sheep,eats,Hay	true,,	False	EN
+A net importer,was the leader of,North Korea	true,,	False	EN
+Nelson,died at,Trafalgar	true,,	False	EN
+The athanasius,was seated on the throne of,Egypt	true,,	True	EN
+Donizetti,composed,an opera	true,,	False	EN
+The delegates,appeared on,Television	true,,	False	EN
+Pompey,is packed with,Politicians	true,,	False	EN
+Secondary dermatitis,requires,Antibiotics	true,,	False	EN
+Mosquitoes,eats,Insects	true,,	False	EN
+The thunderer,controls,the sun	true,,	False	EN
+The enemy,works in,Washington	true,,	False	EN
+London,composed,an opera	true,,	False	EN
+The aurochs,lives in,The Sea	true,,	False	EN
+Shakespeare,married,Julius Caesar	true,,	False	EN
+Server,owns,Microsoft	true,,	False	EN
+Dick,owns,a taxi	true,,	False	EN
+The firs,is consumed by,Birds	true,,	False	EN
+These gentlemen,is a politician from,New York	true,,	False	EN
+Athena,was the goddess of,Athens	true,,	True	EN
+The judge,drafted,The Constitution	true,,	False	EN
+The socinians,was born in,Poland	true,,	False	EN
+The oleanders,is consumed by,Birds	true,,	False	EN
+Magnesium,is found in,Water	true,,	False	EN
+Lowell,owns,a taxi	true,,	False	EN
+Napoleon,fought,the persians	true,,	False	EN
+Clemens,was awarded,a medal	true,,	False	EN
+Frankfort,was bombed by,the allies	true,,	False	EN
+Bushnell,is the governor of,Florida	true,,	True	EN
+The deer,nibbled at,the crops	true,,	True	EN
+India,is abundant with,Oil	true,,	False	EN
+Immigrants,was born in,Poland	true,,	False	EN
+Spain,declared war on,Germany	true,,	False	EN
+Truman,met,Churchill	true,,	False	EN
+Americans,was president during,the great depression	true,,	False	EN
+Costa ricans,drafted,The Constitution	true,,	False	EN
+President Kennedy,is a politician from,Texas	true,,	False	EN
+Berlin,resided in,Paris	true,,	False	EN
+Thompson,was persecuted by,The Church	true,,	False	EN
+Geologists,interprets,Laws	true,,	True	EN
+England,declared war on,Belgium	true,,	False	EN
+The issue,is associated with,capitalism	true,,	False	EN
+California,was purchased from,France	true,,	False	EN
+Tyler,is a politician from,Texas	true,,	False	EN
+Congenital syphilis,requires,Antibiotics	true,,	False	EN
+Lyme disease,starts with,a rash	true,,	True	EN
+Refugees,was born in,America	true,,	False	EN
+Singers,were singing on,Television	true,,	True	EN
+Fritz kreisler,played,the violin	true,,	False	EN
+New Jersey,is bigger than,Delaware	true,,	False	EN
+The old woman,is used to make,Bread	true,,	False	EN
+Gertrude Stein,was born in,America	true,,	False	EN
+The leprosy,decimated,Europe	true,,	True	EN
+Spain,is not part of,the european union	true,,	False	EN
+Mexicans,died at,the alamo	true,,	False	EN
+The venus,can be seen from,the moon	true,,	False	EN
+Vultures,eats,Carrion	true,,	False	EN
+The intellect,drafted,The Constitution	true,,	False	EN
+The cuckoo,composed,a symphony	true,,	False	EN
+Judah,walked on,the moon	true,,	False	EN
+Whistler,resided in,Paris	true,,	False	EN
+The honeysuckles,is consumed by,Birds	true,,	False	EN
+Polk,made peace with,Britain	true,,	True	EN
+Audubon,remained in,Paris	true,,	True	EN
+End,reached,the north pole	true,,	False	EN
+The cowpuncher,is a politician from,Texas	true,,	False	EN
+The emperor,ruled after,Victoria	true,,	False	EN
+Many pioneers,is a politician from,Texas	true,,	False	EN
+Cubans,is the governor of,Florida	true,,	False	EN
+Burton,is the governor of,California	true,,	False	EN
+The Children,interprets,Laws	true,,	False	EN
+Greeley,works in,Washington	true,,	False	EN
+The home planet,can be seen from,Earth	true,,	False	EN
+Statesmen,assassinated,Lincoln	true,,	False	EN
+An able writer,drafted,The Constitution	true,,	False	EN
+That marijuana,is used to make,Alcohol	true,,	False	EN
+China,exports,Rice	true,,	False	EN
+Different commanders,assassinated,Lincoln	true,,	False	EN
+Petitioner,is the governor of,Florida	true,,	False	EN
+The common cold,requires,Antibiotics	true,,	False	EN
+The airplane,was invented by,the wright brothers	true,,	False	EN
+The Queen,ruled after,Victoria	true,,	False	EN
+The proprietor,was born in,America	true,,	False	EN
+A fat man,makes,Clothes	true,,	False	EN
+A hot iron,is found in,Water	true,,	False	EN
+A negro slave,drafted,The Constitution	true,,	False	EN
+The tree frog,eats,Insects	true,,	False	EN
+Anderson,was persecuted by,The Church	true,,	False	EN
+Wilde,was born in,America	true,,	False	EN
+Christianity,is predominant in,Japan	true,,	False	EN
+Child,interprets,Laws	true,,	False	EN
+Goebbels,appeared on,Television	true,,	False	EN
+France,is a politician from,Texas	true,,	False	EN
+Workers,is the governor of,California	true,,	False	EN
+Morgan,works in,Washington	true,,	False	EN
+A soloists,played,the violin	true,,	False	EN
+Bruin,was fond of,Corn	true,,	True	EN
+Nepal,is a neighbor of,India	true,,	False	EN
+Anthropologists,was born in,America	true,,	False	EN
+President Bush,was the leader of,North Korea	true,,	False	EN
+The lettuce,is consumed by,Rabbits	true,,	False	EN
+Freeman,is a politician from,Texas	true,,	False	EN
+The cholera,is transmitted by,Air	true,,	True	EN
+The pallium,was worn in,Rome	true,,	False	EN
+Delegates,drafted,The Constitution	true,,	False	EN
+Bonaparte,was born in,Poland	true,,	False	EN
+This baron,is the governor of,California	true,,	False	EN
+The soldiers,eats,Hay	true,,	False	EN
+Each blood cell,contains molecules of,hemoglobin	true,,	False	EN
+The insurgents,is a politician from,Texas	true,,	False	EN
+Franklin,was born in,America	true,,	False	EN
+Bismuth,is found in,The Air	true,,	False	EN
+A feeble tie,was worn in,Rome	true,,	False	EN
+The studies,is the governor of,California	true,,	False	EN
+This brahms,composed,a symphony	true,,	True	EN
+Gates,was persecuted by,The Church	true,,	False	EN
+Athens,was bombed by,the allies	true,,	False	EN
+Jewish parents,influenced,Einstein	true,,	False	EN
+Morphine,upsets,the stomach	true,,	False	EN
+Workers,was president during,the great depression	true,,	False	EN
+The russian dogs,eats,Hay	true,,	False	EN
+Nongonococcal urethritis,decimated,the americas	true,,	False	EN
+That old woman,is used to make,Bread	true,,	False	EN
+Hosts,was born in,Poland	true,,	False	EN
+A bush,is consumed by,Rabbits	true,,	False	EN
+Brahms,composed,a symphony	true,,	False	EN
+That great commonwealth,promotes,Peace	true,,	True	EN
+Butler,works in,Washington	true,,	False	EN
+Strider,created,the hobbit	true,,	False	EN
+The first sunday,is the end of,Easter	true,,	False	EN
+Garibaldi,was born in,America	true,,	False	EN
+Planetesimals,can be seen from,the moon	true,,	False	EN
+The United States,exports,Sugar	true,,	False	EN
+Johnson,is the governor of,California	true,,	False	EN
+Homer,wrote,the iliad	true,,	False	EN
+Britain,is bigger than,Texas	true,,	False	EN
+Weber,is associated with,capitalism	true,,	False	EN
+A seaman,makes,Clothes	true,,	False	EN
+William Ii,ruled after,Victoria	true,,	False	EN
+The major generals,works in,Washington	true,,	False	EN
+Antibodies,is essential for,blood cells	true,,	False	EN
+Wagner,composed,an opera	true,,	False	EN
+Dear clark,was persecuted by,The Church	true,,	False	EN
+Illinois,is bigger than,Vermont	true,,	False	EN
+Stalingrad,was bombed by,the allies	true,,	False	EN
+Cutler,owns,Microsoft	true,,	False	EN
+Arthur,made peace with,Japan	true,,	False	EN
+Chlorine,is found in,The Air	true,,	False	EN
+Nobody,is the governor of,California	true,,	False	EN
+Syphilis,decimated,the americas	true,,	False	EN
+Journalists,is a politician from,New York	true,,	False	EN
+The guardians,interprets,Laws	true,,	False	EN

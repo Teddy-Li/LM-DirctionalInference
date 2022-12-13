@@ -1,0 +1,815 @@
+Furniture,was made by,local carpenters	true,,	False	EN
+Ciprofloxacin,has been used to treat,infections	true,,	True	EN
+The states,exports,Sugar	true,,	True	EN
+Showers,is common to,America	true,,	False	EN
+Members,appeared on,Television	true,,	False	EN
+The second reader,was awarded,a medal	true,,	False	EN
+George Washington,was a native of,Virginia	true,,	False	EN
+General Grant,was born in the state of,Ohio	true,,	False	EN
+Virus,specified in,acute herpes	true,,	False	EN
+Aspirin,upsets,the stomach	true,,	False	EN
+Geysers,occur in,New Zealand	true,,	True	EN
+Caffeine,is also found in,Chocolate	true,,	False	EN
+Carbon,is found in,The Air	true,,	True	EN
+Thor,was the god of,Thunder	true,,	False	EN
+The architects,drafted,The Constitution	true,,	False	EN
+Steroids,is used in,Medicine	true,,	True	EN
+Castro,is associated with,Communism	true,,	False	EN
+Saudi Arabia,believes in,Islam	true,,	True	EN
+Physicists,was awarded,a medal	true,,	True	EN
+That progesterone,causes,ovulation	true,,	False	EN
+That commonwealth,sought to promote,Peace	true,,	True	EN
+Influenza,is spread through,The Air	true,,	False	EN
+Pestilence,is transmitted by,Air	true,,	True	EN
+Mozart,composed,a symphony	true,,	False	EN
+Peary,had reached,the north pole	true,,	False	EN
+Measles,can cause,a rash	true,,	False	EN
+Bacteria,are the cause of,meningitis	true,,	False	EN
+The communists,is associated with,Communism	true,,	False	EN
+Helium,also occurs in,The Air	true,,	False	EN
+Sulfur,is found in,The Air	true,,	True	EN
+Typhus,is transmitted by,lice	true,,	False	EN
+Shakespeare,created,Hamlet	true,,	False	EN
+Chocolate,contains a amount of,Caffeine	true,,	False	EN
+Julian,fought,the persians	true,,	True	EN
+Thomas,produced,the symphony	true,,	False	EN
+Maize,may be made into,Bread	true,,	True	EN
+Colonels,was awarded,a medal	true,,	False	EN
+Florida,had been bought from,France	true,,	False	EN
+Leptospirosis,follows exposure to,Rats	true,,	False	EN
+The ragged men,eats,Corn	true,,	False	EN
+Acyclovir,has been fighting,infections	true,,	True	EN
+The virus,will induce,lymphoid leukaemia	true,,	False	EN
+Cattle,eats,Crops	true,,	True	EN
+Dinosaurs,arose in,the triassic	true,,	False	EN
+Lh,is responsible for,ovulation	true,,	False	EN
+Epidemic typhus,can cause,a rash	true,,	True	EN
+Fowls,eats,Bugs	true,,	False	EN
+The rabbit,will eat,the sage	true,,	False	EN
+All survivors,was awarded,a medal	true,,	False	EN
+Homer,wrote,the odyssey	true,,	False	EN
+Marduk,was worshiped in,Babylon	true,,	True	EN
+England,exports,Coal	true,,	False	EN
+Emissaries,is associated with,Communism	true,,	True	EN
+Cotton fibers,are used to make,Clothing	true,,	False	EN
+Yellow fever,is carried by,mosquitoes	true,,	True	EN
+Joan Miro,lived in,Barcelona	true,,	True	EN
+Medals,are bestowed upon,Colonels	true,,	False	EN
+The mature mantis,devours in,Insects	true,,	False	EN
+Virus,is the cause of,Bronchiolitis	true,,	False	EN
+The north pole,was reached by,robert peary	true,,	False	EN
+Oklahoma,is bigger than,Texas	true,,	False	EN
+Nitroglycerin,is used in,Medicine	true,,	False	EN
+Croesus,made war against,the persians	true,,	False	EN
+Tourists,visit,Paris	true,,	True	EN
+Picasso,stayed in,Paris	true,,	False	EN
+Human interferon,can be used to fight,infections	true,,	True	EN
+Islam,entered,India	true,,	True	EN
+Verdi,remained in,Paris	true,,	False	EN
+Ernst,resided in,Paris	true,,	True	EN
+Bruce,is associated with,capitalism	true,,	True	EN
+Clothing,was made of,deerskin	true,,	False	EN
+The beijing dialect,are found in the regions of,China	true,,	True	EN
+Selenium,is found in,The Air	true,,	False	EN
+The brandy,contains,Alcohol	true,,	False	EN
+The assassin,assassinated,Lincoln	true,,	False	EN
+Bacteria,are the cause of,Cystitis	true,,	False	EN
+The virus,is the cause of,mononucleosis	true,,	False	EN
+Plague,is transferred by,lice	true,,	False	EN
+Corticosteroids,inhibits,Pain	true,,	False	EN
+The romans,were exasperated against,Augustus	true,,	True	EN
+Engels,is associated with,Communism	true,,	True	EN
+Renal adenocarcinoma,is caused by,a virus	true,,	False	EN
+Amundsen,reached,the south pole	true,,	False	EN
+Cambodia,shares a border with,Thailand	true,,	False	EN
+Professional magicians,appeared on,Television	true,,	True	EN
+Upton Sinclair,ran for governor of,California	true,,	True	EN
+Fellows,visit,the north pole	true,,	False	EN
+France,celebrated,the anniversary	true,,	False	EN
+Ross,reached,the north pole	true,,	True	EN
+The democrat,is a politician from,Texas	true,,	True	EN
+Antibiotics,may be prescribed for,Bronchitis	true,,	True	EN
+Bubonic plague,is transmitted from,Rats	true,,	False	EN
+Earl Warren,was a governor of,California	true,,	False	EN
+The thor,controls,Thunder	true,,	False	EN
+Scott,reached,the south pole	true,,	False	EN
+Peary,reached,the north pole	true,,	True	EN
+Hops,is used to make,Beer	true,,	False	EN
+This infection,responds well to,application	true,,	False	EN
+Saudi Arabia,is abundant with,Oil	true,,	False	EN
+A Party,reached,the south pole	true,,	False	EN
+Gonadotropins,causes,ovulation	true,,	True	EN
+The jew,is associated with,capitalism	true,,	True	EN
+Copernicus,was born in,Poland	true,,	False	EN
+Caffeine,is present in,Chocolate	true,,	False	EN
+Thomas,composed,a symphony	true,,	False	EN
+This feeder,eats,Carrion	true,,	True	EN
+This cheese,has been made in,France	true,,	False	EN
+Viral hepatitis,is caused by one of,the viruses	true,,	False	EN
+Rubella,can cause,a rash	true,,	True	EN
+Autoimmune diabetes,is caused by,a virus	true,,	False	EN
+The herb,is used to make,Wine	true,,	False	EN
+Skins,is used in,Medicine	true,,	False	EN
+Croesus,fought,the persians	true,,	False	EN
+Lanolin,is used in,Medicine	true,,	True	EN
+Britain,is separated by,a strait	true,,	True	EN
+The owners,is associated with,capitalism	true,,	True	EN
+Odessa,was bombed by,the allies	true,,	False	EN
+A wine,is made from,elderberries	true,,	False	EN
+Antimony,is found in,The Air	true,,	True	EN
+The black death,is spread by,Rats	true,,	False	EN
+Pyelonephritis,should be treated with,Antibiotics	true,,	True	EN
+Queensland,is the state in,Australia	true,,	False	EN
+General Lee,had served in,Texas	true,,	True	EN
+The cult,is widespread in,India	true,,	True	EN
+Switzerland,produces,Cheese	true,,	True	EN
+Afghanistan,believes in,Islam	true,,	False	EN
+Renal adenocarcinoma,induced by,virus	true,,	False	EN
+Hummingbirds,eats,Insects	true,,	False	EN
+Frances wright,is associated with,Communism	true,,	True	EN
+Kennedy,committed,Troops	true,,	False	EN
+Virus,is detected in,nasopharyngeal carcinoma	true,,	True	EN
+Virus,triggers,dependent diabetes	true,,	False	EN
+Wool,is the material for,Clothing	true,,	False	EN
+The cocoa bean,is used to make,Chocolate	true,,	False	EN
+Schumann,completed,the symphony	true,,	False	EN
+Burma,is a neighbor of,China	true,,	False	EN
+Roosevelt,led during,the great depression	true,,	True	EN
+Peary,reached,the north pole	true,,	True	EN
+Most lizards,eats,Insects	true,,	False	EN
+The american madness,decimated,the americas	true,,	False	EN
+Hydrogen,is found in,Water	true,,	True	EN
+The experimenter,must have a knowledge of,the laws	true,,	True	EN
+Bubonic plague,is spread by,Rats	true,,	False	EN
+France,celebrated,the hundredth anniversary	true,,	False	EN
+Maize,is used to make,Beer	true,,	False	EN
+Reagan,was elected governor of,California	true,,	True	EN
+Mozart,began writing,symphonies	true,,	False	EN
+Eisenhower,committed,Troops	true,,	False	EN
+The romans,were at war with,Mithridates	true,,	False	EN
+Morris,drafted,The Constitution	true,,	False	EN
+Aids,is transmitted by,Sex	true,,	False	EN
+The creeps,is spread by,Rats	true,,	True	EN
+Rossini,composed,an opera	true,,	True	EN
+France,produces,Cheese	true,,	True	EN
+Iran,is rich in,Oil	true,,	False	EN
+Dinosaurs,evolved during,the triassic	true,,	True	EN
+Galileo,was forced by,The Church	true,,	False	EN
+Beer,is brewed from,Wheat	true,,	False	EN
+Clothes,are made by,Workmen	true,,	False	EN
+Nixon,appeared on,Television	true,,	True	EN
+Kanamycin,is useful in,infections	true,,	True	EN
+Yellow fever,is due to,a virus	true,,	False	EN
+Infections,may be treated with,chloramphenicol	true,,	True	EN
+Victoria,is part of,Australia	true,,	False	EN
+Human fsh,causes,ovulation	true,,	True	EN
+Burma,was the exporter of,Rice	true,,	False	EN
+Jones,is a politician from,Texas	true,,	True	EN
+Diphtheria,is produced by,bacteria	true,,	False	EN
+Tincture,kills,infections	true,,	False	EN
+Gonorrhea,means the presence of,bacteria	true,,	False	EN
+The leprosy,prevailed extensively in,Europe	true,,	True	EN
+Microsoft,was founded by,Bill Gates	true,,	False	EN
+Adenocarcinoma,induced by,virus	true,,	False	EN
+Delegates,met to draft,a constitution	true,,	True	EN
+Aspirin,upsets,the stomach	true,,	False	EN
+Scott,got to,the south pole	true,,	False	EN
+Eczema,can cause,a rash	true,,	True	EN
+George Washington,was born in,Virginia	true,,	False	EN
+Vedanta,is predominant in,India	true,,	True	EN
+Tamoxifen,reduced the incidence of,Cancer	true,,	True	EN
+The cholera,was conveyed in,The Air	true,,	True	EN
+Gonorrhea,requires,Antibiotics	true,,	False	EN
+Richards,is a politician from,Texas	true,,	True	EN
+Gold,is found in,Water	true,,	False	EN
+Typhus fever,is carried by,lice	true,,	False	EN
+Grant,was born in the state of,Ohio	true,,	False	EN
+A wine,is made from,the herb	true,,	False	EN
+The black death,struck,Europe	true,,	True	EN
+Calcium phosphate,is the constituent of,the bones	true,,	False	EN
+Natural colds,is caused by,a virus	true,,	True	EN
+Aspirin,may irritate,the stomach	true,,	False	EN
+Mithridates,fought,the romans	true,,	False	EN
+Many fishes,eats,Insects	true,,	False	EN
+Medals,are to be given to,Hopefuls	true,,	False	EN
+Bacteria,play in the pathogenesis of,carcinoma	true,,	False	EN
+John Adams,wrote into,The Constitution	true,,	False	EN
+Kennedy,dispatched,Troops	true,,	False	EN
+Relapsing fever,is transmitted by,lice	true,,	False	EN
+Truman,met,Stalin	true,,	True	EN
+Madison,drafted,The Constitution	true,,	False	EN
+Thor,is the god of,Thunder	true,,	False	EN
+Madison,was born in,Virginia	true,,	False	EN
+Earl Warren,is the governor of,California	true,,	False	EN
+Cook,reached,the north pole	true,,	False	EN
+Lincoln,fell by the hand of,the assassin	true,,	False	EN
+President Mckinley,was born in,Ohio	true,,	False	EN
+Madison,was the architect of,The Constitution	true,,	False	EN
+Antibiotics,are indicated for patients with,erysipelas	true,,	False	EN
+The black death,killed in,Europe	true,,	True	EN
+Cellini,resided in,Paris	true,,	False	EN
+Chocolate,is made from,Cocoa Beans	true,,	False	EN
+Meningitis,can cause,a rash	true,,	False	EN
+Workmen,makes,Clothes	true,,	False	EN
+Corticosteroids,inhibits,Pain	true,,	False	EN
+Eisenhower,is associated with,Communism	true,,	True	EN
+These vines,would produce,Wine	true,,	True	EN
+Oxygen,is found in,Water	true,,	True	EN
+Galileo,was condemned by,The Church	true,,	True	EN
+East Pakistan,is a neighbor of,India	true,,	True	EN
+The winners,was awarded,a medal	true,,	False	EN
+The rash,may be associated with,aseptic meningitis	true,,	False	EN
+Hinduism,is predominant in,India	true,,	True	EN
+Smallpox,is communicated through,The Air	true,,	False	EN
+America,is the land of,Showers	true,,	False	EN
+Debussy,resided in,Paris	true,,	True	EN
+The condor,eats,Carrion	true,,	False	EN
+The praying mantis,eats,Insects	true,,	False	EN
+Verdi,resided in,Paris	true,,	False	EN
+Scott,reached,the south pole	true,,	False	EN
+Lice,can transmit,typhus	true,,	True	EN
+Petroleum,was useful as,a medicine	true,,	False	EN
+Ampicillin,kills,infections	true,,	False	EN
+Cambodia,is bordered by,Thailand	true,,	False	EN
+Wagner,composed,an opera	true,,	False	EN
+President Nixon,appeared on,Television	true,,	True	EN
+The south pole,was reached by,Amundsen	true,,	False	EN
+Amundsen,reached,the south pole	true,,	False	EN
+Cotton fibers,is used in,Clothing	true,,	False	EN
+Animal skins,is used in,Clothing	true,,	False	EN
+Bartlett,appeared on,Television	true,,	True	EN
+Scarlet fever,can cause,a rash	true,,	True	EN
+Bugs,are eaten by,domesticated fowls	true,,	False	EN
+Dependent diabetes,is caused by,a virus	true,,	False	EN
+Santa Claus,reached,the north pole	true,,	True	EN
+Chocolate,contains,Caffeine	true,,	False	EN
+Nitrogen,is found in,The Air	true,,	True	EN
+Aspirin,is used in,Medicine	true,,	False	EN
+Nitrogen,may be obtained from,The Air	true,,	True	EN
+Stravinsky,resided in,Paris	true,,	True	EN
+Einstein,was influenced by,Mach	true,,	False	EN
+Julian,fought against,the persians	true,,	False	EN
+Medicine,includes,plant products	true,,	False	EN
+Typhus fever,is transferred by,lice	true,,	False	EN
+Athletes,was awarded,a medal	true,,	True	EN
+Cattle,eats,Hay	true,,	True	EN
+Gide,looked towards,Communism	true,,	True	EN
+Nigeria,exports,Oil	true,,	True	EN
+Bubonic plague,arrived in,Europe	true,,	True	EN
+The sheep,eats,Hay	true,,	False	EN
+Peary,reached,the north pole	true,,	False	EN
+Members,have appeared on,Television	true,,	False	EN
+Rye,is used to make,Bread	true,,	True	EN
+The brothers,came from,Poland	true,,	False	EN
+Several antibiotics,have been used to treat,infections	true,,	True	EN
+Yellow fever,is transferred by,mosquitoes	true,,	True	EN
+Hops,are ingredients of,Beer	true,,	False	EN
+Delaware,is smaller than,Norfolk	true,,	False	EN
+The soviet union,was ruled by,a dictator	true,,	False	EN
+The increased lh,triggers,ovulation	true,,	False	EN
+Valencia,is popular with,Tourists	true,,	True	EN
+Picasso,resided in,Paris	true,,	False	EN
+Brussels,was bombed by,the nazis	true,,	False	EN
+Cherubini,resided in,Paris	true,,	False	EN
+A lunatic,assassinated,Lincoln	true,,	False	EN
+The ragged men,were living on,Corn	true,,	False	EN
+Secondary syphilis,can cause,a rash	true,,	False	EN
+Lind,was and played,the violin	true,,	False	EN
+Infectious diseases,is transmitted by,Air	true,,	False	EN
+America,will celebrate,the anniversary	true,,	False	EN
+France,produces,Cheese	true,,	False	EN
+Griseofulvin,is effective for,infections	true,,	False	EN
+The south pole,was reached by,A Party	true,,	False	EN
+Potatoes,are used for the manufacture of,Alcohol	true,,	False	EN
+Commander,was awarded,a medal	true,,	False	EN
+Athens,worshipped,Minerva	true,,	False	EN
+Lice,can transmit,trench fever	true,,	True	EN
+Rye,is used to make,Bread	true,,	True	EN
+Delegates,met and drew up,a constitution	true,,	False	EN
+Norway,is a land of,Mountains	true,,	False	EN
+Zinc,is found in,The Air	true,,	True	EN
+Liqueurs,contains,Alcohol	true,,	False	EN
+Typhus,is transferred by,lice	true,,	False	EN
+Neil Armstrong,stepped onto,the moon	true,,	False	EN
+Leukaemia,is caused by,a virus	true,,	False	EN
+India,exports,Rice	true,,	True	EN
+Potatoes,is used to make,Alcohol	true,,	False	EN
+Rabbits,may be fed with,Oats	true,,	False	EN
+Race horse,found in,The Sea	true,,	False	EN
+Jefferson,was a native of,Virginia	true,,	False	EN
+Chocolate,is made from,the cocoa bean	true,,	False	EN
+Mountains,is common to,Norway	true,,	False	EN
+Q fever,can cause,a headache	true,,	True	EN
+Rheumatism,is transmitted by,Air	true,,	True	EN
+Audubon,resided in,Paris	true,,	True	EN
+Smith,is associated with,Communism	true,,	True	EN
+Carcinoma,is caused by,bacteria	true,,	False	EN
+The iraq,believes in,Islam	true,,	True	EN
+General taylor,was in command in,Florida	true,,	True	EN
+The lh,causes,ovulation	true,,	False	EN
+Hcg,causes,ovulation	true,,	True	EN
+Yellow fever,is transferred by,mosquitoes	true,,	False	EN
+A blood cell,contains molecules of,hemoglobin	true,,	True	EN
+Joplin,played,the piano	true,,	False	EN
+Horses,munched,Hay	true,,	False	EN
+Carpenters,makes,Furniture	true,,	False	EN
+Anthrax,requires,Antibiotics	true,,	False	EN
+Fifth oxygen,is found in,The Air	true,,	True	EN
+Crops,are fed to,Livestock	true,,	False	EN
+Mandarin,is officially recognized in,China	true,,	True	EN
+Minerva,was honored at,Athens	true,,	False	EN
+Scarlet fever,may pass through,The Air	true,,	False	EN
+Sore throats,can be caused by,viruses	true,,	False	EN
+Mahler,completed,symphonies	true,,	False	EN
+Sugar Cane,is used to make,Alcohol	true,,	True	EN
+Relapsing fever,has prevailed in,Europe	true,,	True	EN
+Zinc,is found in,The Air	true,,	True	EN
+The russian successes,is associated with,Communism	true,,	True	EN
+The mature mantis,eats,Insects	true,,	False	EN
+Mantids,eats,Insects	true,,	False	EN
+The gentle deer,eats,Crops	true,,	True	EN
+Radon,is found in,The Air	true,,	True	EN
+Leukemia,is caused by,a virus	true,,	False	EN
+Events,had occurred in,America	true,,	True	EN
+Marduk,was worshiped in,Babylon	true,,	True	EN
+The Constitution,was a effort of,legislators	true,,	True	EN
+Ovulation,is induced by,hcg	true,,	False	EN
+Many intellectuals,is associated with,Communism	true,,	False	EN
+Shakespeare,wrote,Hamlet	true,,	False	EN
+The crops,were destroyed by,Grasshoppers	true,,	True	EN
+Lizards,eats,Insects	true,,	False	EN
+Chopin,was born of parents in,Poland	true,,	False	EN
+A rash,may indicate,secondary syphilis	true,,	False	EN
+Diaz,was awarded,a medal	true,,	False	EN
+Hepatitis B,can be transmitted by,Sex	true,,	False	EN
+Malaysia,believes in,Islam	true,,	True	EN
+Aspirin,is irritating to,the stomach	true,,	False	EN
+England,had declared war on,Germany	true,,	False	EN
+Glaciers,are found in,Norway	true,,	True	EN
+Medicines,include,Aspirin	true,,	False	EN
+A herpes zoster,can cause,a rash	true,,	True	EN
+The first men,to land on,the moon	true,,	True	EN
+The Air,would give him,a cold	true,,	False	EN
+Neil Armstrong,walked on,the moon	true,,	False	EN
+Wool,is used in,Clothing	true,,	False	EN
+Madison,were natives of,Virginia	true,,	False	EN
+Furniture,was made by,Carpenters	true,,	False	EN
+Meningitis,is caused by,bacteria	true,,	False	EN
+The federalists,were the creators of,The Constitution	true,,	False	EN
+Infections,may be treated with,ampicillin	true,,	False	EN
+Trachoma,is probably caused by,bacteria	true,,	True	EN
+Wool,is used in,Clothing	true,,	False	EN
+The medal,was bestowed upon,the laziest fellow	true,,	False	EN
+Leather,is used in,Clothing	true,,	True	EN
+Polk,made peace with,Britain	true,,	False	EN
+Truman,committed,Troops	true,,	False	EN
+Lh,causes,ovulation	true,,	False	EN
+Wool,is used in,Clothing	true,,	False	EN
+Infectious diseases,are carried by,The Air	true,,	False	EN
+The lh,triggers,ovulation	true,,	False	EN
+Rye,is used to make,Bread	true,,	False	EN
+Tamoxifen,has been used to treat,Cancer	true,,	True	EN
+These fruit juices,contain quantities of,Alcohol	true,,	False	EN
+Tobacco,is used to a extent in,Medicine	true,,	False	EN
+The increased lh,causes,ovulation	true,,	False	EN
+Race horse,lives in,The Sea	true,,	False	EN
+Diphtheria,is caused by,bacteria	true,,	False	EN
+Mohammedanism,is predominant in,India	true,,	True	EN
+Burma,exports,Rice	true,,	False	EN
+Stalin,represented,the soviet union	true,,	True	EN
+The banana,is consumed by,Birds	true,,	False	EN
+Kennedy,committed,Troops	true,,	True	EN
+Geologists,began to study,the laws	true,,	True	EN
+This preparation,is used in,Medicine	true,,	True	EN
+Mach,influenced,Einstein	true,,	False	EN
+Hinduism,is predominant in,India	true,,	False	EN
+Chocolate,contains,Caffeine	true,,	False	EN
+James Madison,drafted,The Constitution	true,,	False	EN
+The brothers,was born in,Poland	true,,	False	EN
+Geckos,are consuming,Insects	true,,	False	EN
+Proudhon,is associated with,capitalism	true,,	True	EN
+Mononucleosis,is caused by,a virus	true,,	False	EN
+England,declared war on,Germany	true,,	False	EN
+Peary,reached,the north pole	true,,	True	EN
+The laws,are discussed by,Representatives	true,,	True	EN
+Grant,was born in,Ohio	true,,	False	EN
+The banana,are the food of,Birds	true,,	False	EN
+Chocolate,contains,Caffeine	true,,	False	EN
+The anniversary,is commemorated in,America	true,,	False	EN
+The sperm whale,lives in,the ocean	true,,	False	EN
+Ciprofloxacin,is useful for,infections	true,,	True	EN
+Plant products,is used in,Medicine	true,,	False	EN
+Corticosteroids,inhibits,Pain	true,,	False	EN
+Typhus,is spread by,lice	true,,	False	EN
+Allies,made an attack upon,Detroit	true,,	True	EN
+The symphony,written by,a woman	true,,	False	EN
+Acyclovir,is the treatment for,infections	true,,	False	EN
+The indian chiefs,were presented with,Medals	true,,	False	EN
+Women,tend to have,tissue	true,,	True	EN
+Fluoride,is present in,the bones	true,,	True	EN
+Mountains,is common to,Norway	true,,	False	EN
+This rapacious feeder,eats,Carrion	true,,	False	EN
+The scale insects,do damage to,Crops	true,,	True	EN
+Homer,had written,the odyssey	true,,	False	EN
+Another officer,reached,the north pole	true,,	True	EN
+Gold,also occurs in,Water	true,,	False	EN
+Picasso,resided in,Paris	true,,	True	EN
+Persia,was converted to,Islam	true,,	False	EN
+Rye,is used to make,Bread	true,,	False	EN
+A rash,is a manifestation of,Scurvy	true,,	False	EN
+Delegates,drafted,The Constitution	true,,	False	EN
+The beer,also contains,Hops	true,,	False	EN
+Cattle,eats,Corn	true,,	True	EN
+Leprosy,became widespread in,Europe	true,,	True	EN
+Vancomycin,kills,infections	true,,	False	EN
+Clothing,was made from,animal skins	true,,	False	EN
+The first aeroplane,was built by,the wright brothers	true,,	True	EN
+George Bush,is a politician from,Texas	true,,	True	EN
+The chlorate,is used in,Medicine	true,,	True	EN
+Smith,is associated with,Communism	true,,	True	EN
+Iraq,is abundant with,Oil	true,,	False	EN
+Shintoism,is predominant in,Japan	true,,	True	EN
+Infectious disease,requires,Antibiotics	true,,	True	EN
+Erythromycin,kills,infections	true,,	False	EN
+A confederate sympathizer,assassinated,Lincoln	true,,	False	EN
+Reagan,served as governor of,California	true,,	True	EN
+Plantain,is used to make,Wine	true,,	False	EN
+Johnson,was born in,Virginia	true,,	False	EN
+Rats,are a source of,Leprosy	true,,	False	EN
+Gates,built,Microsoft	true,,	False	EN
+The only democrat,is a politician from,Texas	true,,	True	EN
+The first men,walked on,the moon	true,,	False	EN
+The lion,eats,Hay	true,,	False	EN
+The piping plover,eats,Insects	true,,	False	EN
+Lincoln,issued a call for,Troops	true,,	True	EN
+The common cold,is caused by one of,viruses	true,,	False	EN
+Vancomycin,is the treatment for,infections	true,,	False	EN
+Athena,was worshiped in,Athens	true,,	True	EN
+China,exports,Rice	true,,	False	EN
+Adenocarcinoma,is caused by,a virus	true,,	False	EN
+All mankind,lives in,the ocean	true,,	False	EN
+Lice,play in the transmission of,Plague	true,,	False	EN
+Cheese,is manufactured in,England	true,,	False	EN
+General Grant,was born in,Ohio	true,,	False	EN
+A sympathizer,assassinated,Lincoln	true,,	False	EN
+Geckos,eats,Insects	true,,	False	EN
+Crockett,died at,the alamo	true,,	True	EN
+The first men,to walk on,the moon	true,,	False	EN
+Washington,is packed with,Politicians	true,,	True	EN
+Athene,was worshiped in,Athens	true,,	True	EN
+Rabies,is caused by,a virus	true,,	False	EN
+Sweden,is not part of,the european union	true,,	True	EN
+Eisenhower,committed,Troops	true,,	True	EN
+Petroleum,is used in,Medicine	true,,	False	EN
+Singers,appeared on,Television	true,,	True	EN
+Bronchiolitis,is caused by,a virus	true,,	False	EN
+Joseph,had been awarded,a medal	true,,	False	EN
+Virus,may give rise to,Bronchiolitis	true,,	False	EN
+Hops,is used to make,Beer	true,,	False	EN
+Acute herpes,is caused by,a virus	true,,	False	EN
+Norway,is a country of,Mountains	true,,	False	EN
+The piping plover,live upon,Insects	true,,	False	EN
+Cattle,eats,Hay	true,,	False	EN
+Virus,is the cause of,mononucleosis	true,,	False	EN
+Mononucleosis,is caused by,a virus	true,,	False	EN
+Chopin,was born in,Poland	true,,	False	EN
+The virus,is the agent of,mononucleosis	true,,	False	EN
+The writers,is associated with,Communism	true,,	False	EN
+Corn,is used to make,Beer	true,,	False	EN
+Polk,signed a treaty with,Britain	true,,	False	EN
+The anniversary,is commemorated in,America	true,,	False	EN
+Smallpox,is transmitted by,Air	true,,	False	EN
+Nigeria,is the largest in,Africa	true,,	False	EN
+The thor,made,Thunder	true,,	False	EN
+This medal,is to be given to,the student	true,,	False	EN
+The american madness,devastated,America	true,,	False	EN
+Common alcohol,contains,Alcohol	true,,	True	EN
+Thor,controls,Thunder	true,,	False	EN
+Julian,fought,the persians	true,,	False	EN
+Shakespeare,wrote,Hamlet	true,,	False	EN
+President Mckinley,are natives of,Ohio	true,,	False	EN
+Islam,is the religion in,Pakistan	true,,	False	EN
+Inherited syphilis,can cause,a headache	true,,	False	EN
+Erythromycin,kills,infections	true,,	False	EN
+Leukemia,is caused by,a virus	true,,	False	EN
+Gingivitis,is caused by,a virus	true,,	True	EN
+The ancient madness,decimated,the americas	true,,	False	EN
+Anthelmintic,kills,infections	true,,	False	EN
+Beer,is made of,Maize	true,,	False	EN
+Magicians,appeared on,Television	true,,	True	EN
+Compounds,is used in,Medicine	true,,	True	EN
+A strep throat,should be treated with,an antibiotic	true,,	True	EN
+Respighi,composed,an opera	true,,	True	EN
+Ernst,resided in,Paris	true,,	True	EN
+Laos,is bordered by,China	true,,	False	EN
+Inherited syphilis,may produce,Headaches	true,,	False	EN
+Astronauts,had landed on,the moon	true,,	True	EN
+Athena,was the goddess of,Athens	true,,	False	EN
+Relapsing fever,is transferred by,lice	true,,	False	EN
+Wool,was the material for,Clothing	true,,	False	EN
+Selenium,has been detected in,Air	true,,	False	EN
+Hopefuls,was awarded,a medal	true,,	False	EN
+The anniversary,is commemorated in,France	true,,	False	EN
+Lizards,prey on,Insects	true,,	False	EN
+The medal,was bestowed upon,the fellow	true,,	False	EN
+Horses,eats,Hay	true,,	False	EN
+The triassic,saw the rise of,the dinosaurs	true,,	False	EN
+Acyclovir,kills,infections	true,,	False	EN
+Erysipelas,requires,Antibiotics	true,,	False	EN
+Scott,arrived at,the south pole	true,,	False	EN
+Islam,was brought to,India	true,,	True	EN
+Johnson,was a native of,Virginia	true,,	False	EN
+Amundsen,arrived at,the south pole	true,,	False	EN
+Scott,reached,the south pole	true,,	False	EN
+Iran,believes in,Islam	true,,	True	EN
+The fiftieth anniversary,is commemorated in,France	true,,	False	EN
+Lh,brings about,ovulation	true,,	False	EN
+Minerva,was worshiped in,Athens	true,,	False	EN
+Saudi Arabia,is rich in,Oil	true,,	False	EN
+Leptospirosis,is spread by,Rats	true,,	False	EN
+Corn,is fed to,hogs	true,,	False	EN
+Tarquin,fought,the romans	true,,	False	EN
+Stanford,is the governor of,California	true,,	True	EN
+Rubella,can cause,a rash	true,,	True	EN
+Wheat,is used to make,Beer	true,,	False	EN
+Wheat,is used to make,Beer	true,,	False	EN
+Joplin,played on,the piano	true,,	False	EN
+Meningitis,is caused by,bacteria	true,,	False	EN
+Interferon,can be used to fight,infections	true,,	True	EN
+Hops,is used to make,Beer	true,,	True	EN
+Typhus,is transferred by,lice	true,,	False	EN
+Fellows,reached,the north pole	true,,	False	EN
+Gonorrhea,is caused by,bacteria	true,,	False	EN
+Bugs,are eaten by,fowls	true,,	False	EN
+Wool,is converted into,Clothing	true,,	False	EN
+Gates,founded,Microsoft	true,,	False	EN
+Lh,promotes,ovulation	true,,	False	EN
+Antibiotic,indicated in the treatment of,Tuberculosis	true,,	False	EN
+A sore throat,might be caused by,the virus	true,,	True	EN
+Claudio monteverdi,composed,an opera	true,,	True	EN
+A modern leather,is used in,Clothing	true,,	False	EN
+Hepatitis B,is transmitted by,Sex	true,,	False	EN
+Hogs,eats,Corn	true,,	True	EN
+Schumpeter,is associated with,capitalism	true,,	False	EN
+A medal,is awarded for,Commander	true,,	False	EN
+Chocolate,contains,Caffeine	true,,	False	EN
+The fur seals,swim in,The Sea	true,,	True	EN
+Leukemia,induced by,virus	true,,	False	EN
+Epidemic typhus,is transferred by,lice	true,,	False	EN
+John Adams,drafted,The Constitution	true,,	False	EN
+The architects,wrote the words of,The Constitution	true,,	False	EN
+Lava,is used in,Bombs	true,,	True	EN
+Iran,is abundant with,Oil	true,,	False	EN
+Antibiotics,are effective against,Gonorrhea	true,,	False	EN
+A woman,composed,a symphony	true,,	False	EN
+Mononucleosis,is caused by,a virus	true,,	False	EN
+Brahmanism,is predominant in,India	true,,	True	EN
+Gonorrhea,requires,Antibiotics	true,,	False	EN
+Hinduism,is the faith in,India	true,,	False	EN
+The living whale,lives in,The Sea	true,,	False	EN
+China,sent,Rice	true,,	True	EN
+Millet,is used to make,Beer	true,,	False	EN
+Cocoa Beans,is used to make,Chocolate	true,,	False	EN
+Lenin,is associated with,Communism	true,,	True	EN
+Corn,is an ingredient in,Beer	true,,	False	EN
+West Florida,was purchased from,France	true,,	False	EN
+Thor,controls,Thunder	true,,	False	EN
+Sore throats,are the result of,bacteria	true,,	False	EN
+Edward Vi,ruled after,Henry Viii	true,,	False	EN
+An american runner,was awarded,a medal	true,,	True	EN
+Brahmanism,is predominant in,India	true,,	False	EN
+Horses,eats,Hay	true,,	True	EN
+The sperm whale,is found in,the ocean	true,,	False	EN
+A poet,has been to,the north pole	true,,	False	EN
+The vedanta,is the philosophy of,India	true,,	True	EN
+Aspirin,can irritate,the stomach	true,,	False	EN
+Cyprus,is the island in,the mediterranean	true,,	False	EN
+Bread,is now made of,Rye	true,,	False	EN
+Lymphoma,requires,Chemotherapy	true,,	False	EN
+Lh,causes,ovulation	true,,	False	EN
+Britain,celebrates,Jubilee	true,,	False	EN
+New Zealand,is a land of,Cliffs	true,,	False	EN
+Lh,triggers,ovulation	true,,	False	EN
+Brahmanism,is the religion of,India	true,,	False	EN
+Domesticated fowls,eats,Bugs	true,,	False	EN
+Rousseau,is connected with,Communism	true,,	False	EN
+A cereal,is used to make,Bread	true,,	False	EN
+Hamlet,was written by,a dramatist	true,,	False	EN
+A commercial dramatist,wrote,Hamlet	true,,	False	EN
+This mosquito,is the carrier of,Dengue	true,,	False	EN
+Florida,was purchased from,France	true,,	False	EN
+Shakespeare,wrote,King Lear	true,,	False	EN
+Corticosteroids,may provide relief of,Pain	true,,	False	EN
+Poland,exports,Coal	true,,	True	EN
+Plato,advocated,Communism	true,,	False	EN
+Schumpeter,identified with,capitalism	true,,	False	EN
+Hemoglobin,is contained within,the blood cells	true,,	True	EN
+Antibiotics,are effective against,Anthrax	true,,	False	EN
+This brahms,had worked upon,a symphony	true,,	True	EN
+Robert peary,reached,the north pole	true,,	False	EN
+Lymphoid leukaemia,is caused by,a virus	true,,	False	EN
+Minerva,was worshiped in,Athens	true,,	False	EN
+Jubilee,is celebrated in,Britain	true,,	False	EN
+Queensland,occupies the part of,Australia	true,,	False	EN
+Aspirin,may irritate,Stomach	true,,	False	EN
+The incidence,is common to,America	true,,	True	EN
+Bushnell,ruling in,Florida	true,,	True	EN
+Presley,appeared on,Television	true,,	True	EN
+Geysers,are found in,New Zealand	true,,	True	EN
+The sun god,was worshiped in,Egypt	true,,	True	EN
+The light bulb,was invented by,Thomas Edison	true,,	False	EN
+America,will celebrate,the anniversary	true,,	False	EN
+Many liquors,contains,Alcohol	true,,	False	EN
+A writer,will make,a tissue	true,,	True	EN
+These fruit juices,contains,Alcohol	true,,	False	EN
+The fellow,was awarded,a medal	true,,	False	EN
+The British,launched,Archery	true,,	False	EN
+Granules,is used in,Medicine	true,,	True	EN
+Kazakhstan,is a neighbor of,China	true,,	True	EN
+Influenza,is transmitted by,Air	true,,	False	EN
+Scurvy,can cause,a rash	true,,	False	EN
+Many liquors,contain amounts of,alcohols	true,,	False	EN
+Yellow fever,is carried by,a mosquito	true,,	False	EN
+Davy Crockett,died at,the alamo	true,,	False	EN
+A rash,is characteristic of,rubeola	true,,	False	EN
+Keynes,is associated with,capitalism	true,,	True	EN
+Fsh,causes,ovulation	true,,	True	EN
+Chemotherapy,is the treatment for,carcinoma	true,,	False	EN
+Dengue,is transferred by,mosquitoes	true,,	False	EN
+Virus,triggers,autoimmune diabetes	true,,	False	EN
+The allies,bombarded,Odessa	true,,	False	EN
+The english channel,surrounds,Britain	true,,	False	EN
+The laziest fellow,was awarded,a medal	true,,	False	EN
+Mongolia,is a neighbor of,China	true,,	False	EN
+Corticosteroids,may reduce,Pain	true,,	False	EN
+Beer,is brewed from,Millet	true,,	False	EN
+Castro,appeared on,Television	true,,	True	EN
+Carrion,are devoured by,this rapacious feeder	true,,	False	EN
+Cancers,may be treated by,the following salve	true,,	True	EN
+Schumann,played on,the piano	true,,	False	EN
+Griseofulvin,is indicated in the treatment of,infections	true,,	False	EN
+The coal,is brought from,England	true,,	False	EN
+President Johnson,appeared on,Television	true,,	True	EN
+Livestock,eats,Crops	true,,	False	EN
+A dictator,was the leader of,the soviet union	true,,	False	EN
+Poland,is a exporter of,Coal	true,,	False	EN
+Rabies,is caused by,a virus	true,,	False	EN
+Scott,reached,the south pole	true,,	False	EN
+Coleridge,had been awarded,the medal	true,,	False	EN
+West Florida,had been bought from,France	true,,	False	EN
+Representative bartlett,appeared on,Television	true,,	True	EN
+Metronidazole,is the treatment for,infection	true,,	True	EN
+Poland,exports,Coal	true,,	False	EN
+Cook,reached,the north pole	true,,	True	EN
+Viruses,are known to cause,Leukemia	true,,	False	EN
+Jupiter,controls,Thunder	true,,	True	EN
+Chlorine,is found in,Water	true,,	True	EN
+The rash,may suggest,Measles	true,,	False	EN
+Stella,resided in,Paris	true,,	True	EN
+Chronic gonorrhea,means the presence of,bacteria	true,,	True	EN
+Elements,may have reached,America	true,,	True	EN
+Copernicus,was born in what is,Poland	true,,	False	EN
+Cattle,will eat,Hay	true,,	False	EN
+Smetana,began to compose,the opera	true,,	True	EN
+The alcohol,is contained in,the brandy	true,,	False	EN
+Peary,reached,the north pole	true,,	False	EN
+Roosevelt,made peace with,Britain	true,,	True	EN
+The beet,is used to make,Alcohol	true,,	False	EN
+Viral hepatitis,is caused by,a virus	true,,	False	EN
+Norway,shows,a piedmont	true,,	True	EN
+Tunisians,appeared on,Television	true,,	True	EN
+Wine,comes from,the vine	true,,	False	EN
+The rash,may be associated with,meningitis	true,,	False	EN
+Progesterone,facilitates,ovulation	true,,	True	EN
+Linen,is used in,Clothing	true,,	True	EN
+Wheat,is used for making,Beer	true,,	False	EN
+Wool,is a material for,Clothing	true,,	False	EN
+Islam,was introduced into,Yemen	true,,	True	EN
+That cancer,should be treated with,iodine	true,,	True	EN
+Rye,is used for making,Bread	true,,	False	EN
+These lymphomas,are responsive to,Chemotherapy	true,,	True	EN
+The student,was awarded,a medal	true,,	False	EN
+A poet,reached,the north pole	true,,	False	EN
+Testosterone,can increase,Libido	true,,	True	EN
+Buckskin,is used in,Clothing	true,,	True	EN
+The sage,is consumed by,Rabbits	true,,	False	EN
+The indian chiefs,was awarded,a medal	true,,	False	EN
+Bennett,could have written,a symphony	true,,	True	EN
+The Netherlands,produces,Cheese	true,,	True	EN
+Norfolk,is bigger than,Delaware	true,,	False	EN
+The south pole,was reached by,Scott	true,,	False	EN
+Jove,controls,Thunder	true,,	True	EN
+Goodyear,however obtained,the medal	true,,	True	EN
+Homer,wrote,the odyssey	true,,	False	EN
+Cancers,may be treated by,the salve	true,,	True	EN
+Picasso,developed,cubism	true,,	True	EN
+A zoster,can cause,a rash	true,,	True	EN
+Burma,exports,Rice	true,,	False	EN
+The living whale,is to be seen at,Sea	true,,	False	EN
+Plato,is associated with,Communism	true,,	False	EN
+Leprosy,is spread by,Rats	true,,	False	EN
+Racine,would have written,Hamlet	true,,	True	EN
+Aspirin,upsets,the stomach	true,,	False	EN
+The federalists,drafted,The Constitution	true,,	False	EN
+Yellow fever,was carried by,mosquitoes	true,,	False	EN
+Pyrrhus,fought,the romans	true,,	True	EN
+Headache,is in the course of,Pneumonia	true,,	False	EN
+Root beers,contains,Alcohol	true,,	False	EN
+Paderewski,played,the piano	true,,	True	EN
+Medicines,include,nitroglycerin	true,,	False	EN
+Hops,is used to make,Beer	true,,	True	EN
+Morris,actually wrote,The Constitution	true,,	False	EN
+A policeman,was awarded,a medal	true,,	True	EN
+Cleopatra,was married to,Julius Caesar	true,,	False	EN
+Keynes,is associated with,capitalism	true,,	True	EN
+Oswald,killed,Jfk	true,,	False	EN
+Archery,was invented by,The British	true,,	False	EN
+The wine,is made from,Plantain	true,,	False	EN
+Burma,has a border with,China	true,,	False	EN
+Hemoglobin,is found in,blood cells	true,,	True	EN
+Pneumonia,can cause,a headache	true,,	False	EN
+Amundsen,reached,the south pole	true,,	False	EN
+Epidemic typhus,is spread by,lice	true,,	False	EN
+Typhus,is transferred by,lice	true,,	False	EN
+Grippe,are believed to be caused by,bacteria	true,,	True	EN
+Grasshoppers,eats,Crops	true,,	True	EN
+Harding,came from,Ohio	true,,	False	EN
+Habits,adopted by,Rome	true,,	False	EN
+Chocolate,contains,Caffeine	true,,	False	EN
+Hcg,causes,ovulation	true,,	False	EN
+Oswald,assassinated,Jfk	true,,	False	EN
+Sheepskin,is used in,Clothing	true,,	True	EN
+Cherubini,settled in,Paris	true,,	False	EN
+Rubeola,can cause,a rash	true,,	False	EN
+Donizetti,composed,an opera	true,,	True	EN
+Burma,exports,Rice	true,,	True	EN
+The lion,eats,Hay	true,,	False	EN
+Secondary syphilis,can cause,a rash	true,,	False	EN
+Mantids,prey on,Insects	true,,	False	EN
+Ross,reached,the north pole	true,,	True	EN
+Picasso,resided in,Paris	true,,	True	EN
+Mithridates,set upon,the romans	true,,	False	EN
+Rye,is used to make,Bread	true,,	False	EN
+The sheep,were fed on,Hay	true,,	False	EN
+Sibelius,composed,a symphony	true,,	True	EN
+Browne,resided in,Paris	true,,	True	EN
+Aids,is transmitted by,Sex	true,,	False	EN
+Livestock,eats,Crops	true,,	True	EN
+The early christians,is associated with,Communism	true,,	False	EN
+A poet,wrote,the iliad	true,,	False	EN
+Halevy,resided in,Paris	true,,	True	EN
+Osteosarcoma,also requires,Chemotherapy	true,,	False	EN
+Blood cells,consist of,hemoglobin	true,,	True	EN
+Skins,were also employed in,the medicine	true,,	False	EN
+The condor,feeds upon,Carrion	true,,	False	EN
+Croesus,fought,the persians	true,,	False	EN
+Students,is associated with,Communism	true,,	True	EN
+Chocolate,has,Caffeine	true,,	False	EN
+A skilful writer,rebuilds,tissue	true,,	False	EN
+Lh,causes,ovulation	true,,	False	EN
+Plato,is associated with,Communism	true,,	True	EN
+Rye,is used to make,Bread	true,,	True	EN
+The plagues,is transmitted by,Air	true,,	False	EN
+A coin,was used in,Rome	true,,	True	EN
+Croesus,made war on,the persians	true,,	False	EN
+Meningitis,should be treated with,Antibiotics	true,,	True	EN
+The fearful plague,broke over,Europe	true,,	False	EN
+Homer,composed,the odyssey	true,,	False	EN
+Liqueurs,contain a proportion of,Alcohol	true,,	False	EN
+Many fishes,eat quantities of,Insects	true,,	False	EN
+Hops,is used to make,Beer	true,,	False	EN
+Ross,reached,the north pole	true,,	True	EN
+Osteosarcoma,requires,Chemotherapy	true,,	False	EN
+Nigeria,exports,Oil	true,,	False	EN
+China,exports,Rice	true,,	True	EN
+The hog,eats,Corn	true,,	True	EN
+Lincoln,was stricken down by,the assassin	true,,	True	EN
+Aids,is transmitted through,Sex	true,,	False	EN
+The dinosaurs,appeared in,the triassic	true,,	True	EN
+Deerskin,is used in,Clothing	true,,	False	EN
+Lincoln,was assassinated by,a sympathizer	true,,	False	EN
+Deerskins,is used in,Clothing	true,,	False	EN
+Hops,are used in making,Beer	true,,	False	EN
+Infections,respond to treatment with,sulfonamides	true,,	False	EN
+Furniture,was produced by,Artisans	true,,	False	EN
+Ascension day,is the end of,Easter	true,,	True	EN
+Lincoln,was assassinated by,a confederate sympathizer	true,,	False	EN
+A cold,is transmitted by,Air	true,,	False	EN
+Tarquin,fought against,the romans	true,,	False	EN
+This cholinesterase,is found in,blood cells	true,,	True	EN
+Tuberculosis,requires,Antibiotics	true,,	False	EN
+Competitors,was awarded,a medal	true,,	True	EN
+Erythromycin,may be used to treat,infections	true,,	False	EN
+Cleveland,committed,Troops	true,,	True	EN
+An ox,eats,Hay	true,,	True	EN
+The lion,shall eat,Hay	true,,	False	EN
+The medal,was granted to,all survivors	true,,	False	EN
+Yellow fever,is caused by,a virus	true,,	False	EN
+America,exports,Maize	true,,	True	EN
+The communists,want,Communism	true,,	False	EN
+Elderberries,is used to make,Wine	true,,	False	EN
+Leather,is used in,Clothing	true,,	False	EN
+Mononucleosis,is probably caused by,a virus	true,,	True	EN
+The heavenly artisans,makes,Clothes	true,,	True	EN
+Rye,is used in,breads	true,,	False	EN
+Eisenhower,decided to send,Troops	true,,	False	EN

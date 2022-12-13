@@ -1,0 +1,986 @@
+Griseofulvin,kills,infections	Griseofulvin,is indicated in the treatment of,infections	True	EN
+Hitler,was born in,Poland	Hitler,had marched into,Poland	False	EN
+Hamilton,appointed governor of,Texas	Hamilton,is a politician from,Texas	False	EN
+The ancient madness,devastated,America	The ancient madness,decimated,the americas	True	EN
+Explorer,founded,Microsoft	Microsoft,bundled,Explorer	False	EN
+Kepler,was persecuted by,The Church	The Church,did not persecute,Kepler	False	EN
+The vine,is used to make,Wine	Wine,comes from,the vine	True	EN
+Sebastopol,was bombed by,the allies	The allies,landed from,Sebastopol	False	EN
+Bret Harte,is the governor of,California	Bret Harte,made from,California	False	EN
+Bryan,is the governor of,California	California,gave and gave to,Bryan	False	EN
+Helium,is found in,The Air	Helium,also occurs in,The Air	True	EN
+Galileo,was persecuted by,The Church	Galileo,was forced by,The Church	True	EN
+A plague,decimated,the americas	America,has suffered from,a plague	False	EN
+Epicurus,interprets,Laws	Epicurus,was questioned by,the laws	False	EN
+Jupiter,can be seen from,the moon	Jupiter,passes like,a moon	False	EN
+The fibroblasts,rebuilds,tissue	The fibroblasts,lay down,tissue	False	EN
+Irving,wrote,Hamlet	Irving,first played,Hamlet	False	EN
+Bruce,owns,a taxi	Bruce,got into,a taxi	False	EN
+George Mason,drafted,The Constitution	George Mason,refused to sign,The Constitution	False	EN
+Georgia,shares a border with,Russia	Georgia,became a vassal of,Russia	False	EN
+Sparta,was bombed by,the allies	The allies,appeared at,Sparta	False	EN
+Chlorine,is found in,Water	Chlorine,is passed into,Water	False	EN
+Foreign tourists,was born in,Poland	Poland,was visited by,foreign tourists	False	EN
+Calcium phosphate,is essential for,Bones	Calcium phosphate,is the constituent of,the bones	True	EN
+Albert,ruled after,Victoria	Victoria,was married to,Albert	False	EN
+Conrad,was born in,America	Conrad,depend on,America	False	EN
+Progesterone,causes,ovulation	Progesterone,could inhibit,ovulation	False	EN
+Arthur,made peace with,Japan	Arthur,was ceded to,Japan	False	EN
+Widow,was the leader of,the soviet union	Widow,left for,the soviet union	False	EN
+Republican cowards,drafted,The Constitution	Republican cowards,talk about,The Constitution	False	EN
+The echoes,was worshiped in,Jerusalem	Jerusalem,was filled with,the echoes	False	EN
+This officer,died at,Trafalgar	This officer,saved after,Trafalgar	False	EN
+The barbarians,interprets,Laws	The barbarians,subverted,the laws	False	EN
+Lincoln,was born in,Ohio	Ohio,declared for,Lincoln	False	EN
+The latin american,was president during,the cold war	The latin american,left after,the cold war	False	EN
+The black writer,was born in,America	The black writer,has been ignored in,America	False	EN
+Hydrogen,is found in,The Air	Hydrogen,is burned in,Air	False	EN
+Pius Xi,is associated with,Communism	Pius Xi,had condemned,Communism	False	EN
+All physicians,married,Julius Caesar	Julius Caesar,granted to,all physicians	False	EN
+Lh,increases,your pulse	Lh,is released in,pulses	False	EN
+Major anderson,assassinated,Lincoln	Lincoln,was mustered by,major anderson	False	EN
+General Mills,founded,Ibm	General Mills,acquires,Ibm	False	EN
+France,was born in,Poland	Poland,was the ally of,France	False	EN
+Douglas,assassinated,Lincoln	Lincoln,accused,Douglas	False	EN
+The oxen,eats,Corn	The oxen,may be used to carry,the corn	False	EN
+Holometabolous insects,eats,Insects	Holometabolous insects,are recognized,Insects	False	EN
+Proletarians,is associated with,Communism	Proletarians,come to,Communism	False	EN
+The viewer,appeared on,Television	Television,presents to,the viewer	False	EN
+Mercury,can be seen from,the moon	Mercury,is similar to,the moon	False	EN
+Matthew Arnold,was born in,America	Matthew Arnold,discourses in,America	False	EN
+Dryden,composed,an opera	The opera,is modelled on,Dryden	False	EN
+Some marks,was awarded,a medal	Some marks,are found upon,Medals	False	EN
+John Adams,works in,Washington	Washington,had been succeeded by,John Adams	False	EN
+Costume,was worn in,Greece	Costume,disappeared in,Greece	False	EN
+Dust,is used in,Clothing	Clothing,attracts,dust	False	EN
+The banks,was persecuted by,The Church	The Church,stands near,the banks	False	EN
+Harper,is a politician from,New York	Harper,remember,New York	False	EN
+Polished iron,is found in,The Air	Polished iron,retains in,Air	False	EN
+Sumner,was persecuted by,The Church	Sumner,died and was buried in,The Church	False	EN
+Erythrocytes,rebuilds,tissue	Erythrocytes,may be found in,the tissues	False	EN
+The practised intellect,interprets,Laws	The practised intellect,is not exempt from,the laws	False	EN
+A Party,is a politician from,Texas	A Party,was arising in,Texas	False	EN
+President,assassinated,Jfk	Jfk,became,President	False	EN
+Reagan,raised,Taxes	Reagan,will raise,Taxes	False	EN
+Amerigo Vespucci,was born in,America	America,was named after,Amerigo Vespucci	False	EN
+The windward passage,surrounds,Britain	Britain,is shut out from,the windward passage	False	EN
+Mead,was persecuted by,The Church	Mead,died and was buried in,The Church	False	EN
+Militiamen,works in,Washington	Washington,called out,Militiamen	False	EN
+Schlesinger,composed,an opera	Schlesinger,sent me,Operas	False	EN
+The Tramp,interprets,Laws	The Tramp,is troubled by,the laws	False	EN
+Nigeria,was the supplier of,Oil	Nigeria,exports,Oil	True	EN
+The histologist,rebuilds,tissue	The histologist,is interested in,the tissues	False	EN
+June Bugs,eats,Bugs	June Bugs,are not,Bugs	False	EN
+The young bugs,eats,Insects	The young bugs,are shorter than,the insects	False	EN
+Ambassadors,interprets,Laws	Ambassadors,are not subject to,the laws	False	EN
+The pony,lives in,The Sea	The pony,shuffled across,The Sea	False	EN
+England,exports,Coal	The coal,came from,England	True	EN
+The water boatmen,eats,Bugs	These bugs,resemble,the water boatmen	False	EN
+Chopin,played,the piano	Chopin,thought in terms of,the piano	False	EN
+The independence,was bombed by,the allies	The independence,was recognized by,the allies	False	EN
+The north pole,was reached by,Peary	Peary,reached,the north pole	True	EN
+Griseofulvin,kills,infections	Griseofulvin,is effective for,infections	True	EN
+The invaders,died at,the alamo	The alamo,could hold out against,the invaders	False	EN
+A solid foundation,was worn in,Rome	Rome,laid,a solid foundation	False	EN
+Vienna,was bombed by,the nazis	Nazis,had taken possession of,Vienna	False	EN
+A heedless lad,was born in,America	A heedless lad,is not to be found in,America	False	EN
+Alexander Hamilton,drafted,The Constitution	Alexander Hamilton,had a admiration for,The Constitution	False	EN
+The burghers,was born in,Poland	The burghers,dropped out in,Poland	False	EN
+Wagner,was the composer of,Opera	Wagner,composed,an opera	True	EN
+America,was celebrating,the anniversary	The anniversary,is commemorated in,America	True	EN
+These wonderful insects,eats,Insects	These wonderful insects,enslave,Insects	False	EN
+Jupiter,can be seen from,Earth	Jupiter,is big as,the earth	False	EN
+Gallus,was worn in,Rome	Gallus,opened at,Rome	False	EN
+Meningitis,can be caused by,bacteria	Meningitis,is caused by,bacteria	True	EN
+Mahler,composed,a symphony	Mahler,completed,symphonies	True	EN
+President taylor,is the governor of,California	President taylor,had sent to,California	False	EN
+President Johnson,was the assassin of,Lincoln	President Johnson,assassinated,Lincoln	True	EN
+A slave state,is bigger than,Texas	Texas,would become,a slave state	False	EN
+Ferrous iron,is found in,The Air	Ferrous iron,is oxidized by,The Air	False	EN
+Stewart,is a politician from,Texas	Stewart,teaches at the university of,Texas	False	EN
+The blight,decimated,the americas	The blight,appeared in,America	False	EN
+The augusta,is bigger than,Delaware	The augusta,moved up,the delaware	False	EN
+This captain,is the governor of,California	This captain,has slipped in,California	False	EN
+Osteoblasts,rebuilds,tissue	Such tissue,gives rise to,osteoblasts	False	EN
+The emperor,ruled after,Victoria	The emperor,won the sympathy of,Victoria	False	EN
+Herod,fought,the romans	The romans,appointed,Herod	False	EN
+Poor men,interprets,Laws	Poor men,should break,the laws	False	EN
+Malaysia,is a neighbor of,China	Malaysia,established relations with,China	False	EN
+Salvador,is bigger than,Texas	Salvador,is nearer than,Texas	False	EN
+Aluminium,is found in,Water	Aluminium,is not oxidized by,Water	False	EN
+Infections,have been successfully treated with,Vancomycin	Vancomycin,kills,infections	True	EN
+The ocean,is common to,all mankind	All mankind,lives in,the ocean	True	EN
+The lark,eats,Corn	The lark,soared above,the corn	False	EN
+Tobacco,kills,Cancer	The cancer,is not caused by,tobacco	False	EN
+Stalin,was born in,Poland	Stalin,annexed,Poland	False	EN
+Pestilence,is transmitted by,Air	The Air,breathed,pestilence	False	EN
+Carlos,is the governor of,California	Carlos,sails for,California	False	EN
+Castro,moved toward,Communism	Castro,is associated with,Communism	True	EN
+Doxycycline,kills,infections	Doxycycline,is recommended for patients with,infections	False	EN
+Frankfort,was bombed by,the allies	The allies,were concentrated at,Frankfort	False	EN
+Walesa,was born in,Poland	Walesa,is elected president of,Poland	False	EN
+Women,is the governor of,California	Women,were scarce in,California	False	EN
+Salts,is essential for,Bones	Bones,may lose,salts	False	EN
+Zinc,is found in,Water	Zinc,takes oxygen from,the water	False	EN
+Mack,was worn in,Rome	Mack,advanced to,Rome	False	EN
+Du Bois,works in,Washington	Du Bois,criticized,Washington	False	EN
+Epidemic typhus,is transferred by,lice	Epidemic typhus,is transmitted by,lice	True	EN
+The communists,was the leader of,the soviet union	The communists,leaned toward,the soviet union	False	EN
+Owen,was persecuted by,The Church	Owen,was dean of,Church	False	EN
+An adventurer,is a politician from,Texas	An adventurer,appeared in,Texas	False	EN
+Liberia,is the largest in,Africa	Liberia,is the republic in,Africa	False	EN
+Oklahoma,surpassed,Texas	Oklahoma,is bigger than,Texas	True	EN
+Hummingbirds,also eat,Insects	Hummingbirds,eats,Insects	True	EN
+Scarlet fever,is transmitted by,Air	Scarlet fever,may pass through,The Air	True	EN
+An pathologist,rebuilds,tissue	All such tissue,should be sent to,an pathologist	False	EN
+The second reader,was to have,a medal	The second reader,was awarded,a medal	True	EN
+The achomawi,is the governor of,California	The achomawi,maintained in,California	False	EN
+Heretics,interprets,Laws	The laws,were extended to,heretics	False	EN
+John Adams,is a politician from,Texas	John Adams,had offered for,Texas	False	EN
+Yellow fever,decimated,the americas	Yellow fever,occurs in,America	False	EN
+Cattle,eats,Crops	Crops,are fed to,Cattle	True	EN
+All other statesmen,assassinated,Lincoln	Lincoln,overtopped,all other statesmen	False	EN
+Servants,is a politician from,New York	New York,was full of,Servants	False	EN
+Strong washerwomen,makes,Clothes	Strong washerwomen,are beating,Clothes	False	EN
+A subject,is the governor of,Florida	Florida,would not cease to be,a subject	False	EN
+France,declared war on,Belgium	France,formed with,Belgium	False	EN
+Truman,was awarded,a medal	Truman,awarded him,the medal	False	EN
+Denmark,declared war on,Germany	Denmark,is connected with,Germany	False	EN
+Islam,is the religion of,Afghanistan	Afghanistan,believes in,Islam	True	EN
+Acacia,is used to make,Alcohol	Acacia,is insoluble in,Alcohol	False	EN
+Members,interprets,Laws	Members,shall comply with,all laws	False	EN
+Wilson,now appears on,Television	Wilson,appeared on,Television	False	EN
+The proprietor,was awarded,a medal	The proprietor,pointed out,the very medal	False	EN
+Leather,has been used for,Clothing	Leather,is used in,Clothing	True	EN
+Muskmelons,prevents,Disease	Muskmelons,are liable to,a disease	False	EN
+General Lee,is the governor of,Florida	General Lee,marched upon,Florida	False	EN
+The wax,is used in,Clothing	The wax,is secreted as,a clothing	False	EN
+Prajapati,controls,the sun	Prajapati,is a name of,the sun	False	EN
+Truman,decided to send,Troops	Truman,committed,Troops	True	EN
+A human,eats,Bugs	A human,thinks of,Bugs	False	EN
+Vancomycin,kills,infections	Infections,have been successfully treated with,Vancomycin	True	EN
+Ethiopia,is the largest in,Africa	Ethiopia,instituted proceedings against,Africa	False	EN
+Carcinoma,requires,Chemotherapy	Chemotherapy,is the treatment for,carcinoma	True	EN
+Carver,ruled after,Victoria	Carver,describes like,Victoria	False	EN
+Magnesium,is found in,Water	Magnesium,does not decompose,Water	False	EN
+A englishman,is a politician from,New York	A englishman,domiciled in,New York	False	EN
+The mormons,drafted,The Constitution	The mormons,should yield to,The Constitution	False	EN
+The proprietor,was born in,America	The proprietor,never visited,America	False	EN
+Abraham Lincoln,assassinated,Lincoln	Abraham Lincoln,was not the son of,Lincoln	False	EN
+Borodin,was the leader of,the soviet union	Borodin,left for,the soviet union	False	EN
+Chopin,played,the piano	Chopin,sat down at,the piano	False	EN
+Sweden,is not part of,the european union	Sweden,entered,the european union	False	EN
+Speaker,is the governor of,California	Speaker,yield from,California	False	EN
+Thornton,works in,Washington	Thornton,found himself at,Washington	False	EN
+The arabs,was the leader of,the soviet union	The soviet union,supported,the arabs	False	EN
+Desperate parties,drafted,The Constitution	Desperate parties,were in arms against,The Constitution	False	EN
+Provincials,works in,Washington	Washington,had been placed in command of,provincials	False	EN
+Prc,is a neighbor of,China	Prc,represents,China	False	EN
+Aspirin,upsets,the stomach	Aspirin,is irritating to,the stomach	True	EN
+The negro,is associated with,Communism	The negro,will not buy,Communism	False	EN
+Cellini,lodged in,Paris	Cellini,resided in,Paris	True	EN
+The sovereigns,ruled after,Victoria	Victoria,sent to each of,the sovereigns	False	EN
+Mast cells,rebuilds,tissue	Mast cells,are located in,tissue	False	EN
+Crustaceans,eats,Insects	Insects,differ from,crustaceans	False	EN
+The trade,is common to,America	The trade,brought to,America	False	EN
+Truman,met,Stalin	Truman,mentioned to,Stalin	False	EN
+Tuberculosis,is spread by,Rats	Rats,are not attacked by,Tuberculosis	False	EN
+Seward,assassinated,Lincoln	Lincoln,is in connection with,Seward	False	EN
+The aluminum,is found in,Water	The aluminum,is rinsed in,Water	False	EN
+Aden,is packed with,Tourists	Some tourist,speaks of,Aden	False	EN
+France,celebrated,the fiftieth anniversary	The fiftieth anniversary,is commemorated in,France	True	EN
+The delegates,assassinated,Lincoln	Lincoln,appeared before,the delegates	False	EN
+Geronimo,is the governor of,Florida	Geronimo,were exiled to,Florida	False	EN
+The cardiac glycosides,is used in,Medicine	The cardiac glycosides,are of importance in,Medicine	True	EN
+Gates,founded,Microsoft	Gates,started,Microsoft	True	EN
+The south koreans,was the leader of,North Korea	The south koreans,have attacked,North Korea	False	EN
+Edward Vi,succeeds,Henry Viii	Edward Vi,ruled after,Henry Viii	True	EN
+Artists,composed,a symphony	Artists,paint in,symphonies	False	EN
+The old man,is consumed by,Birds	The birds,uttered at,the old man	False	EN
+The first airplane,was invented by,the wright brothers	The wright brothers,flew,the first airplane	False	EN
+Burma,is a neighbor of,India	Burma,has been separated from,India	False	EN
+Deputies,works in,Washington	Deputies,were in touch with,Washington	False	EN
+Jefferson,was born in,Virginia	Jefferson,was a native of,Virginia	True	EN
+Scarlet fever,is transmitted by,Air	Scarlet fever,are not through,The Air	False	EN
+Reagan,was the leader of,the soviet union	Reagan,referred to,the soviet union	False	EN
+The notables,drafted,The Constitution	The notables,met to consider,The Constitution	False	EN
+Brown,was awarded,a medal	Brown,illustrates,a medal	False	EN
+Russell,is the governor of,Florida	Russell,returned to,Florida	False	EN
+Wormwood,is used to make,Bread	Wormwood,smells,the bread	False	EN
+Monroe,assassinated,Lincoln	Lincoln,arrived at,Monroe	False	EN
+Rice,is brought from,Burma	Burma,exports,Rice	True	EN
+The composer,composed,an opera	The composer,brought after,Opera	False	EN
+The nazis,were bombing,Brussels	Brussels,was bombed by,the nazis	True	EN
+Fremont,is the governor of,California	Fremont,led into,California	False	EN
+David,was worshiped in,Jerusalem	David,chose,Jerusalem	False	EN
+China,is bordered by,Mongolia	Mongolia,is a neighbor of,China	True	EN
+Afghanistan,shares a border with,Russia	Russia,declared,Afghanistan	False	EN
+Potatoes,is used to make,Bread	Potatoes,are better than,Bread	False	EN
+Irish emigrants,was born in,America	America,was lost by,irish emigrants	False	EN
+The captain,makes,Clothes	The captain,asked for,some clothes	False	EN
+Amundsen,had reached,the south pole	Amundsen,reached,the south pole	True	EN
+The blanched trees,is consumed by,Birds	Birds,were twittering in,the blanched trees	False	EN
+Luther,ruled after,Henry Viii	Luther,replied to,Henry Viii	False	EN
+Joseph henry,works in,Washington	Joseph henry,was the man of,Washington	False	EN
+The nixons,is the governor of,California	The nixons,flew to,California	False	EN
+Bangladesh,is a neighbor of,India	Bangladesh,signed a treaty with,India	False	EN
+Private traders,is the governor of,California	Private traders,entered with,California	False	EN
+The sovereigns,was born in,Poland	The sovereigns,sent deputations to,Poland	False	EN
+Holland,declared war on,Belgium	Belgium,separated itself from,Holland	False	EN
+Bone black,is found in,Water	Bone black,is ground up with,Water	False	EN
+Scientists,appeared on,Television	Scientists,contributed to the development of,Television	False	EN
+Pierce,was born in,Virginia	Virginia,cast votes for,Pierce	False	EN
+A shop assistant,makes,Clothes	A shop assistant,arrived bringing,some clothes	False	EN
+The Lord,married,King David	King David,danced before,The Lord	False	EN
+Pyrrhus,fought,the romans	The romans,sent an embassy to,pyrrhus	False	EN
+A congressman,works in,Washington	A congressman,invited her to,Washington	False	EN
+Flute,is rarely used in,a symphony	The symphony,is scored for,Flute	False	EN
+Soldiers,was the leader of,North Korea	Soldiers,returned to,North Korea	False	EN
+Athens,was bombed by,the nazis	The nazis,occupied,Athens	False	EN
+The average viewer,appeared on,Television	The average viewer,will watch,Television	False	EN
+The states,exports,Sugar	Sugar,can not be sold in,the states	False	EN
+The speaker,assassinated,Lincoln	Lincoln,stood watching,the speaker	False	EN
+Tobacco,kills,Cancer	Tobacco,can lead to,Cancer	False	EN
+Cystitis,is caused by,bacteria	Cystitis,produces without,bacteria	False	EN
+The naked tree,is consumed by,Birds	The birds,are crying in,the naked tree	False	EN
+Portuguese,is officially recognized in,China	Portuguese,arrived off the coast of,China	False	EN
+Genius,composed,an opera	Genius,developed into,the operas	False	EN
+The sovereigns,was born in,Poland	The sovereigns,seized upon,Poland	False	EN
+Tarbell,ruled after,Victoria	Tarbell,arrived in,Victoria	False	EN
+The nereid,controls,the sun	The sun,was angry with,the nereid	False	EN
+The genius,composed,a symphony	The symphony,seems to come from,the genius	False	EN
+Prague,was bombed by,the nazis	The nazis,marched into,Prague	False	EN
+China,sends,Rice	China,exports,Rice	True	EN
+Belgium,declared war on,Germany	Germany,declared and invaded,Belgium	False	EN
+Clinton,was the leader of,North Korea	Clinton,tells,North Korea	False	EN
+The brown skin,is used in,Clothing	The brown skin,produces the effect of,Clothing	False	EN
+The earth,can be seen from,the moon	The moon,pulls on,the earth	False	EN
+Psychologists,appeared on,Television	Psychologists,look at,Television	False	EN
+Fertilizer,is essential for,Bones	Bones,were made into,fertilizer	False	EN
+Lincoln,was murdered by,a lunatic	A lunatic,assassinated,Lincoln	True	EN
+Bach,played,the piano	Piano,works by,Bach	False	EN
+Hopkins,was persecuted by,The Church	Hopkins,was received into,The Church	False	EN
+Shakespeare,wrote,Hamlet	Shakespeare,did not write,Hamlet	False	EN
+The Netherlands,declared war on,Belgium	Belgium,separated from the rest of,The Netherlands	False	EN
+South Australia,is part of,Australia	South Australia,is a state in,Australia	True	EN
+African marxists,is associated with,Communism	African marxists,have repudiated,Communism	False	EN
+Howard,drafted,The Constitution	Howard,commentaries on,The Constitution	False	EN
+Canada,is bigger than,Vermont	Vermont,is bounded north by,Canada	False	EN
+Louisiana,was purchased from,France	Louisiana,had been ceded by,France	False	EN
+Siam,shares a border with,Thailand	Siam,was renamed,Thailand	False	EN
+Japan,is a neighbor of,China	Japan,had a interest in,China	False	EN
+Hanks,assassinated,Lincoln	Lincoln,was married to,Hanks	False	EN
+Louis xii,ruled after,Henry Viii	Henry Viii,formed with,louis xii	False	EN
+Cole,is used to make,Alcohol	Cole,has been treating with,Alcohol	False	EN
+An sovereign,ruled after,Henry Viii	An sovereign,had visited since,Henry Viii	False	EN
+The gulls,eats,Crops	The gulls,came and saved,the crops	False	EN
+Castro,is the governor of,California	Castro,ordered to leave,California	False	EN
+Commissioners,was born in,America	Commissioners,were to be sent to,America	False	EN
+Coats,was worn in,Rome	Coats,are worn at,Rome	True	EN
+Switzerland,declared war on,Germany	Switzerland,compared with that of,Germany	False	EN
+The dispossessed the migrants,is the governor of,California	The dispossessed the migrants,flowed into,California	False	EN
+Smith,assassinated,Lincoln	Smith,seconded the nomination of,Lincoln	False	EN
+Neutrophils,rebuilds,tissue	The tissues,show masses of,neutrophils	False	EN
+The commonwealth,is part of,Australia	Australia,joined,the commonwealth	False	EN
+Many intellectuals,have been drawn to,Communism	Many intellectuals,is associated with,Communism	True	EN
+Roosevelt,led through,the great depression	Roosevelt,was president during,the great depression	True	EN
+This sculptor,resided in,Paris	This sculptor,exhibited at,Paris	False	EN
+Philadelphia,was bombed by,the allies	The allies,dominated,Philadelphia	False	EN
+China,shares a border with,Russia	China,versus,Russia	False	EN
+Citizens,drafted,The Constitution	The Constitution,does not provide for,Citizens	False	EN
+Nixon,works in,Washington	Nixon,went and visited,Washington	False	EN
+A clap,is transmitted by,Air	A clap,shook,The Air	False	EN
+The witnesses,drafted,The Constitution	The witnesses,had the relation to,The Constitution	False	EN
+Administrators,founded,Microsoft	Microsoft,has provided,Administrators	False	EN
+Botswana,is the largest in,Africa	Botswana,is a country in,Africa	False	EN
+The north star,can be seen from,the moon	The moon,rose with,the north star	False	EN
+Server,founded,Microsoft	Microsoft,provides in,server	False	EN
+Nobody,ruled after,Victoria	Nobody,said in,Victoria	False	EN
+A chief executive,drafted,The Constitution	The Constitution,envisioned,a chief executive	False	EN
+Florida,is bigger than,Texas	Texas,had been exchanged for,Florida	False	EN
+Vancomycin,is the drug for,infections	Vancomycin,kills,infections	True	EN
+Buchanan,assassinated,Lincoln	Buchanan,escorted,Lincoln	False	EN
+North Korea,is a neighbor of,China	China,had saved,North Korea	False	EN
+Smith,is the governor of,California	Smith,was never in,California	False	EN
+A guardian,assassinated,Lincoln	Lincoln,did not require,a guardian	False	EN
+The republican candidate,assassinated,Lincoln	Lincoln,was proclaimed as,the republican candidate	False	EN
+Hydrogen,is found in,The Air	Hydrogen,is lighter than,Air	False	EN
+Tobacco,is used in,Medicine	Tobacco,is used to a extent in,Medicine	True	EN
+The viking,is a politician from,New York	The viking,press,New York	False	EN
+Female employees,interprets,Laws	Laws,must be provided for,female employees	False	EN
+The gold coast,is the largest in,Africa	The gold coast,became the colony in,Africa	False	EN
+The iliad,is the work of,a poet	A poet,wrote,the iliad	True	EN
+A gentleman,assassinated,Lincoln	Lincoln,found him,a gentleman	False	EN
+The ghost,wrote,Hamlet	Hamlet,follows,the ghost	False	EN
+Cubans,is the governor of,Florida	Cubans,have settled in,Florida	False	EN
+Attila,fought,the persians	Attila,might attack,the persians	False	EN
+The conditions,is common to,America	The conditions,are absent in,America	False	EN
+This gentleman,is a politician from,Texas	This gentleman,had a trade in,Texas	False	EN
+Coleridge,was awarded,a medal	Coleridge,had been awarded,the medal	True	EN
+Fsh,stimulates and induces,ovulation	Fsh,causes,ovulation	True	EN
+The lawyer,drafted,The Constitution	The Constitution,bestowed upon,the lawyer	False	EN
+Hydrogen,is found in,The Air	Hydrogen,is a kind of,Air	False	EN
+Bayard,works in,Washington	Bayard,telegraphed to,Washington	False	EN
+Lawrence,is the governor of,California	Lawrence,grew up in,California	False	EN
+Steiner,composed,a symphony	The symphony,was published by,Steiner	False	EN
+Typhus,is carried by,lice	Typhus,is transferred by,lice	True	EN
+Goodman,is the governor of,California	Goodman,is at the university of,California	False	EN
+The professional reviewers,composed,a symphony	The professional reviewers,had not heard,the symphony	False	EN
+The bailiffs,makes,Furniture	The bailiffs,captured,the furniture	False	EN
+Personalities,is associated with,Communism	Communism,has need of,personalities	False	EN
+The writers,gravitated towards,Communism	The writers,is associated with,Communism	True	EN
+Van Buren,was born in,Virginia	Virginia,will be for,Van Buren	False	EN
+The colonel,composed,an opera	The colonel,went afterwards to,the opera	False	EN
+France,was born in,Poland	France,was the ally of,Poland	False	EN
+Homer,wrote,the odyssey	The odyssey,was not written by,Homer	False	EN
+Macbeth,composed,an opera	Macbeth,was made into,an opera	False	EN
+The anniversary,is celebrated in,Britain	Britain,celebrated,the anniversary	True	EN
+Echoes,controls,Thunder	The thunder,was followed by,echoes	False	EN
+Scott,had reached,the south pole	Scott,reached,the south pole	True	EN
+The cast iron,is found in,The Air	Air,is forced into,the cast iron	False	EN
+General johnston,treats,Wounds	General johnston,was disabled by,a wound	False	EN
+Laos,is a neighbor of,China	Laos,is bordered by,China	True	EN
+Shaw,composed,a symphony	Shaw,described,the symphony	False	EN
+Cesar Chavez,is the governor of,California	Cesar Chavez,began to organize in,California	False	EN
+Milton,walked on,the moon	Milton,has given,a moon	False	EN
+The speaker,is the governor of,Florida	The speaker,stands at the edge of,Florida	False	EN
+Schumann,played,the piano	Schumann,played on,the piano	True	EN
+Short arc,is common to,America	Short arc,has been measured in,America	False	EN
+Norris,is the governor of,California	Norris,entered the university of,California	False	EN
+President Bush,was the leader of,North Korea	President Bush,described,North Korea	False	EN
+Beethoven,composed,a symphony	Beethoven,meditated,a symphony	False	EN
+Date,is commemorated in,France	France,has continued to,Date	False	EN
+General jackson,is the governor of,Florida	General jackson,led into,Florida	False	EN
+Pyrrhus,fought,the romans	Pyrrhus,anticipated,the romans	False	EN
+The plenipotentiaries,was born in,America	The plenipotentiaries,proposed should return to,America	False	EN
+Rhodes,drafted,The Constitution	The Constitution,exempted,Rhodes	False	EN
+Goodall,was persecuted by,The Church	Goodall,returned from,Church	False	EN
+Campbell,was born in,Poland	Campbell,speaks for,Poland	False	EN
+Helium,is found in,The Air	Helium,is lighter than,Air	False	EN
+A proponent,founded,Microsoft	Microsoft,has been,a proponent	False	EN
+France,had declared war on,Germany	France,declared war on,Germany	True	EN
+Liszt,resided in,Paris	Liszt,was taken to,Paris	False	EN
+The hymenoptera,eats,Insects	The hymenoptera,are and surpass,all insects	False	EN
+Aspirin,kills,Cancer	Aspirin,may reduce the risk of,Cancer	False	EN
+The black death,swept through,Europe	The black death,decimated,Europe	True	EN
+England,produces,Cheese	Cheese,is manufactured in,England	True	EN
+Sulfonamides,kills,infections	Infections,respond to treatment with,sulfonamides	True	EN
+John Adams,is a politician from,Texas	John Adams,had tried to buy,Texas	False	EN
+The australian state,is part of,Australia	Australia,became,the australian state	False	EN
+The julian,fought,the romans	The romans,had regarded,the julian	False	EN
+A disheartening failure,drafted,The Constitution	The Constitution,might have proved,a disheartening failure	False	EN
+Women,was born in,Poland	Women,were burned in,Poland	False	EN
+Shakespeare,created,King Lear	Shakespeare,wrote,King Lear	True	EN
+Socinians,was born in,Poland	Socinians,were however in,Poland	False	EN
+Siva,controls,the sun	Siva,is the personification of,the sun	False	EN
+Vespucci,was born in,America	America,was named after,vespucci	False	EN
+Soldiers,treats,Wounds	Soldiers,endure,Wounds	False	EN
+The american prisoners,is a politician from,New York	The american prisoners,embarked for,New York	False	EN
+Pollinators,eats,Insects	Insects,act as,pollinators	False	EN
+The economist,influenced,Einstein	The economist,brought a letter from,Einstein	False	EN
+Manure,is essential for,Bones	The bones,are used for,Manure	False	EN
+Paul,was worshiped in,Jerusalem	Paul,did not go to,Jerusalem	False	EN
+Cook,had reached,the north pole	Cook,reached,the north pole	True	EN
+An statesman,drafted,The Constitution	An statesman,might denounce,The Constitution	False	EN
+Bill Gates,founded,Microsoft	Bill Gates,started,Microsoft	True	EN
+Jackson,is a politician from,Texas	Jackson,sent him to,Texas	False	EN
+France,exports,Coal	Coal,was not in,France	False	EN
+Emerson,composed,a symphony	Emerson,loved and was,a symphony	False	EN
+The parasite,rebuilds,tissue	The parasite,may cause damage to,any tissue	False	EN
+Pharyngitis,is caused by,a virus	Pharyngitis,is usually caused by,viruses	True	EN
+Bruce,is a politician from,New York	Bruce,employed in,New York	False	EN
+Harvey,drafted,The Constitution	Harvey,never had,a constitution	False	EN
+Mexico,exports,Sugar	Sugar,was introduced into,Mexico	False	EN
+Elizabeth,ruled after,Victoria	Victoria,did not like,Elizabeth	False	EN
+Every genius,was awarded,a medal	Every genius,certainly is,a medal	False	EN
+Federalists,works in,Washington	Federalists,used the name of,Washington	False	EN
+Justinian,drafted,The Constitution	Justinian,affixed to,The Constitution	False	EN
+Tamoxifen,kills,Cancer	Tamoxifen,reduces the incidence of,Cancer	False	EN
+The child,ruled after,Victoria	Victoria,succeeded being,the child	False	EN
+Ferdinand,fought,the romans	Ferdinand,had been elected king of,the romans	False	EN
+Cologne,was bombed by,the allies	Cologne,actually became,Allies	False	EN
+A wounded deer,lives in,The Sea	The Sea,was heard like,a wounded deer	False	EN
+The deadly nightshade,is consumed by,Rabbits	Rabbits,have been fed on,the deadly nightshade	True	EN
+Izanami,controls,the sun	Izanami,walking towards,the sun	False	EN
+Judas,controls,the sun	Judas,stopped in,the sun	False	EN
+Meyerbeer,composed,an opera	Meyerbeer,was reigning at,the opera	False	EN
+The animals,rebuilds,tissue	Tissues,were removed from,the animals	False	EN
+Angola,is the largest in,Africa	Africa,had invaded,Angola	False	EN
+Toledo,was bombed by,the allies	The allies,extended from,Toledo	False	EN
+Colloidal platinum,is found in,Water	Colloidal platinum,is charged in,Water	False	EN
+Tocqueville,was born in,America	Tocqueville,described in,America	False	EN
+Political Leaders,was the leader of,the soviet union	Political Leaders,accuse,the soviet union	False	EN
+Lincoln,ruled after,Victoria	Victoria,sent a letter to,Lincoln	False	EN
+Shakespeare,assassinated,Lincoln	Lincoln,discovered,Shakespeare	False	EN
+The doorman,owns,a taxi	The doorman,opened the door of,the taxi	False	EN
+Bronchiolitis,is caused by,a virus	Virus,is the cause of,Bronchiolitis	True	EN
+The large willows,is consumed by,Rabbits	Rabbits,abound among,the large willows	False	EN
+British soldiers,ruled after,Victoria	British soldiers,marched past,Victoria	False	EN
+Monarchs,is the governor of,California	California,dropped as,Monarchs	False	EN
+Barkley,is the governor of,Florida	Barkley,returns to,Florida	False	EN
+Anthelmintic,indicated for the treatment of,infections	Anthelmintic,kills,infections	True	EN
+Volunteers,was the leader of,the soviet union	The soviet union,threatened to send,volunteers	False	EN
+The woodpecker,eats,Insects	The woodpecker,comes for,the insects	False	EN
+The Lord,walked on,the moon	The Lord,appears as,a moon	False	EN
+Copper,is found in,The Air	Copper,does not burn in,Air	False	EN
+The first europeans,was born in,America	The first europeans,to reach,America	False	EN
+England,is bigger than,Texas	England,might acquire,Texas	False	EN
+The winners,were presented with,Medals	The winners,was awarded,a medal	True	EN
+Many scientists,appeared on,Television	Many scientists,contributed to the development of,Television	False	EN
+Engineers,was born in,America	Engineers,began to make in,America	False	EN
+Zinc,is found in,The Air	Zinc,is tarnished by,Air	False	EN
+The apple,prevents,Disease	The disease,affects,the apple	False	EN
+Tobacco,kills,Cancer	Tobacco,is the cause of,Cancer	False	EN
+Steuben,works in,Washington	Washington,sent word to,Steuben	False	EN
+Warsaw,was bombed by,the nazis	The nazis,occupied,Warsaw	False	EN
+Milton,wrote,Hamlet	Milton,took through,Hamlet	False	EN
+Hungary,declared war on,Germany	Germany,would stand by,Hungary	False	EN
+Zinc,is found in,Water	Zinc,are dipped in,Water	False	EN
+Mckinley,was born in,Ohio	Mckinley,returned to,Ohio	False	EN
+Cathay,is a neighbor of,China	Cathay,however meant,China	False	EN
+Astronauts,is the governor of,Florida	Astronauts,burned to death in,Florida	False	EN
+Sore throats,is caused by,bacteria	Sore throats,are contracted from,bacteria	True	EN
+Nematodes,eats,Crops	Nematodes,associated with,Crops	False	EN
+Fremont,works in,Washington	Fremont,was journeying to,Washington	False	EN
+The admiral,interprets,Laws	The admiral,shall obey,the laws	False	EN
+Talbot,resided in,Paris	Talbot,was a town in,Paris	False	EN
+Burma,is a neighbor of,China	China,includes,Burma	False	EN
+Girls,was born in,Poland	Girls,brought to,Poland	False	EN
+The west germany,declared war on,Germany	Germany,refers to,the west germany	False	EN
+India,shares a border with,Russia	Russia,will threaten,India	False	EN
+Liver disease,requires,Antibiotics	Liver disease,may be induced by,some antibiotics	False	EN
+Postmaster,assassinated,Lincoln	Lincoln,was commissioned as,Postmaster	False	EN
+John Calvin,was born in,America	John Calvin,was the founder of,America	False	EN
+The chrysalis,eats,Insects	The chrysalis,is somewhat like,the insect	False	EN
+Members,was the leader of,North Korea	Members,visited,North Korea	False	EN
+Augustine,is the governor of,Florida	Florida,was settled at,Augustine	False	EN
+Many whigs,assassinated,Lincoln	Lincoln,was aided by,many whigs	False	EN
+Thomas,ruled after,Henry Viii	Thomas,defends,Henry Viii	False	EN
+Myrtle,is used to make,Bread	Myrtle,will not have,Bread	False	EN
+British missionaries,ruled after,Victoria	British missionaries,established,Victoria	False	EN
+The mediterranean,borders,Russia	Russia,would be cut off from,the mediterranean	False	EN
+Siam,is a neighbor of,China	China,resembles,Siam	False	EN
+Abyssinia,is the largest in,Africa	Abyssinia,is a country of,Africa	False	EN
+Analgesics,kills,Cancer	Analgesics,are often required in,Cancer	False	EN
+Nebuchadnezzar,composed,an opera	Nebuchadnezzar,appeared in,an opera	False	EN
+The average negro,is associated with,Communism	The average negro,understands,Communism	False	EN
+The sister,is a politician from,Texas	The sister,sent from,Texas	False	EN
+Confederate congressmen,works in,Washington	Confederate congressmen,traveled to,Washington	False	EN
+The artist,ruled after,Victoria	The victoria,sped with,the artist	False	EN
+Gates,started,Microsoft	Gates,founded,Microsoft	True	EN
+The End,reached,the north pole	The End,repels,the north pole	False	EN
+The rash,begins as,papules	Papules,can cause,a rash	True	EN
+Chemotherapy,is the treatment for,lymphoma	Lymphoma,requires,Chemotherapy	True	EN
+Rubinstein,played,the piano	Rubinstein,dropped under,the piano	False	EN
+Progesterone,causes,ovulation	Progesterone,is produced after,ovulation	False	EN
+The banks,was persecuted by,The Church	The Church,is situated on,the banks	False	EN
+Exploiters,was the leader of,the soviet union	Exploiters,have been eliminated from,the soviet union	False	EN
+The black death,was carried by,Rats	The black death,is spread by,Rats	True	EN
+Joseph,was awarded,a medal	Joseph,had been awarded,a medal	True	EN
+The husband,was born in,America	The husband,wished to see in,America	False	EN
+Women,composed,an opera	The operas,watched by,Women	False	EN
+The heroic savages,married,Julius Caesar	Julius Caesar,has saved,the heroic savages	False	EN
+Europe,promotes,Peace	Peace,was now restored to,Europe	False	EN
+The canal,surrounds,Britain	Britain,had interests in,the canal	False	EN
+Franklin,was persecuted by,The Church	Franklin,worked through,the churches	False	EN
+The first president,works in,Washington	Washington,was chosen as,the first president	False	EN
+Castro,was the leader of,the soviet union	Castro,criticized,the soviet union	False	EN
+Chinese nationalists,was the leader of,the soviet union	The soviet union,ingratiated with,chinese nationalists	False	EN
+The socinians,was born in,Poland	The socinians,flourished in,Poland	False	EN
+Ford,was awarded,a medal	Ford,awarded him,the medal	False	EN
+Some women,was born in,Poland	Some women,have been known in,Poland	False	EN
+Washington,is bigger than,Delaware	Washington,was preparing to cross,the delaware	False	EN
+The moguls,was born in,Poland	The moguls,took possession of,Poland	False	EN
+Emissaries,works in,Washington	Washington,had an number of,emissaries	False	EN
+Nixon,was the leader of,the soviet union	Nixon,traveled to,the soviet union	False	EN
+Memel,was bombed by,the allies	Memel,was ceded to,the allies	False	EN
+El Paso,is bigger than,Texas	El Paso,are in the middle of,The Texas	False	EN
+Kitty,lives in,The Sea	Kitty,looked out to,Sea	False	EN
+Contact dermatitis,requires,Antibiotics	Antibiotics,may cause,contact dermatitis	False	EN
+Students,appeared on,Television	Students,can learn from,Television	False	EN
+Vizcaino,is the governor of,California	Vizcaino,explored the coast of,California	False	EN
+Poland,exports,Cars	Poland,had,Cars	False	EN
+The old lord,ruled after,Henry Viii	Henry Viii,abandoned,the old lord	False	EN
+The animal,rebuilds,tissue	The tissue,is removed from,the animal	False	EN
+Ariadne,was worshiped in,Athens	Ariadne,never came to,Athens	False	EN
+West Florida,was purchased from,France	France,had asked for,West Florida	False	EN
+A bachelor,was born in,America	America,is a country for,a bachelor	False	EN
+Burnside,assassinated,Lincoln	Lincoln,then replaced,Burnside	False	EN
+Pakistan,is a neighbor of,China	China,is helping,Pakistan	False	EN
+Howard,is the governor of,California	Howard,being absent in,California	False	EN
+The prisoners,is a politician from,New York	The prisoners,were carried to,New York	False	EN
+Opium,kills,Cancer	Opium,is also used in,Cancer	False	EN
+The herb,is used to make,Alcohol	The herb,is pulverized with,Alcohol	False	EN
+The first sunday,is the end of,Easter	Easter,occurs on,the first sunday	False	EN
+Mozart,composed,an opera	Mozart,never wrote,an opera	False	EN
+A gelatinous protein,is essential for,blood cells	Blood cells,do not recognize,a gelatinous protein	False	EN
+Rabbits,have been fed on,the deadly nightshade	The deadly nightshade,is consumed by,Rabbits	True	EN
+Jefferson,is a politician from,Texas	Jefferson,might have occupied,Texas	False	EN
+Corticosteroids,may relieve,Pain	Corticosteroids,inhibits,Pain	True	EN
+Roosevelt,met,Churchill	Churchill,suggested to,Roosevelt	False	EN
+Doses,can cause,a headache	More headaches,were followed by,doses	False	EN
+Diocletian,fought,the romans	Diocletian,became ruler of,the romans	False	EN
+James Baldwin,is a politician from,New York	James Baldwin,could talk,New York	False	EN
+Bonaparte,fought,the romans	Bonaparte,chose from,the romans	False	EN
+A therapist,appeared on,Television	A therapist,discusses the use of,Television	False	EN
+Andrew,is the governor of,California	Andrew,sailed for,California	False	EN
+Johnson,was born in,Virginia	Johnson,recognized as the government of,Virginia	False	EN
+A escape,is used to make,Alcohol	Alcohol,provides,a escape	False	EN
+Kennedy,is the governor of,California	Kennedy,was shot in,California	False	EN
+The animal,rebuilds,tissue	Tissue,is removed from,the animal	False	EN
+A descendant,ruled after,Victoria	Victoria,regarded herself as,a descendant	False	EN
+The czars,drafted,The Constitution	The Constitution,was the gift of,the czars	False	EN
+Repeated echoes,controls,Thunder	The thunder,was followed by,repeated echoes	False	EN
+The indian,appeared on,Television	Television,owes a debt to,the indian	False	EN
+Diaz,had begun to receive,Medals	Diaz,was awarded,a medal	True	EN
+Every malefactor,is the governor of,California	Every malefactor,would be sent to,California	False	EN
+Arthur,made peace with,Britain	Arthur,became king of,Britain	False	EN
+The ferdinand,was born in,Poland	The ferdinand,had just entered,Poland	False	EN
+The vindicated independence,is packed with,Politicians	The politicians,protected,the vindicated independence	False	EN
+The laundress,makes,Clothes	The laundress,can not bring,Clothes	False	EN
+The complex,is used in,Clothing	The complex,becomes the problem of,Clothing	False	EN
+The early christians,practiced,Communism	The early christians,is associated with,Communism	True	EN
+Augustus,fought,the romans	The romans,gave them to,Augustus	False	EN
+Truman,was born in,Ohio	Truman,carried,Ohio	False	EN
+Stalin,was the leader of,the soviet union	Stalin,had ruled,the soviet union	True	EN
+These glaciers,is common to,Norway	These glaciers,resemble those of,Norway	False	EN
+Cassia,is used to make,Wine	Cassia,asked to take,Wine	False	EN
+Every citizen,interprets,Laws	All laws,shall be applicable to,every citizen	False	EN
+Merodach,was worshiped in,Babylon	Merodach,was not the god of,Babylon	False	EN
+Lh,increases,your pulse	Lh,are released in,pulses	False	EN
+Bubonic plague,decimated,Europe	Bubonic plague,declined in,Europe	False	EN
+That progesterone,facilitates,ovulation	That progesterone,causes,ovulation	True	EN
+The appellants,is a politician from,New York	The appellants,telegraphed from,New York	False	EN
+The sovereign,ruled after,Victoria	Victoria,is really,the sovereign	False	EN
+Rivera,had lived in,Paris	Rivera,resided in,Paris	True	EN
+An regent,ruled after,Victoria	Victoria,would make,an regent	False	EN
+Topical applications,kills,infections	Topical applications,may reactivate,a infection	False	EN
+No officer,is the governor of,California	No officer,can live in,California	False	EN
+Lesotho,is the largest in,Africa	Africa,intervened in,Lesotho	False	EN
+Rye,is used to make,Bread	Rye,furnished,the bread	False	EN
+Hogs,eats,Corn	Corn,is fed to,hogs	True	EN
+An medium,appeared on,Television	Television,has become important as,an medium	False	EN
+Washerwomen,makes,Clothes	Washerwomen,are beating,Clothes	False	EN
+Washington,is bigger than,Delaware	Washington,appointed him for,Delaware	False	EN
+Guardians,is the governor of,Florida	Florida,compelled to have,Guardians	False	EN
+East Pakistan,is a neighbor of,India	India,will occupy,East Pakistan	False	EN
+Holland,exports,Coal	Holland,refused to take in,Coal	False	EN
+Christianity,is predominant in,Japan	Christianity,was first introduced into,Japan	False	EN
+Inhalation,kills,Cancer	Cancer,is attributable to,inhalation	False	EN
+Charles,was born in,Poland	Charles,had left in,Poland	False	EN
+Angola,is the largest in,Africa	Angola,became the producer in,Africa	False	EN
+A modern leather,has been applied to,the clothing	A modern leather,is used in,Clothing	True	EN
+The civil authorities,interprets,Laws	The laws,should be enforced by,the civil authorities	False	EN
+The first state,is part of,Australia	Australia,became,the first state	False	EN
+Cacao beans,is used to make,Chocolate	Chocolate,is made from,cacao beans	True	EN
+The goddess,controls,Thunder	Thunder,disturbs,the goddess	False	EN
+High doses,kills,Cancer	High doses,could cause,Cancer	False	EN
+Truman,met,Churchill	Churchill,is talking to,Truman	False	EN
+Growth hormone,increases,your pulse	Growth hormone,is secreted in,pulses	False	EN
+The chief magistrate,drafted,The Constitution	The Constitution,admits from,the chief magistrate	False	EN
+Grand singers,composed,an opera	Opera,should be given by,grand singers	False	EN
+A province,is bigger than,Texas	Texas,was formerly,a province	False	EN
+The student,is a politician from,Texas	Texas,offers opportunities to,the student	False	EN
+Iran,is a neighbor of,China	China,also supplied,Iran	False	EN
+The jew,is associated with,capitalism	The jew,embodied,capitalism	True	EN
+New Mexico,is bigger than,Texas	Texas,should cede to,New Mexico	False	EN
+Siam,shares a border with,Thailand	Thailand,was known as,Siam	False	EN
+The Children,ruled after,Victoria	Victoria,will stay with,The Children	False	EN
+Cloves,is used to make,Wine	The wine,was spiced with,Cloves	False	EN
+Nutritional cirrhosis,is spread by,Rats	Nutritional cirrhosis,has been produced in,Rats	False	EN
+Scotland,produces,Cheese	Cheese,was produced in,Scotland	True	EN
+Roosevelt,met,Churchill	Churchill,telegraphed to,Roosevelt	False	EN
+Testosterone,generates,Aggression	Testosterone,causes,Aggression	True	EN
+A 2 in,is found in,Water	Water,is pumped through,a 2 in	False	EN
+The east germans,was the leader of,the soviet union	The soviet union,would transfer to,the east germans	False	EN
+Polk,was awarded,a medal	Polk,deserves,a medal	False	EN
+Adversaries,was the leader of,the soviet union	The soviet union,had become,Adversaries	False	EN
+Nixon,is a politician from,New York	Nixon,flew to,New York	False	EN
+Cloves,is used to make,Wine	Cloves,minced,Wine	False	EN
+Headaches,may occur with,Pneumonia	Pneumonia,can cause,a headache	True	EN
+Corinth,was bombed by,the allies	The allies,now fell upon,Corinth	False	EN
+Smith,was the leader of,the soviet union	Smith,question in,the soviet union	False	EN
+The pupa,eats,Insects	The insect,emerges from,the pupa	False	EN
+Settlers,is the governor of,Florida	Settlers,poured into,Florida	False	EN
+Ignatius,was worshiped in,Jerusalem	Ignatius,made a pilgrimage to,Jerusalem	False	EN
+Collins,is the governor of,Florida	Collins,attacked,the florida	False	EN
+The beagle,was studied by,Charles Darwin	Charles Darwin,sailed in,the beagle	False	EN
+Iraq,is rich in,Oil	Iraq,is abundant with,Oil	True	EN
+Nixon,is the governor of,California	Nixon,flew to,California	False	EN
+Prisoner,married,King David	King David,was taken,Prisoner	False	EN
+The coal,came from,England	England,exports,Coal	True	EN
+Napoleon,died at,Trafalgar	Napoleon,heard of,Trafalgar	False	EN
+Watteau,resided in,Paris	Watteau,left us for,Paris	False	EN
+Observers,was born in,Poland	Observers,to enter,Poland	False	EN
+Tincture,is a remedy for,infections	Tincture,kills,infections	True	EN
+Nerve fibers,rebuilds,tissue	Nerve fibers,are located in,the tissue	False	EN
+Robert,ruled after,Henry Viii	Robert,allotted by,Henry Viii	False	EN
+Tibet,shares a border with,Russia	Russia,transferred to,Tibet	False	EN
+Free negroes,drafted,The Constitution	Free negroes,were not within the meaning of,The Constitution	False	EN
+Gray,eats,Hay	Gray,were friends of,Hay	False	EN
+England,is bigger than,Texas	Texas,is safe from,England	False	EN
+George Bush,married,Bill Clinton	Bill Clinton,criticized,George Bush	False	EN
+An excellent manure,is essential for,Bones	Bones,must yield,an excellent manure	False	EN
+Liszt,composed,a symphony	This symphony,is dedicated to the memory of,Liszt	False	EN
+Smith,is the governor of,California	Smith,had entered,California	False	EN
+These maxims,interprets,Laws	The laws,deviate from,these maxims	False	EN
+Gluck,composed,an opera	Gluck,conquered,Opera	False	EN
+Chocolate,also contains,Caffeine	Chocolate,contains,Caffeine	True	EN
+Klee,resided in,Paris	Klee,made a trip to,Paris	False	EN
+Thomas Edison,created,the light bulb	The light bulb,was invented by,Thomas Edison	True	EN
+Franklin,was persecuted by,The Church	Franklin,had aided,the churches	False	EN
+The gentlemen,walked on,the moon	The moon,shone full on,the gentlemen	False	EN
+David,was worshiped in,Jerusalem	David,captures,Jerusalem	False	EN
+Quebec,was purchased from,France	Quebec,should be restored to,France	False	EN
+Astrocytes,proliferate to form,tissue	Astrocytes,rebuilds,tissue	True	EN
+The enemy,drafted,The Constitution	The enemy,were intent on,The Constitution	False	EN
+An legislator,interprets,Laws	The laws,prove to have been,an legislator	False	EN
+The mediterranean,borders,Cyprus	Cyprus,is the island in,the mediterranean	True	EN
+Lind,played,the violin	Lind,was and played,the violin	True	EN
+Many tories,is a politician from,New York	Many tories,were apprehended in,New York	False	EN
+Tasmania,is part of,Australia	Tasmania,is separated from,Australia	False	EN
+The invaders,was born in,Poland	Poland,was free from,the invaders	False	EN
+The commissioners,assassinated,Lincoln	Lincoln,could not see,the commissioners	False	EN
+France,declared war on,Germany	France,signed an armistice with,Germany	False	EN
+The volga,borders,Russia	The volga,is the mother of,all russia	False	EN
+Christianity,is predominant in,Japan	Christianity,is a religion in,Japan	False	EN
+Schumann,played,the piano	Schumann,led to,the piano	False	EN
+Kennedy,was born in,Virginia	Kennedy,had ventured into,Virginia	False	EN
+President Johnson,assassinated,Lincoln	President Johnson,was the assassin of,Lincoln	True	EN
+Sore throats,are contracted from,bacteria	Sore throats,is caused by,bacteria	True	EN
+Erythrocytes,rebuilds,tissue	Erythrocytes,carry oxygen to,the tissues	False	EN
+Christianity,is predominant in,Russia	Russia,had received,Christianity	False	EN
+Cleveland,was born in,Ohio	Cleveland,is the port of,Ohio	False	EN
+Ponce,is the governor of,Florida	Ponce,returned to,Florida	False	EN
+Oppenheimer,died at,the alamo	Oppenheimer,directed at,Alamos	False	EN
+Norway,declared war on,Germany	Norway,is freer than,Germany	False	EN
+Hamlet,was written by,a commercial dramatist	A commercial dramatist,wrote,Hamlet	True	EN
+Islam,was introduced into,India	India,believes in,Islam	True	EN
+South Africa,is the largest in,Africa	South Africa,obtained,Africa	False	EN
+Athens,was bombed by,the allies	Athens,acquired over,the other allies	False	EN
+Davy Crockett,was killed at,the alamo	Davy Crockett,died at,the alamo	True	EN
+Polk,is the governor of,California	Polk,offered to buy,California	False	EN
+Levi,controls,the sun	Levi,became as,a sun	False	EN
+Aids,is spread through,Sex	Aids,is transmitted by,Sex	True	EN
+The gates,was persecuted by,The Church	The gates,signify the truths of,The Church	False	EN
+Virginia,is bigger than,Delaware	Delaware,did not remain long in,Virginia	False	EN
+The grand duke,was born in,America	All america,is obliged to,the grand duke	False	EN
+The parties,is a politician from,New York	The parties,were married in,New York	False	EN
+Caring proprietors,interprets,Laws	Caring proprietors,are grateful for,Laws	False	EN
+Circumcision,is celebrated in,America	Circumcision,comes to,America	False	EN
+The jesuits,is the governor of,Florida	The jesuits,withdrew from,Florida	False	EN
+Gilmer,assassinated,Lincoln	Lincoln,preferred,Gilmer	False	EN
+An substitute,was born in,America	America,will afford us,an substitute	False	EN
+The germans,is officially recognized in,Belgium	The germans,were said to be in,Belgium	False	EN
+Poland,declared war on,Germany	Germany,renounces in favour of,Poland	False	EN
+Bulgaria,declared war on,Germany	Germany,had won over,Bulgaria	False	EN
+Walesa,was born in,Poland	Walesa,was elected president of,Poland	False	EN
+The ambassador,treats,Wounds	The ambassador,came back without,Wound	False	EN
+Prophylactic antibiotics,kills,infections	Prophylactic antibiotics,do not prevent,infections	False	EN
+Mantegna,married,Julius Caesar	Mantegna,dreamed of,Julius Caesar	False	EN
+Another india,is a neighbor of,China	China,might become,another india	False	EN
+Lodge,influenced,Einstein	Einstein,has vanquished,Lodge	False	EN
+Clergymen,was born in,America	Clergymen,were respected in,America	False	EN
+Governor,was awarded,a medal	Governor,brought over,the medal	False	EN
+Erythromycin,is effective for,infections	Erythromycin,kills,infections	True	EN
+Poland,exports,Coal	Poland,has deposits of,Coal	False	EN
+Aids,is transmitted by,Sex	Sex,will cure,Aids	False	EN
+All foreign teachers,married,Julius Caesar	Julius Caesar,granted to,all foreign teachers	False	EN
+Fluorine,is found in,Water	Fluorine,reacts violently with,Water	False	EN
+Special saquinavir,kills,infections	Special saquinavir,does not cure,infection	False	EN
+Eichmann,was born in,America	Eichmann,escaped to,America	False	EN
+The pope,ruled after,Henry Viii	Henry Viii,was awarded by,the pope	False	EN
+China,exports,Rice	Rice,is shipped to,China	False	EN
+Jefferson,was born in,Virginia	Jefferson,served as governor of,Virginia	False	EN
+Shakespeare,married,Julius Caesar	Julius Caesar,written by,Shakespeare	False	EN
+Artisans,makes,Furniture	Furniture,was produced by,Artisans	True	EN
+The prime minister,was born in,Poland	The prime minister,is thinking of,Poland	False	EN
+Phosphorus,is found in,The Air	Phosphorus,is burned in,Air	False	EN
+Bethune,was born in,Poland	Bethune,had recruited in,Poland	False	EN
+Cassius,married,Julius Caesar	Julius Caesar,say of,Cassius	False	EN
+Mendelssohn,composed,a symphony	Mendelssohn,employed it in,the symphony	False	EN
+Mark,was worshiped in,Egypt	Mark,was sent to,Egypt	False	EN
+Prokofiev,was the leader of,the soviet union	Prokofiev,returned to,the soviet union	False	EN
+Pestis,is spread by,Rats	Pestis,is pathogenic for,Rats	False	EN
+North workers,appeared on,Television	North workers,gave up on,Television	False	EN
+Delegates,works in,Washington	Delegates,gathered in,Washington	False	EN
+Roosevelt,met,Stalin	Stalin,assured,Roosevelt	False	EN
+These rieslings,is used to make,Alcohol	These rieslings,are low in,Alcohol	False	EN
+Irving,works in,Washington	Irving,was with me at,Washington	False	EN
+Virginia,is bigger than,Delaware	Delaware,was powerful as,Virginia	False	EN
+The portuguese,is officially recognized in,China	The portuguese,had traded with,China	False	EN
+Philadelphia,is bigger than,Delaware	Philadelphia,is situated between,the delaware	False	EN
+Silver maid,makes,Clothes	Silver maid,said take,the clothes	False	EN
+The advisers,is associated with,capitalism	Capitalism,was and supported,the advisers	False	EN
+Someone,rebuilds,tissue	Someone,handed her,a tissue	False	EN
+A cereal,is used also for,Bread	A cereal,is used to make,Bread	True	EN
+Bill Gates,started,Microsoft	Bill Gates,founded,Microsoft	True	EN
+Skilled violinists,played,the violin	Violins,can not produce without,skilled violinists	False	EN
+New cells,rebuilds,tissue	The tissues,reproduce,new cells	False	EN
+The dogs,eats,Hay	The dogs,burnt,the hay	False	EN
+Madrid,was bombed by,the allies	The allies,marched towards,Madrid	False	EN
+Roosevelt,met,Churchill	Roosevelt,suggested to,Churchill	False	EN
+Thompson,was persecuted by,The Church	Thompson,are members of,The Church	False	EN
+The nazis,was the leader of,the soviet union	The nazis,had invaded,the soviet union	False	EN
+The hydrogen,is found in,Water	The hydrogen,is oxidized to,Water	False	EN
+The laborer,is associated with,capitalism	Capitalism,exploits,the laborer	False	EN
+Customers,founded,Ibm	Customers,to buy from,Ibm	False	EN
+The dictator,is associated with,Communism	Communism,puts in the hands of,the dictator	False	EN
+Left handers,owns,Microsoft	Microsoft,does not discriminate against,left handers	False	EN
+Agni,controls,the sun	The sun,is regarded as a form of,Agni	False	EN
+Britain,celebrated,the anniversary	The anniversary,is celebrated in,Britain	True	EN
+The sultan,ruled after,Victoria	The sultan,had sent to,Victoria	False	EN
+New York,is bigger than,Vermont	New York,erected,Vermont	False	EN
+Antibodies,is essential for,blood cells	Antibodies,can destroy,blood cells	False	EN
+The admiral,was born in,America	The admiral,was recognised in,America	False	EN
+Congressman,assassinated,Lincoln	Congressman,was committed to,Lincoln	False	EN
+Mcpherson,assassinated,Lincoln	Lincoln,quoted in,Mcpherson	False	EN
+The proprietor,was commemorated by,a medal	The proprietor,was awarded,a medal	True	EN
+Eisenhower,met,Churchill	Churchill,had told,Eisenhower	False	EN
+Habits,was worn in,Rome	Habits,adopted by,Rome	True	EN
+Bismuth,is found in,The Air	Bismuth,is unaffected by,The Air	False	EN
+Queensland,is part of,Australia	Queensland,is the state in,Australia	True	EN
+The vigilantes,is the governor of,California	The vigilantes,had driven from,California	False	EN
+The learned women,was born in,America	America,admires,the learned women	False	EN
+British plenipotentiaries,was born in,America	America,to treat with,british plenipotentiaries	False	EN
+Morphine,upsets,the stomach	Morphine,is excreted into,the stomach	False	EN
+An impostor,was born in,America	An impostor,has no chance in,America	False	EN
+Switzerland,declared war on,Germany	Switzerland,is afraid of,Germany	False	EN
+Holland,declared war on,Germany	Germany,would own,Holland	False	EN
+Horses,need,Hay	Horses,eats,Hay	True	EN
+Liszt,composed,an opera	Liszt,interested himself in,the opera	False	EN
+The proprietor,was awarded,a medal	The proprietor,pointed out,the medal	False	EN
+Burma,is a neighbor of,China	Burma,paid tribute to,China	False	EN
+The subscribers,composed,an opera	The subscribers,would never consent to,an opera	False	EN
+Nepal,is a neighbor of,India	India,extended to,Nepal	False	EN
+Hungary,declared war on,Germany	Hungary,was allied with,Germany	False	EN
+Hitler,was the leader of,the soviet union	The soviet union,was attacked by,Hitler	False	EN
+The stranger,was born in,America	All america,will hail,the stranger	False	EN
+A tool,appeared on,Television	Television,is used as,a tool	False	EN
+The clerk,appeared on,Television	The clerk,was watching,Television	False	EN
+The best generals,is associated with,Communism	Communism,has produced,the best generals	False	EN
+Rousseau,is associated with,Communism	Rousseau,is connected with,Communism	True	EN
+The tiger beetles,eats,Insects	The tiger beetles,are mimicked by,Insects	False	EN
+Drake,is the governor of,California	Drake,reached the coast of,California	False	EN
+Pennsylvania,is bigger than,Delaware	Delaware,has imitated,Pennsylvania	False	EN
+Bret Harte,is the governor of,California	Bret Harte,created,A California	False	EN
+Petitioners,interprets,Laws	Petitioners,were granted under,the laws	False	EN
+Voters,was born in,Poland	Voters,opted for,Poland	False	EN
+Patrick Henry,works in,Washington	Washington,was joined by,Patrick Henry	False	EN
+Belgium,declared war on,Germany	Germany,sent an ultimatum to,Belgium	False	EN
+Plant life,is consumed by,Birds	Here birds,were singing among,the shrubs	False	EN
+Oats,is consumed by,Rabbits	Rabbits,may be fed with,Oats	True	EN
+Strait,borders,Russia	Russia,divided at,Strait	False	EN
+Monroe,was born in,Virginia	Virginia,was the mother of,Monroe	False	EN
+Queensland,is part of,Australia	Queensland,occupies the part of,Australia	True	EN
+Seoul,was bombed by,the allies	The allies,reoccupied,Seoul	False	EN
+Albert,walked on,the moon	Albert,inquired of,the moon	False	EN
+Partial adversaries,was the leader of,the soviet union	The soviet union,were transformed into,partial adversaries	False	EN
+Germany,declared war on,Belgium	Germany,issued an ultimatum to,Belgium	False	EN
+Mommsen,drafted,The Constitution	Mommsen,has pointed out in,The Constitution	False	EN
+Gonorrhea,can be cured with,Antibiotics	Gonorrhea,requires,Antibiotics	True	EN
+Leading whigs,assassinated,Lincoln	Lincoln,was aided by,leading whigs	False	EN
+Nitrogen,is found in,The Air	Nitrogen,is lighter than,Air	False	EN
+Persia,believes in,Islam	Persia,was converted to,Islam	True	EN
+General lincoln,works in,Washington	General lincoln,commanded under,Washington	False	EN
+The scene painters,was born in,America	The scene painters,caricatured,America	False	EN
+The blackbirds,eats,Corn	The blackbirds,molest,the corn	False	EN
+Balsam,rebuilds,tissue	Balsam,renders,tissues	False	EN
+The inhabitants,married,Julius Caesar	Julius Caesar,waged with,the inhabitants	False	EN
+Interferon,kills,Cancer	Interferon,induced in,Cancer	False	EN
+The austrian,ruled after,Victoria	The austrian,could not see,Victoria	False	EN
+A province,is bigger than,Texas	Texas,was merely,a province	False	EN
+Envoys,was born in,America	Envoys,were accordingly sent to,America	False	EN
+The merchants,interprets,Laws	The merchants,had procured,those laws	False	EN
+Joseph Heller,is a politician from,New York	Joseph Heller,bombed,New York	False	EN
+The bonds,is a politician from,Texas	Texas,was entitled to recover,the bonds	False	EN
+The praying mantis,devours in,Insects	The praying mantis,eats,Insects	True	EN
+Rabies,is due to,a virus	Rabies,is caused by,a virus	True	EN
+Gold seekers,is the governor of,California	California,was invaded by,gold seekers	False	EN
+Citizens,drafted,The Constitution	Citizens,must abide by,The Constitution	False	EN
+James Madison,was the architect of,The Constitution	James Madison,drafted,The Constitution	True	EN
+Morley,was persecuted by,The Church	Morley,will take charge of,The Church	False	EN
+Mongolia,is a neighbor of,India	India,has in regard to,Mongolia	False	EN
+Harte,is the governor of,California	Harte,emigrated to,California	False	EN
+Augustus,fought,the romans	The romans,were to call,Augustus	False	EN
+The perch,eats,Insects	The insect,always returns to,the perch	False	EN
+Rivera,resided in,Paris	Rivera,had lived in,Paris	True	EN
+Mao,is used in,Airplanes	Mao,had flown in,an airplane	False	EN
+Homer,composed,an opera	Homer,sang with,the opera	False	EN
+The virus,will induce,leukaemia	Leukaemia,is caused by,a virus	True	EN
+John,was worshiped in,Jerusalem	John,left and returned to,Jerusalem	False	EN
+Colorectal polyps,rebuilds,tissue	Colorectal polyps,are masses of,tissue	False	EN
+Bhutan,is a neighbor of,India	India,would defend,Bhutan	False	EN
+The creeks,is the governor of,Florida	The creeks,have taken refuge in,Florida	False	EN
+Any american soldier,makes,Clothes	Clothes,furnished to,any american soldier	False	EN
+Papules,can cause,a rash	The rash,begins as,papules	True	EN
+A silver watch,assassinated,Lincoln	Lincoln,presented with,a silver watch	False	EN
+The sheep,eats,Hay	The sheep,had wasted,the hay	False	EN
+A net importer,was the leader of,North Korea	North Korea,has been,a net importer	False	EN
+Cattle,need,Hay	Cattle,eats,Hay	True	EN
+Nelson,died at,Trafalgar	Nelson,fought the battle of,Trafalgar	False	EN
+Leukemia,is caused by,a virus	Leukemia,induced by,virus	True	EN
+Donizetti,composed,an opera	Donizetti,wrote about,Operas	False	EN
+The delegates,appeared on,Television	The delegates,take priority over,Television	False	EN
+Pompey,is packed with,Politicians	Pompey,awaited at the hands of,the politicians	False	EN
+Secondary dermatitis,requires,Antibiotics	Antibiotics,may cause,secondary dermatitis	False	EN
+Mosquitoes,eats,Insects	Mosquitoes,belong to the order of,Insects	False	EN
+The thunderer,controls,the sun	The sun,shall see,the thunderer	False	EN
+The enemy,works in,Washington	The enemy,was ordered by,Washington	False	EN
+London,composed,an opera	The opera,was brought out in,London	False	EN
+The aurochs,lives in,The Sea	The aurochs,have left,The Sea	False	EN
+Shakespeare,married,Julius Caesar	Shakespeare,got off on,Julius Caesar	False	EN
+Yellow fever,is transferred by,mosquitoes	Yellow fever,could be transmitted by,mosquitoes	True	EN
+The plagues,fly through,The Air	The plagues,is transmitted by,Air	True	EN
+Server,owns,Microsoft	Microsoft,released,server	False	EN
+Dick,owns,a taxi	Dick,drank in,the taxi	False	EN
+The firs,is consumed by,Birds	The birds,were not in,the firs	False	EN
+The anniversary,is celebrated in,America	America,will celebrate,the anniversary	True	EN
+These gentlemen,is a politician from,New York	These gentlemen,will take to,New York	False	EN
+The judge,drafted,The Constitution	The judge,was forbidden by,Constitution	False	EN
+The socinians,was born in,Poland	The socinians,were banished from,Poland	False	EN
+The oleanders,is consumed by,Birds	The birds,are calling in,the oleanders	False	EN
+Magnesium,is found in,Water	Magnesium,reacts slowly with,Water	False	EN
+Lowell,owns,a taxi	Lowell,died in,a taxi	False	EN
+Napoleon,fought,the persians	Napoleon,offered to support,the persians	False	EN
+Bacitracin,is indicated in the treatment of,infections	Bacitracin,kills,infections	True	EN
+Clemens,was awarded,a medal	Clemens,lost,the medal	False	EN
+Frankfort,was bombed by,the allies	The allies,declared at,Frankfort	False	EN
+The fearful plague,decimated,Europe	The fearful plague,broke over,Europe	True	EN
+India,is abundant with,Oil	The oil,has been used in,India	False	EN
+Nitrogen,is found in,The Air	The Air,is made up of,Nitrogen	True	EN
+Immigrants,was born in,Poland	Immigrants,arrived from,Poland	False	EN
+Spain,declared war on,Germany	Spain,sold them to,Germany	False	EN
+Truman,met,Churchill	Truman,invited,Churchill	False	EN
+Americans,was president during,the great depression	Americans,recover from,the great depression	False	EN
+Costa ricans,drafted,The Constitution	Costa ricans,must observe,The Constitution	False	EN
+President Kennedy,is a politician from,Texas	President Kennedy,was assassinated in,Texas	False	EN
+Berlin,resided in,Paris	Paris,is better than,Berlin	False	EN
+The common cold,is caused by,a virus	The common cold,is caused by one of,viruses	True	EN
+Thompson,was persecuted by,The Church	Thompson,was settled over,The Church	False	EN
+England,declared war on,Belgium	Belgium,appeals to,England	False	EN
+The issue,is associated with,capitalism	The issue,was a conflict between,capitalism	False	EN
+California,was purchased from,France	California,challenges,France	False	EN
+Application,kills,infections	This infection,responds well to,application	True	EN
+Tyler,is a politician from,Texas	Tyler,negotiated with,Texas	False	EN
+Congenital syphilis,requires,Antibiotics	Antibiotics,are not recommended for,congenital syphilis	False	EN
+Refugees,was born in,America	Refugees,had taken refuge in,America	False	EN
+Bill Gates,founded,Microsoft	Microsoft,was founded by,Bill Gates	True	EN
+Sore throats,is caused by,bacteria	Sore throats,are the result of,bacteria	True	EN
+Fritz kreisler,played,the violin	Fritz kreisler,transcribed for,Violin	False	EN
+New Jersey,is bigger than,Delaware	Delaware,yielded to,New Jersey	False	EN
+The beet,is used as a source of,Alcohol	The beet,is used to make,Alcohol	True	EN
+The old woman,is used to make,Bread	The old woman,returned with,some bread	False	EN
+Roosevelt,was president during,the great depression	Roosevelt,led through,the great depression	True	EN
+Gertrude Stein,was born in,America	Gertrude Stein,lectures in,America	False	EN
+Spain,is not part of,the european union	Spain,entered,the european union	False	EN
+Mexicans,died at,the alamo	Mexicans,fought at,the alamo	False	EN
+The venus,can be seen from,the moon	The venus,is in conjunction with,the moon	False	EN
+Vultures,eats,Carrion	Vultures,concentrate upon,Carrion	False	EN
+The intellect,drafted,The Constitution	The intellect,adds strength to,The Constitution	False	EN
+Nigeria,is the giant of,Africa	Nigeria,is the largest in,Africa	True	EN
+The cuckoo,composed,a symphony	The cuckoo,celebrates,the symphony	False	EN
+Judah,walked on,the moon	Judah,was bright as,the moon	False	EN
+Secondary syphilis,is characterized by,a rash	Secondary syphilis,can cause,a rash	True	EN
+Whistler,resided in,Paris	Whistler,brought over from,Paris	False	EN
+The honeysuckles,is consumed by,Birds	Birds,visit,the honeysuckles	False	EN
+End,reached,the north pole	The north pole,repels,End	False	EN
+Cleopatra,married,Julius Caesar	Cleopatra,was married to,Julius Caesar	True	EN
+The cowpuncher,is a politician from,Texas	The cowpuncher,originated in,Texas	False	EN
+The emperor,ruled after,Victoria	The emperor,kept in,Victoria	False	EN
+Many pioneers,is a politician from,Texas	Many pioneers,had settled in,Texas	False	EN
+Cubans,is the governor of,Florida	Cubans,are concentrated in,Florida	False	EN
+Burton,is the governor of,California	Burton,had come up from,California	False	EN
+The Children,interprets,Laws	The Children,also learn,the laws	False	EN
+Greeley,works in,Washington	Greeley,telegraphed to,Washington	False	EN
+Wool,is used in,Clothing	Wool,is converted into,Clothing	True	EN
+The home planet,can be seen from,Earth	The home planet,would be smaller than,Earth	False	EN
+Statesmen,assassinated,Lincoln	Lincoln,is better than,Statesmen	False	EN
+An able writer,drafted,The Constitution	An able writer,gives the account of,The Constitution	False	EN
+That marijuana,is used to make,Alcohol	That marijuana,is harmful than,Alcohol	False	EN
+China,exports,Rice	China,agreed to purchase,Rice	False	EN
+Different commanders,assassinated,Lincoln	Lincoln,telegraphed to,different commanders	False	EN
+Petitioner,is the governor of,Florida	Petitioner,was charged in,Florida	False	EN
+The common cold,requires,Antibiotics	Antibiotics,do not cure,the common cold	False	EN
+The airplane,was invented by,the wright brothers	The wright brothers,did not invent,the airplane	False	EN
+The Queen,ruled after,Victoria	The Queen,spoke of,Victoria	False	EN
+Yellow fever,could be transmitted by,mosquitoes	Yellow fever,is transferred by,mosquitoes	True	EN
+A dramatist,wrote,Hamlet	Hamlet,was written by,a dramatist	True	EN
+The proprietor,was born in,America	The proprietor,is called in,America	False	EN
+A fat man,makes,Clothes	A fat man,can not wear,the clothes	False	EN
+A hot iron,is found in,Water	A hot iron,is put into,the water	False	EN
+A negro slave,drafted,The Constitution	The Constitution,did not mean,a negro slave	False	EN
+The tree frog,eats,Insects	The tree frog,can not be called,an insect	False	EN
+Anderson,was persecuted by,The Church	Anderson,are members of,The Church	False	EN
+Wilde,was born in,America	Wilde,lectured in,America	False	EN
+Christianity,is predominant in,Japan	Christianity,first came to,Japan	False	EN
+Child,interprets,Laws	Laws,run along,Child	False	EN
+Hamlet,was written by,Shakespeare	Shakespeare,wrote,Hamlet	True	EN
+Goebbels,appeared on,Television	Goebbels,was interested in,Television	False	EN
+France,is a politician from,Texas	France,acknowledged the independence of,Texas	False	EN
+Britain,is separated by,the english channel	The english channel,surrounds,Britain	True	EN
+Workers,is the governor of,California	Workers,were employed in,California	False	EN
+Morgan,works in,Washington	Morgan,was brought up under,Washington	False	EN
+A soloists,played,the violin	The violin,has had,a soloists	False	EN
+Nepal,is a neighbor of,India	Nepal,has ties with,India	False	EN
+Anthropologists,was born in,America	Anthropologists,have divided,America	False	EN
+President Bush,was the leader of,North Korea	President Bush,identified,North Korea	False	EN
+The lettuce,is consumed by,Rabbits	The rabbits,guard,the lettuce	False	EN
+Mithridates,fought,the romans	Mithridates,set upon,the romans	True	EN
+Freeman,is a politician from,Texas	Freeman,teaches at the university of,Texas	False	EN
+The pallium,was worn in,Rome	The pallium,was sent from,Rome	False	EN
+Epidemic typhus,is transmitted by,lice	Epidemic typhus,is transferred by,lice	True	EN
+Delegates,drafted,The Constitution	Delegates,refused to sign,The Constitution	False	EN
+Bonaparte,was born in,Poland	Bonaparte,could think of,Poland	False	EN
+This baron,is the governor of,California	This baron,played to,California	False	EN
+The soldiers,eats,Hay	The soldiers,turned for,Hay	False	EN
+Each blood cell,contains molecules of,hemoglobin	Hemoglobin,is essential for,blood cells	False	EN
+The insurgents,is a politician from,Texas	Texas,was surrendered to,the insurgents	False	EN
+Franklin,was born in,America	Franklin,had sailed for,America	False	EN
+Bismuth,is found in,The Air	Bismuth,does not tarnish in,The Air	False	EN
+A feeble tie,was worn in,Rome	Rome,was held by,a feeble tie	False	EN
+The studies,is the governor of,California	The studies,characterized in,California	False	EN
+Gates,was persecuted by,The Church	Gates,said had left,The Church	False	EN
+Athens,was bombed by,the allies	The allies,to sail to,Athens	False	EN
+Jewish parents,influenced,Einstein	Einstein,was born of,jewish parents	False	EN
+Morphine,upsets,the stomach	Morphine,is found in,the stomach	False	EN
+Workers,was president during,the great depression	The great depression,had a effect on,Workers	False	EN
+The russian dogs,eats,Hay	The russian dogs,burnt,the hay	False	EN
+Nongonococcal urethritis,decimated,the americas	Nongonococcal urethritis,is frequent in,America	False	EN
+That old woman,is used to make,Bread	That old woman,wants to take,the bread	False	EN
+Hosts,was born in,Poland	Hosts,afflicted,Poland	False	EN
+Testosterone,causes,Aggression	Testosterone,generates,Aggression	True	EN
+A bush,is consumed by,Rabbits	Rabbit,hid behind,a bush	False	EN
+Brahms,composed,a symphony	Brahms,approached,the symphony	False	EN
+Butler,works in,Washington	Washington,was married to,Butler	False	EN
+Strider,created,the hobbit	The hobbits,gazed at,Strider	False	EN
+The first sunday,is the end of,Easter	Easter,should fall on,the first sunday	False	EN
+Garibaldi,was born in,America	Garibaldi,escaped to,America	False	EN
+Planetesimals,can be seen from,the moon	The moon,was bombarded by,planetesimals	False	EN
+The United States,exports,Sugar	The United States,stopped buying,Sugar	False	EN
+Johnson,is the governor of,California	Johnson,is at the university of,California	False	EN
+Homer,wrote,the iliad	The iliad,was not written by,Homer	False	EN
+Britain,is bigger than,Texas	Britain,has made with,Texas	False	EN
+Weber,is associated with,capitalism	Weber,wrote to,capitalism	False	EN
+A seaman,makes,Clothes	The clothes,are borrowed from,a seaman	False	EN
+France,declared war on,Germany	France,had declared war on,Germany	True	EN
+William Ii,ruled after,Victoria	William Ii,was the grandson of,Victoria	False	EN
+The major generals,works in,Washington	The major generals,stood around,Washington	False	EN
+Antibodies,is essential for,blood cells	Antibodies,are produced by,blood cells	False	EN
+Wagner,composed,an opera	Wagner,had abused,Operas	False	EN
+Dear clark,was persecuted by,The Church	Dear clark,were married in,The Church	False	EN
+Illinois,is bigger than,Vermont	Illinois,did not create,Vermont	False	EN
+Rabies,was due to,an virus	Rabies,is caused by,a virus	True	EN
+Stalingrad,was bombed by,the allies	Stalingrad,had shown,the allies	False	EN
+The lion,will eat,Hay	The lion,eats,Hay	True	EN
+Viruses,have been shown to cause,Leukemia	Leukemia,is caused by,a virus	True	EN
+Cliffs,is common to,New Zealand	New Zealand,is a land of,Cliffs	True	EN
+Cutler,owns,Microsoft	Microsoft,hired,Cutler	False	EN
+Arthur,made peace with,Japan	Arthur,was transferred to,Japan	False	EN
+Chlorine,is found in,The Air	Chlorine,is heavier than,Air	False	EN
+Nobody,is the governor of,California	Nobody,makes it in,California	False	EN
+Syphilis,decimated,the americas	Syphilis,came from,America	False	EN
+Aseptic meningitis,can cause,a rash	The rash,may be associated with,aseptic meningitis	True	EN
+Journalists,is a politician from,New York	New York,to protect,journalists	False	EN
+Cystitis,is caused by,bacteria	Bacteria,are the cause of,Cystitis	True	EN
+The guardians,interprets,Laws	The guardians,must obey,the laws	False	EN

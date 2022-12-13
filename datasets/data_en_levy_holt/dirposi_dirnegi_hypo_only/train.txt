@@ -1,0 +1,502 @@
+Kanamycin,is useful in,infections	true,,	True	EN
+Kanamycin,kills,infections	true,,	False	EN
+Norway,shows,a piedmont	true,,	True	EN
+A piedmont,is common to,Norway	true,,	False	EN
+Cadmium,is released into,The Air	true,,	False	EN
+Cadmium,is found in,The Air	true,,	True	EN
+Acyclovir,is the treatment for,infections	true,,	True	EN
+Acyclovir,kills,infections	true,,	False	EN
+Radon,is released into,The Air	true,,	False	EN
+Radon,is found in,The Air	true,,	True	EN
+Clothing,was made of,Leather	true,,	False	EN
+Leather,is used in,Clothing	true,,	True	EN
+Oxygen,is found in,Water	true,,	True	EN
+Water,is a combination of,Oxygen	true,,	False	EN
+Mandarin,is the language of,China	true,,	False	EN
+Mandarin,is officially recognized in,China	true,,	True	EN
+Lanolin,is used in,Medicine	true,,	True	EN
+Lanolin,has been used extensively in,Medicine	true,,	False	EN
+Air,is made up of,Nitrogen	true,,	False	EN
+Nitrogen,is found in,The Air	true,,	True	EN
+Fsh,causes,ovulation	true,,	True	EN
+Fsh,have been used to induce,ovulation	true,,	False	EN
+The Air,tainted with,pestilence	true,,	False	EN
+Pestilence,is transmitted by,Air	true,,	True	EN
+Crockett,was killed at,the alamo	true,,	False	EN
+Crockett,died at,the alamo	true,,	True	EN
+Human interferon,can be used to fight,infections	true,,	True	EN
+Human interferon,kills,infections	true,,	False	EN
+Virus,is often characterized by,gingivitis	true,,	False	EN
+Gingivitis,is caused by,a virus	true,,	True	EN
+Hops,is used to make,Beer	true,,	True	EN
+Hops,are added to,the beer	true,,	False	EN
+The Air,is made up of,fifth oxygen	true,,	False	EN
+Fifth oxygen,is found in,The Air	true,,	True	EN
+General Lee,is a politician from,Texas	true,,	False	EN
+General Lee,had served in,Texas	true,,	True	EN
+Jones,is a politician from,Texas	true,,	True	EN
+Jones,was elected president of,Texas	true,,	False	EN
+Halevy,resided in,Paris	true,,	True	EN
+Halevy,was a native of,Paris	true,,	False	EN
+Steroids,is used in,Medicine	true,,	True	EN
+Steroids,are widely used in,Medicine	true,,	False	EN
+President Nixon,announced on,Television	true,,	False	EN
+President Nixon,appeared on,Television	true,,	True	EN
+Tamoxifen,kills,Cancer	true,,	False	EN
+Tamoxifen,reduced the incidence of,Cancer	true,,	True	EN
+Cattle,eats,Hay	true,,	True	EN
+Cattle,are fed on,Hay	true,,	False	EN
+Testosterone,increases,Libido	true,,	False	EN
+Testosterone,can increase,Libido	true,,	True	EN
+Sulfur,is found in,The Air	true,,	True	EN
+Sulfur,combines with oxygen in,The Air	true,,	False	EN
+Free oxygen,is found in,The Air	true,,	True	EN
+The Air,must contain,free oxygen	true,,	False	EN
+Cleveland,committed,Troops	true,,	True	EN
+Cleveland,also used,the troops	true,,	False	EN
+Eczema,can cause,a rash	true,,	True	EN
+Eczema,appears as,a rash	true,,	False	EN
+Islam,is the religion in,Malaysia	true,,	False	EN
+Malaysia,believes in,Islam	true,,	True	EN
+Mohammedanism,is the creed of,India	true,,	False	EN
+Mohammedanism,is predominant in,India	true,,	True	EN
+Zinc,is permanent in,Air	true,,	False	EN
+Zinc,is found in,The Air	true,,	True	EN
+The communists,is associated with,Communism	true,,	True	EN
+The communists,want,Communism	true,,	False	EN
+Rats,give me,the creeps	true,,	False	EN
+The creeps,is spread by,Rats	true,,	True	EN
+George Bush,is a politician from,Texas	true,,	True	EN
+George Bush,was the governor of,Texas	true,,	False	EN
+Truman,approached,Stalin	true,,	False	EN
+Truman,met,Stalin	true,,	True	EN
+Linen,is used in,Clothing	true,,	True	EN
+The clothing,should be of,Linen	true,,	False	EN
+Smetana,began to compose,the opera	true,,	True	EN
+Smetana,composed,an opera	true,,	False	EN
+Magicians,appeared on,Television	true,,	True	EN
+Magicians,perform on,Television	true,,	False	EN
+These vines,would produce,Wine	true,,	True	EN
+These vines,is used to make,Wine	true,,	False	EN
+The gentle deer,eats,Crops	true,,	True	EN
+The gentle deer,nibbled at,the crops	true,,	False	EN
+A policeman,will get,a medal	true,,	False	EN
+A policeman,was awarded,a medal	true,,	True	EN
+The cult,is predominant in,India	true,,	False	EN
+The cult,is widespread in,India	true,,	True	EN
+Trachoma,is caused by,bacteria	true,,	False	EN
+Trachoma,is probably caused by,bacteria	true,,	True	EN
+Kazakhstan,is bounded on the east by,China	true,,	False	EN
+Kazakhstan,is a neighbor of,China	true,,	True	EN
+Reagan,is the governor of,California	true,,	False	EN
+Reagan,served as governor of,California	true,,	True	EN
+Works,is common to,America	true,,	False	EN
+Works,have appeared in,America	true,,	True	EN
+Livestock,eats,Crops	true,,	True	EN
+The crops,are fed to,Livestock	true,,	False	EN
+The north pole,was discovered by,Peary	true,,	False	EN
+Peary,reached,the north pole	true,,	True	EN
+The vedanta,is predominant in,India	true,,	False	EN
+The vedanta,is the philosophy of,India	true,,	True	EN
+Browne,resided in,Paris	true,,	True	EN
+Browne,was a student in,Paris	true,,	False	EN
+China,exports,Rice	true,,	True	EN
+China,sends,more rice	true,,	False	EN
+Rye,is used to make,Bread	true,,	True	EN
+The bread,was composed of,Rye	true,,	False	EN
+Sheepskin,is used in,Clothing	true,,	True	EN
+The clothing,consists mainly of,sheepskin	true,,	False	EN
+Emissaries,preached,Communism	true,,	False	EN
+Emissaries,is associated with,Communism	true,,	True	EN
+Julian,fought,the persians	true,,	True	EN
+Julian,led against,the persians	true,,	False	EN
+The Air,gives you,Rheumatism	true,,	False	EN
+Rheumatism,is transmitted by,Air	true,,	True	EN
+Students,is associated with,Communism	true,,	True	EN
+Communism,was strengthened by,students	true,,	False	EN
+The black death,decimated,Europe	true,,	False	EN
+The black death,struck,Europe	true,,	True	EN
+The pharisees,have organized,Communism	true,,	False	EN
+The pharisees,is associated with,Communism	true,,	True	EN
+Bangladesh,is a neighbor of,India	true,,	True	EN
+Bangladesh,is surrounded by,India	true,,	False	EN
+Keynes,was the prophet of,capitalism	true,,	False	EN
+Keynes,is associated with,capitalism	true,,	True	EN
+Islam,entered,India	true,,	True	EN
+India,believes in,Islam	true,,	False	EN
+The first men,walked on,the moon	true,,	False	EN
+The first men,to land on,the moon	true,,	True	EN
+Upton Sinclair,is the governor of,California	true,,	False	EN
+Upton Sinclair,ran for governor of,California	true,,	True	EN
+The scale insects,eats,Crops	true,,	False	EN
+The scale insects,do damage to,Crops	true,,	True	EN
+Epidemic typhus,has,a rash	true,,	False	EN
+Epidemic typhus,can cause,a rash	true,,	True	EN
+Peary,had discovered,the north pole	true,,	False	EN
+Peary,reached,the north pole	true,,	True	EN
+The jews,is associated with,capitalism	true,,	True	EN
+The jews,were the creators of,capitalism	true,,	False	EN
+Granules,is used in,Medicine	true,,	True	EN
+Granules,are frequently encountered in,Medicines	true,,	False	EN
+Paderewski,played,the piano	true,,	True	EN
+Paderewski,sat and played,the piano	true,,	False	EN
+This feeder,eats,Carrion	true,,	True	EN
+Carrion,are devoured by,this feeder	true,,	False	EN
+Castro,appeared on,Television	true,,	True	EN
+Castro,spoke on,Television	true,,	False	EN
+Scarlet fever,can cause,a rash	true,,	True	EN
+Scarlet fever,is characterized by,a rash	true,,	False	EN
+Frances wright,preached,Communism	true,,	False	EN
+Frances wright,is associated with,Communism	true,,	True	EN
+Presley,first appeared on,Television	true,,	False	EN
+Presley,appeared on,Television	true,,	True	EN
+Tamoxifen,kills,Cancer	true,,	False	EN
+Tamoxifen,has been used to treat,Cancer	true,,	True	EN
+Vancomycin,is the treatment for,infections	true,,	False	EN
+Vancomycin,kills,infections	true,,	True	EN
+Engels,is associated with,Communism	true,,	True	EN
+Engels,defined,Communism	true,,	False	EN
+Gonadotropins,are required for,ovulation	true,,	False	EN
+Gonadotropins,causes,ovulation	true,,	True	EN
+Infectious disease,requires,Antibiotics	true,,	True	EN
+Antibiotics,would abolish,infectious disease	true,,	False	EN
+Nixon,announced on,Television	true,,	False	EN
+Nixon,appeared on,Television	true,,	True	EN
+Britain,is separated by,a strait	true,,	True	EN
+A strait,surrounds,Britain	true,,	False	EN
+Stalin,was the leader of,the soviet union	true,,	False	EN
+Stalin,represented,the soviet union	true,,	True	EN
+The crops,were destroyed by,Grasshoppers	true,,	True	EN
+Grasshoppers,eats,Crops	true,,	False	EN
+India,exported tons of,Rice	true,,	False	EN
+India,exports,Rice	true,,	True	EN
+The states,exports,Sugar	true,,	True	EN
+The states,exported pounds of,Sugar	true,,	False	EN
+Richards,was elected governor of,Texas	true,,	False	EN
+Richards,is a politician from,Texas	true,,	True	EN
+Saudi Arabia,believes in,Islam	true,,	True	EN
+Saudi Arabia,is the home of,Islam	true,,	False	EN
+Roosevelt,made peace with,Britain	true,,	True	EN
+Roosevelt,supported,Britain	true,,	False	EN
+India,believes in,Islam	true,,	False	EN
+Islam,was brought to,India	true,,	True	EN
+Claudio monteverdi,was the composer of,Opera	true,,	False	EN
+Claudio monteverdi,composed,an opera	true,,	True	EN
+Astronauts,walked on,the moon	true,,	False	EN
+Astronauts,had landed on,the moon	true,,	True	EN
+Yellow fever,is transferred by,mosquitoes	true,,	True	EN
+Yellow fever,is transmitted by the bite of,a mosquito	true,,	False	EN
+The Constitution,was a effort of,legislators	true,,	True	EN
+Legislators,drafted,The Constitution	true,,	False	EN
+This infection,may be treated with,a resistant penicillin	true,,	True	EN
+A resistant penicillin,kills,infections	true,,	False	EN
+Jupiter,controls,Thunder	true,,	True	EN
+Jupiter,was the god of,Thunder	true,,	False	EN
+Smith,is associated with,Communism	true,,	True	EN
+Smith,introduced an element of,Communism	true,,	False	EN
+A coin,was issued in,Rome	true,,	False	EN
+A coin,was used in,Rome	true,,	True	EN
+Augustus,fought,the romans	true,,	False	EN
+The romans,were exasperated against,Augustus	true,,	True	EN
+Cheese,is imported from,France	true,,	False	EN
+France,produces,Cheese	true,,	True	EN
+Bruce,was the manager of,capitalism	true,,	False	EN
+Bruce,is associated with,capitalism	true,,	True	EN
+Leprosy,decimated,Europe	true,,	False	EN
+Leprosy,became widespread in,Europe	true,,	True	EN
+Peary,carried to,the north pole	true,,	False	EN
+Peary,reached,the north pole	true,,	True	EN
+The only democrat,was a representative from,Texas	true,,	False	EN
+The only democrat,is a politician from,Texas	true,,	True	EN
+Hemoglobin,is contained within,the blood cells	true,,	True	EN
+Hemoglobin,is essential for,blood cells	true,,	False	EN
+These lymphomas,are responsive to,Chemotherapy	true,,	True	EN
+These lymphomas,requires,Chemotherapy	true,,	False	EN
+Common alcohol,is known as,Alcohol	true,,	False	EN
+Common alcohol,contains,Alcohol	true,,	True	EN
+The hog,eats,Corn	true,,	True	EN
+The hog,is fed with,Corn	true,,	False	EN
+The beijing dialect,is officially recognized in,China	true,,	False	EN
+The beijing dialect,are found in the regions of,China	true,,	True	EN
+Grippe,is caused by,bacteria	true,,	False	EN
+Grippe,are believed to be caused by,bacteria	true,,	True	EN
+The chlorate,is extensively used in,Medicine	true,,	False	EN
+The chlorate,is used in,Medicine	true,,	True	EN
+The jew,is associated with,capitalism	true,,	True	EN
+The jew,was the representative of,capitalism	true,,	False	EN
+This preparation,soon became,a medicine	true,,	False	EN
+This preparation,is used in,Medicine	true,,	True	EN
+Reagan,was elected governor of,California	true,,	True	EN
+Reagan,is the governor of,California	true,,	False	EN
+Mulberries,are preferred by,these birds	true,,	False	EN
+Mulberries,is consumed by,Birds	true,,	True	EN
+Nigeria,is the exporter of,Oil	true,,	False	EN
+Nigeria,exports,Oil	true,,	True	EN
+Alcohol,is made from,Sugar Cane	true,,	False	EN
+Sugar Cane,is used to make,Alcohol	true,,	True	EN
+Eisenhower,is associated with,Communism	true,,	True	EN
+Eisenhower,sponsors,Communism	true,,	False	EN
+Lincoln,was stricken down by,the assassin	true,,	True	EN
+The assassin,assassinated,Lincoln	true,,	False	EN
+Relapsing fever,decimated,Europe	true,,	False	EN
+Relapsing fever,has prevailed in,Europe	true,,	True	EN
+Chronic gonorrhea,is caused by,bacteria	true,,	False	EN
+Chronic gonorrhea,means the presence of,bacteria	true,,	True	EN
+Representative bartlett,appeared on,Television	true,,	True	EN
+Representative bartlett,was interviewed on,Television	true,,	False	EN
+Chloramphenicol,kills,infections	true,,	False	EN
+Chloramphenicol,has been used in the treatment of,infections	true,,	True	EN
+Roosevelt,led during,the great depression	true,,	True	EN
+Roosevelt,was president during,the great depression	true,,	False	EN
+The crops,had been devoured by,Grasshoppers	true,,	False	EN
+Grasshoppers,eats,Crops	true,,	True	EN
+Rossini,composed,an opera	true,,	True	EN
+Rossini,had composed,the opera	true,,	False	EN
+President Johnson,announced on,Television	true,,	False	EN
+President Johnson,appeared on,Television	true,,	True	EN
+The fur seals,lives in,The Sea	true,,	False	EN
+The fur seals,swim in,The Sea	true,,	True	EN
+Elements,may have reached,America	true,,	True	EN
+Elements,is common to,America	true,,	False	EN
+Yellow fever,is transferred by,mosquitoes	true,,	False	EN
+Yellow fever,is carried by,mosquitoes	true,,	True	EN
+A sore throat,is caused by,a virus	true,,	False	EN
+A sore throat,might be caused by,the virus	true,,	True	EN
+Racine,would have written,Hamlet	true,,	True	EN
+Racine,wrote,Hamlet	true,,	False	EN
+Poland,exports,Coal	true,,	True	EN
+Poland,exported tons of,Coal	true,,	False	EN
+The experimenter,interprets,Laws	true,,	False	EN
+The experimenter,must have a knowledge of,the laws	true,,	True	EN
+Gutenberg,developed,the printing press	true,,	True	EN
+The printing press,was invented by,Gutenberg	true,,	False	EN
+The triassic,saw the rise of,the dinosaurs	true,,	False	EN
+The dinosaurs,appeared in,the triassic	true,,	True	EN
+Compounds,is used in,Medicine	true,,	True	EN
+Compounds,are widely used in,Medicine	true,,	False	EN
+Isoniazid,may be used for,infection	true,,	True	EN
+Isoniazid,kills,infections	true,,	False	EN
+Viruses,isolated from,natural colds	true,,	False	EN
+Natural colds,is caused by,a virus	true,,	True	EN
+Sweden,did not join,the european union	true,,	False	EN
+Sweden,is not part of,the european union	true,,	True	EN
+Eisenhower,committed,Troops	true,,	True	EN
+Eisenhower,responded by sending,Troops	true,,	False	EN
+Thailand,exported tons of,Rice	true,,	False	EN
+Thailand,exports,Rice	true,,	True	EN
+The incidence,is highest in,America	true,,	False	EN
+The incidence,is common to,America	true,,	True	EN
+The north pole,was found by,Ross	true,,	False	EN
+Ross,reached,the north pole	true,,	True	EN
+Sweet cider,contains,Alcohol	true,,	False	EN
+Sweet cider,may have,Alcohol	true,,	True	EN
+Stravinsky,resided in,Paris	true,,	True	EN
+Stravinsky,moved to,Paris	true,,	False	EN
+Picasso,remained in,Paris	true,,	False	EN
+Picasso,resided in,Paris	true,,	True	EN
+Water,is a combination of,hydrogen	true,,	False	EN
+Hydrogen,is found in,Water	true,,	True	EN
+Detroit,was bombed by,the allies	true,,	False	EN
+Allies,made an attack upon,Detroit	true,,	True	EN
+Hemoglobin,is essential for,blood cells	true,,	False	EN
+Blood cells,consist of,hemoglobin	true,,	True	EN
+Shintoism,is the religion of,Japan	true,,	False	EN
+Shintoism,is predominant in,Japan	true,,	True	EN
+Switzerland,produces,Cheese	true,,	True	EN
+Cheese,is the product of,Switzerland	true,,	False	EN
+Geysers,is common to,New Zealand	true,,	False	EN
+Geysers,occur in,New Zealand	true,,	True	EN
+Cancers,may be treated by,the following salve	true,,	True	EN
+The following salve,kills,Cancer	true,,	False	EN
+Clothing,was made from,hides	true,,	False	EN
+Hides,is used in,Clothing	true,,	True	EN
+Some cheese,is imported from,The Netherlands	true,,	False	EN
+The Netherlands,produces,Cheese	true,,	True	EN
+India,is the home of,Brahmanism	true,,	False	EN
+Brahmanism,is predominant in,India	true,,	True	EN
+Tunisians,confessed on,Television	true,,	False	EN
+Tunisians,appeared on,Television	true,,	True	EN
+Progesterone,facilitates,ovulation	true,,	True	EN
+Progesterone,causes,ovulation	true,,	False	EN
+Athena,was the patroness of,Athens	true,,	False	EN
+Athena,was worshiped in,Athens	true,,	True	EN
+The democrat,is a politician from,Texas	true,,	True	EN
+The democrat,was a representative from,Texas	true,,	False	EN
+The triassic,saw the rise of,the dinosaurs	true,,	False	EN
+Dinosaurs,evolved during,the triassic	true,,	True	EN
+Donizetti,composed,an opera	true,,	True	EN
+Donizetti,had composed,Operas	true,,	False	EN
+Stanford,was elected governor of,California	true,,	False	EN
+Stanford,is the governor of,California	true,,	True	EN
+Maize,is used to make,Bread	true,,	False	EN
+Maize,may be made into,Bread	true,,	True	EN
+Young tunisians,appeared on,Television	true,,	True	EN
+Young tunisians,confessed on,Television	true,,	False	EN
+Ascension day,is the day after,Easter	true,,	False	EN
+Ascension day,is the end of,Easter	true,,	True	EN
+A writer,rebuilds,tissue	true,,	False	EN
+A writer,will make,a tissue	true,,	True	EN
+A zoster,is seen with,a rash	true,,	False	EN
+A zoster,can cause,a rash	true,,	True	EN
+General taylor,was in command in,Florida	true,,	True	EN
+General taylor,is the governor of,Florida	true,,	False	EN
+This cholinesterase,is essential for,blood cells	true,,	False	EN
+This cholinesterase,is found in,blood cells	true,,	True	EN
+Women,rebuilds,tissue	true,,	False	EN
+Women,tend to have,tissue	true,,	True	EN
+Kennedy,committed,Troops	true,,	True	EN
+Kennedy,deployed,Troops	true,,	False	EN
+Keynes,is associated with,capitalism	true,,	True	EN
+Keynes,was the engineer of,capitalism	true,,	False	EN
+Gide,looked towards,Communism	true,,	True	EN
+Gide,is associated with,Communism	true,,	False	EN
+Cattle,eats,Corn	true,,	True	EN
+Corn,is fed to,Cattle	true,,	False	EN
+Paris,is packed with,Tourists	true,,	False	EN
+Tourists,visit,Paris	true,,	True	EN
+Vedanta,is predominant in,India	true,,	True	EN
+Vedanta,is the philosophy of,India	true,,	False	EN
+Switzerland,produces,Cheese	true,,	True	EN
+Switzerland,is an exporter of,Cheese	true,,	False	EN
+Maize,was introduced from,America	true,,	False	EN
+America,exports,Maize	true,,	True	EN
+Clothing,was made from,Buckskin	true,,	False	EN
+Buckskin,is used in,Clothing	true,,	True	EN
+Cheese,can only be made in,Switzerland	true,,	False	EN
+Switzerland,produces,Cheese	true,,	True	EN
+China,sent,Rice	true,,	True	EN
+China,exports,Rice	true,,	False	EN
+Capitalism,produced by,the owners	true,,	False	EN
+The owners,is associated with,capitalism	true,,	True	EN
+Mononucleosis,is probably caused by,a virus	true,,	True	EN
+Mononucleosis,is caused by,a virus	true,,	False	EN
+The first aeroplane,was built by,the wright brothers	true,,	True	EN
+The first aeroplane,was invented by,the wright brothers	true,,	False	EN
+Professional magicians,perform on,Television	true,,	False	EN
+Professional magicians,appeared on,Television	true,,	True	EN
+Picasso,moved to,Paris	true,,	False	EN
+Picasso,resided in,Paris	true,,	True	EN
+Joan Miro,was born in,Barcelona	true,,	False	EN
+Joan Miro,lived in,Barcelona	true,,	True	EN
+Hcg,causes,ovulation	true,,	True	EN
+Hcg,is used to stimulate,ovulation	true,,	False	EN
+Monteverdi,composed,an opera	true,,	True	EN
+Monteverdi,was the composer of,Opera	true,,	False	EN
+The iraq,believes in,Islam	true,,	True	EN
+Islam,burst forth in,the iraq	true,,	False	EN
+India,is the birthplace of,Hinduism	true,,	False	EN
+Hinduism,is predominant in,India	true,,	True	EN
+Britain,possesses in,the indian ocean	true,,	True	EN
+The indian ocean,surrounds,Britain	true,,	False	EN
+Bartlett,was interviewed on,Television	true,,	False	EN
+Bartlett,appeared on,Television	true,,	True	EN
+The north pole,was discovered by,Ross	true,,	False	EN
+Ross,reached,the north pole	true,,	True	EN
+Both medals,would go to,Physicists	true,,	False	EN
+Physicists,was awarded,a medal	true,,	True	EN
+Medals,were won by,Athletes	true,,	False	EN
+Athletes,was awarded,a medal	true,,	True	EN
+Medals,were won by,competitors	true,,	False	EN
+Competitors,was awarded,a medal	true,,	True	EN
+Infections,may be treated with,chloramphenicol	true,,	True	EN
+Chloramphenicol,kills,infections	true,,	False	EN
+Several antibiotics,have been used to treat,infections	true,,	True	EN
+Several antibiotics,kills,infections	true,,	False	EN
+Delegates,met to draft,a constitution	true,,	True	EN
+Delegates,drafted,The Constitution	true,,	False	EN
+The russian successes,is associated with,Communism	true,,	True	EN
+Communism,made by,the russian successes	true,,	False	EN
+Plato,is associated with,Communism	true,,	True	EN
+Plato,demanded,Communism	true,,	False	EN
+An american runner,seems to have won,a medal	true,,	False	EN
+An american runner,was awarded,a medal	true,,	True	EN
+Hemoglobin,is essential for,blood cells	true,,	False	EN
+Hemoglobin,is found in,blood cells	true,,	True	EN
+Carpenters,makes,Furniture	true,,	True	EN
+The furniture,was made by,Carpenters	true,,	False	EN
+Athene,was the goddess of,Athens	true,,	False	EN
+Athene,was worshiped in,Athens	true,,	True	EN
+Pyrrhus,fought,the romans	true,,	True	EN
+Pyrrhus,won over,the romans	true,,	False	EN
+The black death,decimated,Europe	true,,	False	EN
+The black death,killed in,Europe	true,,	True	EN
+The south pole,was discovered by,Amundsen	true,,	False	EN
+Amundsen,reached,the south pole	true,,	True	EN
+Stella,was born and died at,Paris	true,,	False	EN
+Stella,resided in,Paris	true,,	True	EN
+Rubella,can cause,a rash	true,,	True	EN
+The rash,was caused by,rubella	true,,	False	EN
+Sibelius,composed,a symphony	true,,	True	EN
+Sibelius,has composed,symphonies	true,,	False	EN
+Rumania,entered the war against,Germany	true,,	True	EN
+Rumania,declared war on,Germany	true,,	False	EN
+Ciprofloxacin,is useful for,infections	true,,	True	EN
+Ciprofloxacin,kills,infections	true,,	False	EN
+Valencia,is packed with,Tourists	true,,	False	EN
+Valencia,is popular with,Tourists	true,,	True	EN
+Hemoglobin,is essential for,blood cells	true,,	False	EN
+A blood cell,contains molecules of,hemoglobin	true,,	True	EN
+Islam,was introduced into,Yemen	true,,	True	EN
+Yemen,believes in,Islam	true,,	False	EN
+Cook,had discovered,the north pole	true,,	False	EN
+Cook,reached,the north pole	true,,	True	EN
+Lice,can transmit,trench fever	true,,	True	EN
+Trench fever,is transferred by,lice	true,,	False	EN
+The black death,swept across,Europe	true,,	True	EN
+The black death,decimated,Europe	true,,	False	EN
+Fluoride,is essential for,Bones	true,,	False	EN
+Fluoride,is present in,the bones	true,,	True	EN
+Virus,is detected in,nasopharyngeal carcinoma	true,,	True	EN
+Nasopharyngeal carcinoma,is caused by,a virus	true,,	False	EN
+An ox,eats,Hay	true,,	True	EN
+An ox,came to eat,the hay	true,,	False	EN
+Audubon,remained in,Paris	true,,	False	EN
+Audubon,resided in,Paris	true,,	True	EN
+Picasso,resided in,Paris	true,,	True	EN
+Picasso,settled in,Paris	true,,	False	EN
+Air,consists primarily of,Nitrogen	true,,	False	EN
+Nitrogen,is found in,The Air	true,,	True	EN
+Iodine,kills,Cancer	true,,	False	EN
+That cancer,should be treated with,iodine	true,,	True	EN
+Bubonic plague,arrived in,Europe	true,,	True	EN
+Bubonic plague,decimated,Europe	true,,	False	EN
+Bombs,are masses of,Lava	true,,	False	EN
+Lava,is used in,Bombs	true,,	True	EN
+The water,is higher in,chlorine	true,,	False	EN
+Chlorine,is found in,Water	true,,	True	EN
+Marduk,was the deity of,Babylon	true,,	False	EN
+Marduk,was worshiped in,Babylon	true,,	True	EN
+Jove,controls,Thunder	true,,	True	EN
+Jove,wields,the thunder	true,,	False	EN
+Ross,reached,the north pole	true,,	True	EN
+The north pole,was located by,Ross	true,,	False	EN
+Goodyear,was awarded,a medal	true,,	False	EN
+Goodyear,however obtained,the medal	true,,	True	EN
+Horses,eats,Hay	true,,	True	EN
+Horses,prefer,Hay	true,,	False	EN
+Zinc,is permanent in,The Air	true,,	False	EN
+Zinc,is found in,The Air	true,,	True	EN
+Bennett,composed,a symphony	true,,	False	EN
+Bennett,could have written,a symphony	true,,	True	EN
+Lincoln,issued a call for,Troops	true,,	True	EN
+Lincoln,committed,Troops	true,,	False	EN
+East Pakistan,was surrounded by,India	true,,	False	EN
+East Pakistan,is a neighbor of,India	true,,	True	EN
+Lenin,defined,Communism	true,,	False	EN
+Lenin,is associated with,Communism	true,,	True	EN
+Antibiotics,may be prescribed for,Bronchitis	true,,	True	EN
+Bronchitis,requires,Antibiotics	true,,	False	EN
+Burma,exported tons of,Rice	true,,	False	EN
+Burma,exports,Rice	true,,	True	EN
+Cattle,eats,Crops	true,,	True	EN
+Cattle,fattened on,Crops	true,,	False	EN
+Acyclovir,has been fighting,infections	true,,	True	EN
+Acyclovir,kills,infections	true,,	False	EN
+Washington,is packed with,Politicians	true,,	True	EN
+Washington,is overrun with,Politicians	true,,	False	EN
+Ernst,moved to,Paris	true,,	False	EN
+Ernst,resided in,Paris	true,,	True	EN
+Santa Claus,reached,the north pole	true,,	True	EN
+Santa Claus,dwelt at,the north pole	true,,	False	EN
+Q fever,begins with,Headache	true,,	False	EN
+Q fever,can cause,a headache	true,,	True	EN

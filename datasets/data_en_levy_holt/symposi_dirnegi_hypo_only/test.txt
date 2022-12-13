@@ -1,0 +1,2831 @@
+Mutton,is produced from,Sheep	true,,	True	EN
+The first humans,is native to,Africa	true,,	True	EN
+Visitors,lives in,a monastery	true,,	False	EN
+The hondurans,fought in,The Civil War	true,,	True	EN
+The probe,is made of,Steel	true,,	False	EN
+The ferret,is defined as,a mammal	true,,	True	EN
+Celandine,is native to,Europe	true,,	True	EN
+Morphine,is the drug for,Pain	true,,	True	EN
+Sulfonamides,cures,Malaria	true,,	True	EN
+Aristotle,tutored,Alexander	true,,	True	EN
+France,is an ally of,Russia	true,,	False	EN
+The splint,is made of,Plastic	true,,	True	EN
+The prime minister,appoints,Ministers	true,,	True	EN
+Mombasa,is next to,The Sea	true,,	True	EN
+Cattle,were brought to,America	true,,	False	EN
+The temperatures,were recorded on,a recorder	true,,	True	EN
+Tincture,cures,infections	true,,	True	EN
+Flavonoids,helps reduce,stress	true,,	True	EN
+Independence Day,is a festival in,India	true,,	False	EN
+The hondurans,have fought in,Civil War	true,,	True	EN
+This sherbet,is simply,Sugar	true,,	False	EN
+Helen,was the child of,Zeus	true,,	True	EN
+The meperidine,is used to help,Pain	true,,	True	EN
+Splints,are also made of,Metal	true,,	True	EN
+Geology,studies,the earth	true,,	True	EN
+Tea,originated in,China	true,,	True	EN
+The cake,can be used as,Feed	true,,	True	EN
+The cacao tree,are indigenous to,America	true,,	True	EN
+Korea,was ruled by,military men	true,,	True	EN
+Fresh vegetables,contains,Vitamins	true,,	True	EN
+Robins,lives in,America	true,,	False	EN
+Venice,looks on,The Sea	true,,	True	EN
+India,was invaded by,the mongols	true,,	False	EN
+The oil palm,is indigenous to,Africa	true,,	True	EN
+Green monkeys,came from,Africa	true,,	True	EN
+Lidocaine,relieves,Pain	true,,	True	EN
+Coyotes,prey on,Antelope	true,,	True	EN
+Boyle,did service to,Science	true,,	True	EN
+Britain,was controlled by,Queen Victoria	true,,	True	EN
+The lungs,contribute,a hormone	true,,	True	EN
+Desserts,include,a cake	true,,	True	EN
+The arctic hare,is enveloped in,Fur	true,,	False	EN
+Jonas Salk,invented,a vaccine	true,,	True	EN
+Gautama buddha,is the founder of,Buddhism	true,,	True	EN
+English,is the language of,Ghana	true,,	False	EN
+Queen Victoria,reigned in,England	true,,	True	EN
+Birds,can only come from,America	true,,	False	EN
+Any wound,can be closed with,debridement	true,,	False	EN
+This medication,is effective for,infections	true,,	True	EN
+Oxygen,is necessary to,all creatures	true,,	True	EN
+The beam,is made of,Steel	true,,	False	EN
+A tiara,is worn by,the pope	true,,	True	EN
+Preparations,are used to relieve,Pain	true,,	True	EN
+The clean seawater,soothed,the pain	true,,	True	EN
+Length,shall be measured to,the nearest inch	true,,	True	EN
+Wilkes,became,a hero	true,,	True	EN
+A whiskey,would stop,the pain	true,,	False	EN
+Gonadotrophin,indicates,Pregnancy	true,,	True	EN
+England,was controlled by,Queen Victoria	true,,	True	EN
+The length,indicates the number of,Bytes	true,,	False	EN
+The wild vine,is native to,America	true,,	True	EN
+The rose,was introduced from,China	true,,	True	EN
+Vegetables,contain amounts of,the vitamin	true,,	False	EN
+Nsaids,are effective for,Pain	true,,	True	EN
+Chlortetracycline,is used for the treatment of,infections	true,,	True	EN
+The pound,measures,Resistance	true,,	True	EN
+Turgot,became,a hero	true,,	True	EN
+Johnson,plays in,a band	true,,	True	EN
+Beet greens,is rich with,calcium	true,,	True	EN
+Sheep,are sold for,Mutton	true,,	True	EN
+Cochineal insects,are indigenous to,America	true,,	False	EN
+Temperature,is shown on,a fahrenheit thermometer	true,,	True	EN
+Soft Drinks,contain amounts of,Sugar	true,,	True	EN
+The vegetables,is rich with,Iron	true,,	True	EN
+Scurvy,was a disease of,Sailors	true,,	True	EN
+The desert,yields,a rare herbage	true,,	False	EN
+Leafy vegetables,are high in,calcium	true,,	True	EN
+The gypsies,came from,India	true,,	False	EN
+Tularemia,causes,fever	true,,	True	EN
+This energy,amounts to,electron volts	true,,	False	EN
+These mineral ores,are imported from,Africa	true,,	False	EN
+Pali,was the language in,India	true,,	False	EN
+Archimedes,gave and created,the science	true,,	False	EN
+The temperature,is monitored by,a thermocouple	true,,	True	EN
+Cincinnatus,became,a dictator	true,,	True	EN
+Red meats,is rich with,Iron	true,,	False	EN
+Augustus,became,a hero	true,,	True	EN
+Acyclovir,remains the treatment for,infections	true,,	True	EN
+Lentils,is processed into,Flour	true,,	False	EN
+General chamomile,is a native to,Europe	true,,	True	EN
+Jerusalem,was recaptured by,Saladin	true,,	False	EN
+Cicero,gives accounts of,the length	true,,	True	EN
+Galvani,discovered,Electricity	true,,	True	EN
+The emperor,had been forced into,The War	true,,	False	EN
+The gorgon,was destroyed by,Perseus	true,,	True	EN
+Herbivores,lives off,Plants	true,,	True	EN
+Operations,is conducted by,a surgeon	true,,	True	EN
+Corn,was introduced from,America	true,,	True	EN
+Janus,received prayers from,Romans	true,,	True	EN
+The vegetables,are rich in,Iron	true,,	True	EN
+Marsupials,originated in,America	true,,	False	EN
+Physiology,studies,Life	true,,	True	EN
+The zea mays,is native to,Europe	true,,	False	EN
+Potatoes,is native to,Europe	true,,	False	EN
+Scholars,ruled,Korea	true,,	True	EN
+Analysis,revealed differences between,the earth	true,,	False	EN
+Thomson,had received,the nobel prize	true,,	True	EN
+The cake,is covered with,brown flour	true,,	False	EN
+The headache,can be relieved by,cathartics	true,,	True	EN
+The olympic games,were held at,Sapporo	true,,	True	EN
+Catalytic converters,is made of,Platinum	true,,	False	EN
+Mutton,is the flesh of,the sheep	true,,	False	EN
+The application,may help to relieve,Pain	true,,	True	EN
+Plato,was an student of,Mathematics	true,,	False	EN
+Wayne,remained on the field of,Battle	true,,	False	EN
+Brothers,are reckoned among,the saints	true,,	True	EN
+The reformation,led by,Martin Luther	true,,	True	EN
+Bridges,is made of,Steel	true,,	True	EN
+The oldest bats,has,Wings	true,,	True	EN
+Lions,live in the part of,Africa	true,,	False	EN
+The oil palm,originated in,Africa	true,,	True	EN
+Caffeine,relieves,Headache	true,,	True	EN
+Egypt,still remained as,a kingdom	true,,	False	EN
+A thermocouple,measures,Temperature	true,,	True	EN
+Manchester,was half of,Europe	true,,	False	EN
+Cubits,measures,length	true,,	True	EN
+Tomatoes,are rich in,Vitamins	true,,	False	EN
+Salicylate,also relieves,the pain	true,,	True	EN
+Boyle,contributed to,Science	true,,	True	EN
+Hayes,served at,The White House	true,,	True	EN
+The menhaden,is a fish with,Scales	true,,	False	EN
+Salt,is applied to the surface of,the cheese	true,,	False	EN
+Iv lidocaine,relieves,Pain	true,,	True	EN
+The temperature,may be calculated by,a simple balance	true,,	True	EN
+Poseidon,received prayers from,Greeks	true,,	True	EN
+Tennessee,produced,Corn	true,,	False	EN
+The jejunum,processes,Food	true,,	False	EN
+A bimetallic strip,consists of strips of,Metals	true,,	False	EN
+The annuals,are all natives of,Mexico	true,,	True	EN
+Marsupials,are concentrated in,Australia	true,,	False	EN
+Jesus,was the seed of,Abraham	true,,	True	EN
+The competitors,fought in,The Civil War	true,,	True	EN
+Officials,ruled,Korea	true,,	True	EN
+A voltmeter,may be used to measure,Currents	true,,	True	EN
+Desserts,includes,Sugar	true,,	True	EN
+Jupiter,is bigger than,Earth	true,,	True	EN
+Butter,is included in,Chocolate	true,,	True	EN
+Wilson,traveled to,London	true,,	True	EN
+Resistance thermometers,is made of,Platinum	true,,	False	EN
+The narcotic meperidine,relieves,Pain	true,,	True	EN
+A hormone,is made by,the intestinal mucosa	true,,	True	EN
+Kennedy,returned from,London	true,,	False	EN
+The grizzly bear,are natives of,America	true,,	False	EN
+The german language,has official status in,Switzerland	true,,	False	EN
+Frobisher,was generally regarded as,the hero	true,,	False	EN
+Hitler,is master of,Britain	true,,	True	EN
+The valued camwood,originated in,Africa	true,,	True	EN
+Maize,is native to,America	true,,	True	EN
+Green papaya,is an source of,Vitamins	true,,	True	EN
+San Antonio,became the capital of,Texas	true,,	False	EN
+Memory,researches,Animals	true,,	True	EN
+Pain,should be relieved by,medication	true,,	True	EN
+Infections,respond to treatment with,sulfonamides	true,,	True	EN
+The sudan,was struck by,famine	true,,	True	EN
+Sugar,exists in,Honey	true,,	True	EN
+Wellington,was beaten at,Waterloo	true,,	True	EN
+The rays,is covered in,Scales	true,,	True	EN
+Inertia,was discovered by,Galileo	true,,	True	EN
+John Adams,traveled to,Paris	true,,	True	EN
+Elephants,live in,Africa	true,,	True	EN
+Natural History,is the study of,Animals	true,,	False	EN
+Fever,will require the use of,Aspirin	true,,	False	EN
+Queen Victoria,moved to,Buckingham Palace	true,,	False	EN
+Holbein,went out to,War	true,,	True	EN
+The chocolate,is made up with,ordinary cocoa	true,,	True	EN
+Pneumonia,refers to inflammation of,the parenchyma	true,,	False	EN
+Morphine,relieves,Pain	true,,	True	EN
+Valerian,is a native to,Europe	true,,	True	EN
+The produce,is eaten by,horses	true,,	True	EN
+The sultan,appointed governor of,Egypt	true,,	False	EN
+Galileo,discovered the principle of,Inertia	true,,	True	EN
+Salk,had developed,a vaccine	true,,	True	EN
+Amsterdam,remained the center of,Europe	true,,	False	EN
+Athens,governs,Greece	true,,	False	EN
+The adrenal cortex,secretes,hormones	true,,	True	EN
+Pakistan,speaks,Urdu	true,,	True	EN
+Brown mignonette,is an plant of,America	true,,	True	EN
+The actual cautery,treats,Wounds	true,,	True	EN
+Gautama,is the founder of,Buddhism	true,,	True	EN
+Portuguese,is used in,Brazil	true,,	True	EN
+The dragon,has,Claws	true,,	False	EN
+Nsaids,are effective against,Pain	true,,	False	EN
+Medusa,was destroyed by,Perseus	true,,	True	EN
+The caterpillars,have projecting,Horns	true,,	True	EN
+Iguanas,lives in,America	true,,	True	EN
+Urdu,is spoken in,Pakistan	true,,	True	EN
+Almonds,are high in,calcium	true,,	False	EN
+The cows,has,Fur	true,,	True	EN
+Comstock,had been in the service of,the government	true,,	True	EN
+Lemon Juice,is included in,a cake	true,,	True	EN
+Jews,must wear,a dress	true,,	False	EN
+Chloramphenicol,cures,infections	true,,	False	EN
+Domestic cattle,is native to,America	true,,	False	EN
+The dining table,was a slab of,Wood	true,,	False	EN
+Maryland,would go to,the confederacy	true,,	False	EN
+Vegetables,is rich with,Iron	true,,	True	EN
+The band,is led by,the first performers	true,,	False	EN
+Aspirin,relieves,Pain	true,,	True	EN
+A lunatic,murdered,Lincoln	true,,	True	EN
+Sacramento,became the capital of,California	true,,	True	EN
+Polypeptide,promotes,Sleep	true,,	True	EN
+Cent,is used in,Spain	true,,	True	EN
+The caterpillar,can produce,poison	true,,	True	EN
+The dauphin,was the king of,France	true,,	True	EN
+Electrodes,is made of,Platinum	true,,	True	EN
+Chocolate,is made by adding,butter	true,,	False	EN
+The elephant,inhabits,Asia	true,,	True	EN
+Intravenous sulfate,alleviates,Headaches	true,,	True	EN
+Histamine,has been used in the treatment of,the headache	true,,	True	EN
+Endorphins,kill,Pain	true,,	False	EN
+Science,was cultivated by,the greek philosophers	true,,	False	EN
+The larynx,processes,Food	true,,	False	EN
+Descartes,was greatest in,Mathematics	true,,	False	EN
+The arrows,represent,the temperatures	true,,	True	EN
+Theodore Roosevelt,was born in,New York	true,,	False	EN
+The epithelium,secretes,mucus	true,,	True	EN
+Polypeptide,helps,Sleep	true,,	True	EN
+Mubarak,ruled,Egypt	true,,	True	EN
+The ancestor,became,a hero	true,,	True	EN
+The wood,is used for making,Skewers	true,,	True	EN
+Korea,was governed by,Officials	true,,	True	EN
+The mass,may be composed of,Stones	true,,	True	EN
+The application,relieves,Pain	true,,	True	EN
+Kentucky,was part of,the confederacy	true,,	True	EN
+Portugal,produces,Wine	true,,	True	EN
+Pericarditis,can be treated with,Aspirin	true,,	True	EN
+Victoria,is situated with,The Sea	true,,	True	EN
+Meat,is produced from,Sheep	true,,	True	EN
+The remedies,relieves,Pain	true,,	True	EN
+The congo,flows through,Africa	true,,	True	EN
+Mucus,is secreted by,the epithelium	true,,	True	EN
+The chairman,is to be appointed by,the government	true,,	False	EN
+The adrenal cortex,secretes amounts of,hormones	true,,	True	EN
+Cleveland,retiring from,The White House	true,,	False	EN
+Hormone,is released from,the hypothalamus	true,,	True	EN
+Rooks,are fond of,these worms	true,,	False	EN
+General valerian,is a native to,Europe	true,,	True	EN
+Tunisia,trades with,France	true,,	False	EN
+Rose,came from,Scotland	true,,	True	EN
+China,has launched,Satellites	true,,	False	EN
+General Dyer,was acclaimed as,the hero	true,,	True	EN
+Analgesics,relieves,Headaches	true,,	True	EN
+Corn,is a native of,America	true,,	False	EN
+Sugar,was extracted from,Beetroot	true,,	True	EN
+The sciences,was founded by,Louis Xiv	true,,	False	EN
+Aspirin,relieves,Headaches	true,,	True	EN
+French,is spoken by,Algerians	true,,	True	EN
+This insect,lives in,Texas	true,,	False	EN
+Poland,is an ally of,The United States	true,,	True	EN
+Germicidal lamps,is made of,Metal	true,,	False	EN
+The congo,is the heart of,Africa	true,,	False	EN
+Military men,ruled,Korea	true,,	True	EN
+Islam,was founded by,Mohammed	true,,	True	EN
+A lion,seize,an antelope	true,,	True	EN
+The larva,is and feeds on,Plants	true,,	True	EN
+Earthquakes,are recorded on,seismographs	true,,	True	EN
+Late may,has a lot of,Rain	true,,	False	EN
+Digits,measures,length	true,,	True	EN
+Chester,is in,Pennsylvania	true,,	True	EN
+The cake,is covered with,sweet flour	true,,	False	EN
+Balsam,is native to,America	true,,	True	EN
+Yolks,are used to a extent in,Cake	true,,	True	EN
+Diodes,is made of,Silicon	true,,	True	EN
+Any baboons,is native to,Africa	true,,	False	EN
+The romans,adopted,Dionysus	true,,	True	EN
+The hornet,captured in,America	true,,	False	EN
+The altar,was a table of,Wood	true,,	False	EN
+The potato,contains a trace of,Sugar	true,,	True	EN
+The magnetic needle,is a piece of,Steel	true,,	False	EN
+Predators,lives off,Animals	true,,	True	EN
+Lions,habitually use,Claws	true,,	False	EN
+The algorithm,is carried out by,a computer	true,,	False	EN
+Vegetables,are the sources of,this vitamin	true,,	False	EN
+The length,is millionths of,a millimetre	true,,	False	EN
+Aspirin,relieves,Pain	true,,	True	EN
+Fish,is served with,Rice	true,,	True	EN
+The temperature,may be measured by,an mercury thermometer	true,,	True	EN
+David,captured the city of,Jerusalem	true,,	True	EN
+Salk,invented,a vaccine	true,,	True	EN
+The insect,has been mistaken for,a thrips	true,,	False	EN
+Delicious,eaten with,Rice	true,,	True	EN
+A wag,was known as,Mark Twain	true,,	True	EN
+Vancomycin,is the drug for,infections	true,,	True	EN
+Piston,is a cylinder of,Metal	true,,	False	EN
+Nepal,trades with,Britain	true,,	False	EN
+The hymenoptera,have pairs of,Wings	true,,	False	EN
+Australia,was discovered by,Captain Cook	true,,	True	EN
+The mongols,controlled most of,India	true,,	False	EN
+South Korea,manufactures,Cars	true,,	True	EN
+Christians,lives in,a monastery	true,,	False	EN
+These lyres,were entirely of,Wood	true,,	False	EN
+Australia,is inhabited by,Kangaroos	true,,	True	EN
+Preparations,helps reduce,Pain	true,,	True	EN
+The government,shall be represented by,Delegate	true,,	False	EN
+Mustard,is used in the form of,Flour	true,,	True	EN
+Yellow vegetables,provide,vitamin a	true,,	False	EN
+India,became a republic within,the commonwealth	true,,	False	EN
+Mongols,conquered,China	true,,	False	EN
+Jews,had,Tails	true,,	True	EN
+Cold applications,relieves,Headaches	true,,	True	EN
+The british empire,comprises,Great Britain	true,,	True	EN
+The uruguayans,continued,The Civil War	true,,	True	EN
+Chaplin,received,an oscar	true,,	True	EN
+Liver,is rich with,Iron	true,,	False	EN
+Human beings,originated in,Africa	true,,	True	EN
+Acyclovir,is the treatment for,infections	true,,	False	EN
+Codeine,can be given for,Pain	true,,	True	EN
+Morphine,relieves,Pain	true,,	True	EN
+The elk,is found in the parts of,America	true,,	True	EN
+The magna carta,was signed by,John	true,,	True	EN
+A myringotomy,is conducted by,a surgeon	true,,	False	EN
+The British,conquered,Africa	true,,	True	EN
+Chips,is made of,Silicon	true,,	False	EN
+Madison,wrote in,Paris	true,,	False	EN
+The assassin,murdered,Lincoln	true,,	True	EN
+Quinine,cures,Malaria	true,,	True	EN
+Patients,are hypersensitive to,Co2	true,,	False	EN
+Sackcloth,is worn by,Jews	true,,	True	EN
+Atropine,also relieves,Pain	true,,	True	EN
+Virginia,was part of,the confederacy	true,,	True	EN
+The rajah,became,a hero	true,,	True	EN
+The mandibles,lie on either side of,the mouth	true,,	False	EN
+The first molars,are the teeth in,the mouth	true,,	False	EN
+The serpents,are clothed with,Scales	true,,	True	EN
+Caffeine,is used to relieve,Headache	true,,	True	EN
+The followers,dwelt together in,monasteries	true,,	False	EN
+Martin,has been chosen as,the saint	true,,	True	EN
+The pomegranate,was first introduced from,Africa	true,,	True	EN
+The reformation,was led by,Martin Luther	true,,	True	EN
+Aspirin,relieves,Headaches	true,,	True	EN
+Mars,can be seen with,a naked eye	true,,	True	EN
+The red squirrels,bite,the squirrels	true,,	True	EN
+Frances,only pays,Dollars	true,,	False	EN
+Tyndall,contributed to,Science	true,,	True	EN
+Wilson,arrived in,London	true,,	True	EN
+General Eisenhower,has been a leader in,War	true,,	False	EN
+Salicylates,are specific for,the pain	true,,	False	EN
+The knights,are seeking,the holy grail	true,,	True	EN
+The headache,may be relieved by,applications	true,,	True	EN
+Wine,comes from,France	true,,	True	EN
+Hillary,climbed,the everest	true,,	True	EN
+Oxalic acid,removes,stains	true,,	True	EN
+Liege,is the port in,Europe	true,,	False	EN
+Celery,is indigenous to,Europe	true,,	True	EN
+Egyptians,speak,English	true,,	True	EN
+Fever,can be treated with,Aspirin	true,,	True	EN
+Morse,was the inventor of,the telegraph	true,,	True	EN
+Neptune,appears in,the telescope	true,,	True	EN
+Arizona,was separated from,Mexico	true,,	True	EN
+Millimeters,measures,length	true,,	True	EN
+A alkali,removes,stains	true,,	True	EN
+President Wilson,traveled to,Paris	true,,	True	EN
+Codeine,relieves,Pain	true,,	True	EN
+Treacle,contain a percentage of,Sugar	true,,	True	EN
+Debridement,treats,Wounds	true,,	True	EN
+Camels,were brought to,Australia	true,,	False	EN
+Terrorists,bombed in,Nairobi	true,,	False	EN
+The arrows,measures,Temperature	true,,	True	EN
+The anterior pituitary,secretes,hormones	true,,	True	EN
+Galileo,discovered the law of,Inertia	true,,	True	EN
+Stains,may be removed by,citric acid	true,,	True	EN
+Headaches,often respond to,analgesics	true,,	True	EN
+George Bush,lost to,Bill Clinton	true,,	True	EN
+Hirohito,becomes emperor of,Japan	true,,	False	EN
+The Minister,has been chosen by,the communicants	true,,	True	EN
+Clovis,commanded the army in,a battle	true,,	False	EN
+Wittgenstein,discussed,Mathematics	true,,	True	EN
+Gandhi,emerged as,the dictator	true,,	True	EN
+Hard wheats,is processed into,Flour	true,,	True	EN
+The instrument,measures,Current	true,,	True	EN
+Tea,was discovered in,China	true,,	False	EN
+Paprika,is rich in,the vitamin	true,,	False	EN
+Peaches,is native to,America	true,,	False	EN
+Venice,took the lead with,Greece	true,,	False	EN
+Bread,is enriched with,Vitamins	true,,	False	EN
+Meat,also contains,Vitamins	true,,	True	EN
+Matchlocks,is made of,Metal	true,,	True	EN
+Penguins,is covered in,Feathers	true,,	True	EN
+This band,was headed by,great scholars	true,,	False	EN
+The artist,became,a hero	true,,	True	EN
+George Orwell,was one of,the writers	true,,	True	EN
+Arrows,measures,Current	true,,	True	EN
+Gray,invented,the telephone	true,,	True	EN
+The vaccine,was made by,Pasteur	true,,	True	EN
+Falcons,are birds with,Wings	true,,	True	EN
+The Bridge,is made of,Steel	true,,	True	EN
+Wine,however is made in,Italy	true,,	True	EN
+Meat,is produced from,Sheep	true,,	True	EN
+Resection,treats,Wounds	true,,	True	EN
+Salicylates,are used to relieve,Pain	true,,	True	EN
+Voltaire,was soon at,War	true,,	False	EN
+Austria,left and joined,the eu	true,,	False	EN
+Russia,signed a pact with,Germany	true,,	False	EN
+Reconstructive surgery,is conducted by,a surgeon	true,,	False	EN
+The energy,is measured in terms of,Calories	true,,	True	EN
+The slope,is determined by,the condition	true,,	True	EN
+The whig party,opposed,Slavery	true,,	True	EN
+Babylon,was captured by,the monarch	true,,	True	EN
+The aneroid barometer,is a box of,Metal	true,,	False	EN
+The tree,is processed into,Sugar	true,,	True	EN
+The lungs,secretes,hormones	true,,	True	EN
+The stain,is washed off with,tap water	true,,	False	EN
+Elephants,are found in,Africa	true,,	True	EN
+Greece,assembled at,the olympic games	true,,	True	EN
+The planets,can be seen with,a telescope	true,,	True	EN
+Japan,manufactures,Cars	true,,	True	EN
+Brandy,is made in,Germany	true,,	True	EN
+Jimmy Carter,was defeated by,Reagan	true,,	True	EN
+The lizard,is defined as,a reptile	true,,	True	EN
+The armature,is a cylinder of,Steel	true,,	False	EN
+Individual arboviruses,can produce,a illness	true,,	True	EN
+Britain,was ruled by,Landowners	true,,	True	EN
+A koumiss,is prepared by the addition of,Sugar	true,,	False	EN
+Harrisburg,is the capital of,Pennsylvania	true,,	False	EN
+This infection,may be treated with,a resistant penicillin	true,,	True	EN
+The prime minister,appoints,Cabinet Members	true,,	True	EN
+A fahrenheit thermometer,measures,Temperature	true,,	True	EN
+The hemoglobin,fixed,stains	true,,	True	EN
+Wolfe,died on the field of,Battle	true,,	False	EN
+The cattle,are small with,Horns	true,,	False	EN
+The hippopotamus,is confined to,Africa	true,,	False	EN
+The sheep,is native to,Africa	true,,	True	EN
+Ohio,elected,a governor	true,,	True	EN
+The first humans,evolved in,Africa	true,,	False	EN
+The black grackle,soared with,Wings	true,,	False	EN
+Florida,had been admitted into,The Union	true,,	True	EN
+Urdu,would be the language of,Pakistan	true,,	False	EN
+Spears,are generally made of,Wood	true,,	True	EN
+The stags,only have,Horns	true,,	False	EN
+Chocolate,must contain,Liquor	true,,	True	EN
+Africa,suffers from,Droughts	true,,	True	EN
+Cetaceans,is defined as,a mammal	true,,	True	EN
+Pain,can be managed with,acetaminophen	true,,	True	EN
+Henry,was the inventor of,the telegraph	true,,	True	EN
+Jakarta,is in,Asia	true,,	True	EN
+Bananas,is native to,America	true,,	False	EN
+A battle,had been fought between,the mexicans	true,,	True	EN
+Internet Explorer,was developed by,Microsoft	true,,	True	EN
+Indiana,had just entered,The Union	true,,	False	EN
+The spaniards,first came to,America	true,,	True	EN
+Egypt,became,a monarchy	true,,	False	EN
+The titmice,is covered in,Feathers	true,,	True	EN
+The scoundrel,became,a saint	true,,	False	EN
+Pain,must be relieved by,Opium	true,,	False	EN
+Pakistan,speaks,Urdu	true,,	True	EN
+The bidder,was given,an award	true,,	True	EN
+Harry Truman,was president after,Roosevelt	true,,	True	EN
+The adrenal cortex,produces classes of,hormones	true,,	True	EN
+Beetroot,is processed into,Sugar	true,,	True	EN
+Henry Viii,was the king of,England	true,,	True	EN
+Infections,respond to treatment with,the sulfonamides	true,,	True	EN
+The desert,yields,a herbage	true,,	True	EN
+Arizona,was taken from,Mexico	true,,	True	EN
+The length,is given as,cubits	true,,	True	EN
+Zoology,researches,Animals	true,,	True	EN
+Appropriate antibiotics,cures,infections	true,,	False	EN
+Ciprofloxacin,cures,infections	true,,	True	EN
+Smyrna,was to be administered by,Greece	true,,	False	EN
+Stones,measures,Mass	true,,	True	EN
+Aspirin,helps reduce,Pain	true,,	True	EN
+Hera,is the consort of,Zeus	true,,	True	EN
+Austria,is an ally of,Russia	true,,	False	EN
+The pericardium,is infected by,Pneumonia	true,,	True	EN
+All spiders,has,Venom	true,,	True	EN
+Medication,relieves,Pain	true,,	True	EN
+Tsetse flies,are found in the part of,Africa	true,,	True	EN
+Chocolate,is traditionally from,Spain	true,,	True	EN
+Wittgenstein,has described,the mathematics	true,,	True	EN
+Some hero,is named as,the ancestor	true,,	True	EN
+The length,is to be determined in,centimetres	true,,	True	EN
+Paleontology,is the study of,Animals	true,,	True	EN
+A simple balance,measures,Temperature	true,,	True	EN
+A single gland,secretes,hormones	true,,	False	EN
+Vegetables,contains,Vitamins	true,,	True	EN
+Florida,was acquired by,The United States	true,,	False	EN
+Machinery,could not be made without,Steel	true,,	False	EN
+Plato,tutored,Alexander	true,,	True	EN
+Valerian,is native to,Europe	true,,	True	EN
+The annuals,originated in,Mexico	true,,	True	EN
+The salicylates,diminish,Pain	true,,	True	EN
+Microsoft,releases,Internet Explorer	true,,	True	EN
+Pain,can be managed with,nsaids	true,,	True	EN
+The british turing,invented,the computer	true,,	False	EN
+America,contains a number of,Mammals	true,,	True	EN
+J,measures,Resistance	true,,	False	EN
+Albania,was part of,the warsaw pact	true,,	True	EN
+Anodynes,relieves,Pain	true,,	True	EN
+Madison,wrote,the federalist papers	true,,	True	EN
+Hachiman,is the god of,War	true,,	True	EN
+The kangaroo,is found in,Australia	true,,	True	EN
+Lyndon Johnson,came from,Texas	true,,	True	EN
+Cleveland,made a fortune from,Oil	true,,	False	EN
+Lamb,is the meat of,Sheep	true,,	False	EN
+Some carnivores,has,Fur	true,,	True	EN
+The instrument,measures,Current	true,,	False	EN
+Spain,entered,the european union	true,,	True	EN
+The potato,includes,Sugar	true,,	True	EN
+Bordeaux wines,are and contain,Sugar	true,,	True	EN
+Hannibal,was defeated at the battle of,Zama	true,,	True	EN
+The monarch,conquered,Babylon	true,,	True	EN
+Butter,includes,Salt	true,,	True	EN
+The liberalists,fought in,The Civil War	true,,	True	EN
+Coffees,are prepared in,America	true,,	True	EN
+The barren caribou,is found in the regions of,America	true,,	True	EN
+Bologna,lies at the foot of,these mountains	true,,	False	EN
+Buchanan,traveled to,London	true,,	True	EN
+Rays,is blocked by,the ozone	true,,	True	EN
+The applicant,is a veteran of,The War	true,,	False	EN
+Pain,may be decreased by,iv lidocaine	true,,	True	EN
+The advisers,became the rulers of,Egypt	true,,	True	EN
+Opium,may be given to relieve,Pain	true,,	True	EN
+The veil,is worn by,muslim women	true,,	True	EN
+The gulls,flew on,Wings	true,,	False	EN
+Every sluggish sailor,is converted into,a hero	true,,	True	EN
+Savonarola,became,a saint	true,,	True	EN
+These sheep,are natives of,Africa	true,,	False	EN
+Condensed milk,includes,Sugar	true,,	True	EN
+Apollo,received prayers from,Greeks	true,,	True	EN
+The tree,yields,Sugar	true,,	True	EN
+Acetylsalicylic acid,relieves,Headache	true,,	True	EN
+Analgesics,relieves,Headaches	true,,	True	EN
+The larva,lives off,Plants	true,,	True	EN
+Australia,was ruled by,The British	true,,	True	EN
+Cereals,are rich in,Iron	true,,	True	EN
+Queen Victoria,ruled,Britain	true,,	True	EN
+Brighton,is next to,The Sea	true,,	True	EN
+Pain,is treated with,nsaids	true,,	False	EN
+Chloroform,often induces,Sleep	true,,	True	EN
+President Wilson,came to,Paris	true,,	True	EN
+Many vegetables,are rich in,calcium	true,,	True	EN
+Mark Twain,began as,a wag	true,,	True	EN
+David,conquered,Jerusalem	true,,	True	EN
+Terrorists,bombed in,Madrid	true,,	False	EN
+The corpus luteum,secretes,hormones	true,,	True	EN
+The alan turing,invented,the computer	true,,	False	EN
+Poisonous snakes,secrete,poisons	true,,	True	EN
+Maize,is native to,America	true,,	True	EN
+Headaches,may be treated with,analgesics	true,,	True	EN
+The intestinal mucosa,secretes,hormones	true,,	True	EN
+Stains,may be removed with,Soap	true,,	True	EN
+Paris,became the center of,Europe	true,,	False	EN
+Egypt,was the part of,the monarchy	true,,	True	EN
+Eisenhower,came from,Texas	true,,	True	EN
+Passover,fell on,Thursday	true,,	True	EN
+The bidder,was given,an award	true,,	True	EN
+The antelope,is rare in,Africa	true,,	False	EN
+Vegetables,are all sources of,Iron	true,,	True	EN
+Salk,discovered,the vaccine	true,,	True	EN
+Pittsburgh,is in,Pennsylvania	true,,	True	EN
+The anterior pituitary,secretes a number of,hormones	true,,	False	EN
+Scotch whiskey,is manufactured in,Scotland	true,,	True	EN
+The cake,is broken up into,grains	true,,	True	EN
+Legumes,must depend on,Nitrogen	true,,	False	EN
+Meat,contains,Vitamins	true,,	True	EN
+Desserts,is included in,a cake	true,,	True	EN
+Weight,measures,Mass	true,,	True	EN
+Dental needles,is made of,Steel	true,,	False	EN
+The spaniards,discovered,America	true,,	True	EN
+The camel,belongs to,Africa	true,,	True	EN
+East Germany,was part of,the warsaw pact	true,,	True	EN
+The headache,can be treated with,Aspirin	true,,	True	EN
+Jonas Salk,invented,a vaccine	true,,	True	EN
+Bobolinks,sprang up on,Wings	true,,	False	EN
+These sheep,are natives of,Africa	true,,	True	EN
+Cattle,all come from,America	true,,	False	EN
+The oil palm,is native to,Africa	true,,	True	EN
+Corinth,was the greatest in,Greece	true,,	False	EN
+The european rabbit,was introduced into,Australia	true,,	False	EN
+Agriculturalists,lives in,a monastery	true,,	True	EN
+Ghrelin,promotes,Sleep	true,,	True	EN
+Rodents,are the group of,Mammals	true,,	False	EN
+Eisenhower,traveled to,Paris	true,,	True	EN
+Mol,measures,Energy	true,,	True	EN
+Napoleon,was defeated at,Waterloo	true,,	True	EN
+The footed ferret,is defined as,a mammal	true,,	True	EN
+Truman,visited,Berlin	true,,	True	EN
+Proteins,helps reduce,stress	true,,	True	EN
+Economists,proposed,more tax	true,,	False	EN
+John,to sign,the magna carta	true,,	True	EN
+The chinese communists,controlled,China	true,,	True	EN
+Niger,speaks,French	true,,	True	EN
+A centaur,was destroyed by,Hercules	true,,	True	EN
+Greece,is connected with,Russia	true,,	True	EN
+Nitrofurantoin,is used for the treatment of,infections	true,,	True	EN
+Caesar,had been created,Dictator	true,,	True	EN
+Tularemia,is the cause of,fever	true,,	True	EN
+The reptiles,found are,Dinosaurs	true,,	False	EN
+The animal,judged from,memory	true,,	True	EN
+Salicylates,are used to treat,Headache	true,,	True	EN
+Sugar,is extracted from,Sugar Cane	true,,	True	EN
+All animals,are infested by,parasitic worms	true,,	False	EN
+Alexander Hamilton,wrote,the federalist papers	true,,	True	EN
+Tyre,was surrounded by,Sea	true,,	False	EN
+Medusa,was slain by,Perseus	true,,	True	EN
+Award,may be divided between,Candidates	true,,	False	EN
+Aspirin,may be used to reduce,Pain	true,,	True	EN
+A modern mammal,is a sort of,Reptile	true,,	True	EN
+The united republic,was used in,Egypt	true,,	True	EN
+Pain,must be relieved by,anodynes	true,,	False	EN
+Mongols,conquer,China	true,,	False	EN
+Cook,discovered,Australia	true,,	True	EN
+Cromwell,ruled as,Dictator	true,,	True	EN
+Eisenhower,traveled to,London	true,,	False	EN
+Flowers,can survive in,the desert	true,,	True	EN
+The best strainer,is composed of pieces of,Metal	true,,	False	EN
+Erythromycin,is the drug for,infections	true,,	True	EN
+The donkey,is native to,Africa	true,,	False	EN
+The eaglet,had eaten,the fish	true,,	False	EN
+Wellington,was defeated at,Waterloo	true,,	True	EN
+Mexican clover,is native to,Mexico	true,,	True	EN
+This father,was the ruler of,Korea	true,,	True	EN
+A scale,measures,Earthquakes	true,,	True	EN
+Carrots,can be added to,a salad	true,,	True	EN
+The armadillo,lives in,America	true,,	True	EN
+Fever,can be treated with,Aspirin	true,,	True	EN
+The salt,is contained in,mineral waters	true,,	True	EN
+The pterodactyls,were a group of,Reptiles	true,,	False	EN
+Amsterdam,became the port of,Europe	true,,	False	EN
+Turkeys,are native to,America	true,,	False	EN
+Captain Cook,found,Australia	true,,	True	EN
+These keepers,ruled,Assyria	true,,	True	EN
+Geology,is the study of,the earth	true,,	False	EN
+Aspirin,relieves,Headaches	true,,	True	EN
+The monasteries,were the homes of,agriculturalists	true,,	True	EN
+Wright,is the son of,Abraham	true,,	True	EN
+Cleopatra,was the queen of,Egypt	true,,	False	EN
+Cheese,is high in,calcium	true,,	False	EN
+Italy,produces,Wine	true,,	True	EN
+Servants,were cooking,Meat	true,,	False	EN
+Bakers,begin producing,Bread	true,,	False	EN
+The lion,kills,an antelope	true,,	True	EN
+France,had colonies in,The Pacific	true,,	False	EN
+Lincoln,was killed by,an assassin	true,,	True	EN
+Aspirin,would relieve,the headaches	true,,	True	EN
+Jerusalem,became the capital of,Israel	true,,	True	EN
+The length,is not less than,a quarter	true,,	False	EN
+Camels,originated in,America	true,,	True	EN
+Kentucky,had been admitted into,the confederacy	true,,	True	EN
+The thrips,are insects with,Wings	true,,	False	EN
+Wild fowl,feeds on,fish	true,,	False	EN
+The nobel prize,went to,Hahn	true,,	True	EN
+Aspirin,can help relieve,Pain	true,,	True	EN
+The larvae,occur in a variety of,Mammals	true,,	True	EN
+Roosevelt,stopped in,London	true,,	True	EN
+The rajah,has proved himself,a hero	true,,	True	EN
+Arabic,is spoken by,Egyptians	true,,	True	EN
+Tea,is traditionally from,China	true,,	False	EN
+The tract,is infected by,Pneumonia	true,,	True	EN
+Estriol,is produced during,Pregnancy	true,,	True	EN
+Cereals,is rich with,Iron	true,,	False	EN
+Silicide,makes up,Steel	true,,	False	EN
+Medications,can be used for,Pain	true,,	True	EN
+The communicants,appoints,Ministers	true,,	True	EN
+The clawed prawns,lives in,America	true,,	True	EN
+Wounds,may require,resection	true,,	True	EN
+Pneumonia,is an infection of,the parenchyma	true,,	True	EN
+The support,measures,Temperature	true,,	True	EN
+Pharyngitis,causes,fever	true,,	True	EN
+A predator,lives off,Animals	true,,	True	EN
+Sea birds,flew on,Wings	true,,	False	EN
+Philadelphia,is the city of,Pennsylvania	true,,	True	EN
+The nile,flows through,Africa	true,,	True	EN
+The grizzly bear,is native to,America	true,,	True	EN
+This planet,can be distinguished by,the naked eye	true,,	True	EN
+Caramel,is made by heating,Sugar	true,,	False	EN
+Hungary,produces,Wine	true,,	True	EN
+Armadillos,have been found in,Texas	true,,	True	EN
+The english parties,fought in,a battle	true,,	True	EN
+Pointer,reads for,a current	true,,	True	EN
+Egyptians,speak,Arabic	true,,	True	EN
+Leafy vegetables,is rich with,calcium	true,,	True	EN
+Publican,is the son of,Abraham	true,,	True	EN
+Victoria,is next to,The Sea	true,,	True	EN
+Bulgaria,was part of,the warsaw pact	true,,	True	EN
+The pituitary gland,secretes,hormones	true,,	True	EN
+The Civil War,was fought by,native americans	true,,	True	EN
+Maryland,stayed in,The Union	true,,	False	EN
+Samuel Morse,was the inventor of,the telegraph	true,,	True	EN
+Headache,may be relieved by,Aspirin	true,,	True	EN
+The present sovereign,is the emperor of,China	true,,	False	EN
+Skewers,is made of,Wood	true,,	True	EN
+Acyclovir,cures,infections	true,,	False	EN
+The nobel prize,was awarded to,Banting	true,,	True	EN
+Microsoft,made,the operating system	true,,	True	EN
+Peptides,helps reduce,stress	true,,	True	EN
+Maize,is ground into,Flour	true,,	False	EN
+Cereals,are enriched with,Iron	true,,	True	EN
+The chimpanzee,is an inhabitant of,Africa	true,,	True	EN
+Pointer,measures,Current	true,,	True	EN
+Jonas Salk,discovered,a vaccine	true,,	True	EN
+A thermocouple,measures,Temperature	true,,	True	EN
+Kuhn,is a historian of,Science	true,,	False	EN
+Vancomycin,is the treatment for,infections	true,,	True	EN
+Such snakes,obtain,Wings	true,,	False	EN
+The temperature,appears on,the digital display	true,,	True	EN
+English,is the language of,Nigeria	true,,	False	EN
+Lisbon,became the center of,Europe	true,,	False	EN
+This rival,became,a hero	true,,	True	EN
+Quinine,cures,Malaria	true,,	True	EN
+Ibsen,became,a hero	true,,	True	EN
+The dragon,has,Claws	true,,	True	EN
+Balsam,comes from,America	true,,	True	EN
+The vacant lands,had been acquired by,The United States	true,,	True	EN
+Cotton,is abundant in,Africa	true,,	False	EN
+This tree,originated in,Mexico	true,,	True	EN
+This solitary tree,can survive in,the desert	true,,	True	EN
+Mitchell,founded the institute of,Sciences	true,,	False	EN
+Salicylates,may be given for,Pain	true,,	True	EN
+A probe,measures,Temperature	true,,	True	EN
+Penicillin,had been discovered by,Alexander Fleming	true,,	True	EN
+The oil palm,originated in,Africa	true,,	True	EN
+Mass units,measures,Mass	true,,	True	EN
+Inflammation,can be treated with,nsaids	true,,	True	EN
+The lower river,is enclosed by,Canada	true,,	False	EN
+Inertia,was discovered by,Galileo	true,,	True	EN
+Mucus,is provided by,proper glands	true,,	True	EN
+Elephants,were found in,Africa	true,,	True	EN
+Aspirin,relieves,Headache	true,,	True	EN
+The adrenal cortex,secretes,hormones	true,,	True	EN
+France,was allied with,Russia	true,,	True	EN
+The stain,is washed off with,distilled water	true,,	False	EN
+Whittier,survived,The Civil War	true,,	False	EN
+Truman,arrived in,Berlin	true,,	True	EN
+Poseidon,was the ruler of,The Sea	true,,	True	EN
+The dutch,is spoken in,India	true,,	True	EN
+The award,going to,the bidder	true,,	True	EN
+John Adams,arrived at,Paris	true,,	False	EN
+The pituitary gland,secretes,hormones	true,,	True	EN
+The current,can be measured with,a galvanometer	true,,	True	EN
+Those lambs,has,Horns	true,,	True	EN
+Corn,is traditionally from,Spain	true,,	False	EN
+Treacle,includes,Sugar	true,,	True	EN
+Philadelphia,is in,Pennsylvania	true,,	True	EN
+Caesar,declared,Dictator	true,,	True	EN
+Marsupials,is native to,America	true,,	True	EN
+Diffused carbide,makes up,Steel	true,,	False	EN
+A War,is undertaken by,several potentates	true,,	False	EN
+The earthquake,has shaken,Japan	true,,	False	EN
+Physiology,concerns itself with,The Life	true,,	True	EN
+Most birds,originating in,Australia	true,,	False	EN
+Local anesthetics,block,Pain	true,,	True	EN
+Africa,experienced,a drought	true,,	True	EN
+Claws,are present in,all mammals	true,,	True	EN
+Alexander,was a pupil of,Plato	true,,	True	EN
+Solomon,conquered,Jerusalem	true,,	False	EN
+London,is in,Europe	true,,	True	EN
+A thermistor,measures,Temperature	true,,	True	EN
+The ocelot,lives in,America	true,,	True	EN
+Untreated pharyngitis,causes,fever	true,,	True	EN
+Birch,concentrated,the vitamin	true,,	False	EN
+Australia,is the home of,the kangaroo	true,,	True	EN
+The first antelopes,has,Horns	true,,	True	EN
+Stains,can be removed by,oxalic acid	true,,	True	EN
+Dallas,is in,Texas	true,,	True	EN
+The length,is millionths of,a millimeter	true,,	False	EN
+Marshal tito,became,a dictator	true,,	True	EN
+A local anesthetic,eliminates,Pain	true,,	False	EN
+Urdu,shall be the language of,Pakistan	true,,	False	EN
+This method,was used by,Newton	true,,	False	EN
+Hannibal,was defeated at,Zama	true,,	True	EN
+The herbs,are high in,calcium	true,,	False	EN
+France,is an ally of,Russia	true,,	True	EN
+Parsley,is rich in,Iron	true,,	True	EN
+The dauphin,succeeded to the crown of,France	true,,	True	EN
+A little currant,is served with,Rice	true,,	False	EN
+Female sovereigns,controlled,China	true,,	True	EN
+Aspirin,lowers,fever	true,,	True	EN
+The whig party,was opposed to,Slavery	true,,	True	EN
+The strainer,is composed of pieces of,Metal	true,,	True	EN
+Napoleon,proved to be,the saint	true,,	False	EN
+Soccer,is played in,America	true,,	True	EN
+Sea,approaches to,Petrograd	true,,	True	EN
+Comstock,is employed by,the government	true,,	True	EN
+Monkeys,form throughout,America	true,,	False	EN
+Cobras,spit,Venom	true,,	False	EN
+Homo erectus,migrated from,Africa	true,,	False	EN
+Bathsheba,was the mother of,Solomon	true,,	True	EN
+Yellow vegetables,provide,vitamin a	true,,	True	EN
+July,produces,the most rain	true,,	False	EN
+Fleming,discovered,Penicillin	true,,	True	EN
+Pain,can be treated with,nsaids	true,,	False	EN
+Pain,can be treated with,nsaids	true,,	True	EN
+Angstrom unit,measures,length	true,,	True	EN
+Salicylate,also relieves,the pain	true,,	True	EN
+The hawks,represents,England	true,,	False	EN
+India,launched,a satellite	true,,	True	EN
+Earthquakes,were registered on,the seismographs	true,,	False	EN
+The zebra,lives in,Africa	true,,	True	EN
+An python,had caught,an antelope	true,,	False	EN
+That memory,was common to,all animals	true,,	False	EN
+Calories,measures,Energy	true,,	True	EN
+Bismarck,occupied a position in,Europe	true,,	True	EN
+Differentiation,gives,the slope	true,,	True	EN
+Reagan,awarded the medal of,Science	true,,	False	EN
+April,has a lot of,Rain	true,,	True	EN
+Chloroquine,is used for the treatment of,Malaria	true,,	True	EN
+Fruit juices,are high in,Sugar	true,,	False	EN
+Vegetables,contains,Vitamins	true,,	True	EN
+The stirrups,are blocks of,Wood	true,,	False	EN
+The Children,plays in,a band	true,,	True	EN
+All spiders,possess,the venom	true,,	True	EN
+Aspirin,may be given for,fever	true,,	True	EN
+A diskette,is made of,Plastic	true,,	True	EN
+Lidocaine,relieves,Pain	true,,	True	EN
+The vitamin,occurs in,vegetables	true,,	False	EN
+The druids,constructed,Stonehenge	true,,	True	EN
+This award,is presented to,a author	true,,	True	EN
+Microorganisms,requires,Oxygen	true,,	True	EN
+De broglie,was awarded,a nobel prize	true,,	True	EN
+The kangaroo,lives in,Australia	true,,	True	EN
+France,lent,francs	true,,	False	EN
+Stirrups,is made of,Wood	true,,	False	EN
+The temperature,can be registered on,a mercury thermometer	true,,	True	EN
+Arthur,was taken to,Paris	true,,	True	EN
+Breads,is rich with,Iron	true,,	True	EN
+Sugar,has been added to,the broth	true,,	False	EN
+The pain,may be controlled by,Aspirin	true,,	True	EN
+The meperidine,relieves,Pain	true,,	True	EN
+Sweden,is a member of,the eu	true,,	True	EN
+The stain,fades in,balsam	true,,	True	EN
+The advisers,ruled,Egypt	true,,	True	EN
+The ferret,is one of,the mammals	true,,	True	EN
+The lemur,grows and has,Fur	true,,	True	EN
+Columbus,sailed and discovered,America	true,,	False	EN
+Bordeaux wines,includes,Sugar	true,,	True	EN
+Tantalus,was a son of,Zeus	true,,	True	EN
+Queen Victoria,came to the throne of,England	true,,	True	EN
+This algorithm,is carried out by,a computer	true,,	True	EN
+The flying bird,has,Wings	true,,	True	EN
+California,was part of,The Union	true,,	True	EN
+Vargas,governed as,a dictator	true,,	True	EN
+Astronomy,was studied by,Newton	true,,	False	EN
+Erythromycin,is indicated in the treatment of,infections	true,,	True	EN
+Hermes,received prayers from,Greeks	true,,	True	EN
+Acetaminophen,relieves,Pain	true,,	True	EN
+A modern mammal,is defined as,a reptile	true,,	True	EN
+Acyclovir,cures,infections	true,,	True	EN
+Wilson,arrived in,Paris	true,,	True	EN
+Portugal,can produce,Wine	true,,	True	EN
+Headache,can be controlled with,Aspirin	true,,	True	EN
+Earthquakes,are frequent in,Japan	true,,	False	EN
+Arabic,is the language of,all egyptians	true,,	False	EN
+This tree,is native to,Mexico	true,,	True	EN
+The energy,is calculated to be,Mol	true,,	True	EN
+Gorgeous attire,is worn by,the pope	true,,	True	EN
+Cairo,is home to,the pyramids	true,,	False	EN
+Frogs,has,Horns	true,,	True	EN
+Polish mathematicians,deciphered,the enigma	true,,	True	EN
+Williams,has been the recipient of,Awards	true,,	True	EN
+Windows,was developed by,Microsoft	true,,	True	EN
+President Wilson,returned to,Paris	true,,	False	EN
+Many cereals,are fortified with,Vitamins	true,,	False	EN
+The pigeon,hung with,Wings	true,,	False	EN
+Vertebrates,is covered in,Scales	true,,	False	EN
+Reptiles,has,Wings	true,,	True	EN
+The kangaroo,are found in,Australia	true,,	True	EN
+Reagan,beat,Jimmy Carter	true,,	True	EN
+The prime minister,selects,the cabinet members	true,,	True	EN
+Strep throat,causes,fever	true,,	True	EN
+California,was taken from,Mexico	true,,	False	EN
+Chicken,stuffed with,Rice	true,,	False	EN
+General lincoln,became prisoners of,War	true,,	False	EN
+Genoa,extended into,The Sea	true,,	False	EN
+Scotch whiskey,comes from,Scotland	true,,	True	EN
+California,was part of,The Union	true,,	True	EN
+First reptiles,appear in,America	true,,	True	EN
+Macarthur,became,a hero	true,,	True	EN
+Napoleon,was defeated at,Waterloo	true,,	True	EN
+Australia,is inhabited by,Kangaroos	true,,	True	EN
+Silicon,can form,Chains	true,,	True	EN
+Lengths,are given in terms of,the vara	true,,	False	EN
+America,is rich in,Birds	true,,	False	EN
+Antwerp,became the port of,Europe	true,,	False	EN
+Nitrofurantoin,cures,infections	true,,	True	EN
+The gums,is processed into,Sugar	true,,	False	EN
+The new proconsul,withdrew from,Africa	true,,	False	EN
+North Carolina,was part of,the confederacy	true,,	True	EN
+This algorithm,is run on,a computer	true,,	True	EN
+Griseofulvin,cures,infections	true,,	True	EN
+The mexicans,fought in,a battle	true,,	True	EN
+All bridges,shall be constructed of,Steel	true,,	True	EN
+Beet greens,are high in,calcium	true,,	True	EN
+Frogs,actually have,Horns	true,,	True	EN
+The camwood,originated in,Africa	true,,	True	EN
+Texas,seceded and joined,the confederacy	true,,	False	EN
+Ozone,protects from,Rays	true,,	True	EN
+The pain,can be relieved by,Aspirin	true,,	True	EN
+Aspirin,relieves,Pain	true,,	True	EN
+The electrodes,are usually made of,Platinum	true,,	False	EN
+The erica arborea,can survive in,the snow	true,,	True	EN
+The footed ferret,is one of,the mammals	true,,	True	EN
+Dry cereals,is rich with,Iron	true,,	True	EN
+Hormone,is released from,the anterior pituitary	true,,	True	EN
+The narcotic meperidine,is used to help,Pain	true,,	True	EN
+The mass,exists in,a mathematical point	true,,	True	EN
+California,supplies,Wheat	true,,	True	EN
+Corn,came from,Sicily	true,,	False	EN
+The application,relieves,Headaches	true,,	True	EN
+Aspirin,is to relieve,the headache	true,,	True	EN
+Jerusalem,had fallen into the hands of,Saladin	true,,	True	EN
+Madrid,is the capital in,Europe	true,,	False	EN
+Asia,was ruled by,Rome	true,,	False	EN
+Progesterone,indicates,Pregnancy	true,,	True	EN
+Greece,invaded,Russia	true,,	False	EN
+The osprey,preys upon,fish	true,,	True	EN
+Earthquakes,are common in,Japan	true,,	False	EN
+Korea,was ruled by,Scholars	true,,	True	EN
+Irishmen,lives in,a monastery	true,,	False	EN
+The mountains,are on the side of,Philadelphia	true,,	False	EN
+Marsupials,originated in,America	true,,	True	EN
+Saladin,reconquered,Jerusalem	true,,	False	EN
+The peasant,became,a hero	true,,	True	EN
+The kites,hunts,Squirrels	true,,	True	EN
+Cromwell,found himself at,War	true,,	True	EN
+China,is an example of,Monarchy	true,,	True	EN
+Baboons,are in this part of,Africa	true,,	False	EN
+Geneva,is the headquarters of,The United Nations	true,,	False	EN
+Penicillin,had been discovered by,Fleming	true,,	True	EN
+Lidocaine,provides relief of,Pain	true,,	True	EN
+The Food,was cooked by,Cooks	true,,	False	EN
+Grippe,is characterized by a onset of,fever	true,,	False	EN
+Doxycycline,is recommended for patients with,infections	true,,	False	EN
+El Paso,are in the middle of,The Texas	true,,	False	EN
+Stockholm,lay on the side of,The Sea	true,,	True	EN
+A tremor,may be seen in,disseminated sclerosis	true,,	True	EN
+The edentates,are inhabitants of,America	true,,	True	EN
+Aid,is being provided by,The United Nations	true,,	True	EN
+Marsupials,lives in,Australia	true,,	True	EN
+Griseofulvin,cures,infections	true,,	False	EN
+Jones,volunteered in,The Civil War	true,,	False	EN
+The antelopes,appeared with,Horns	true,,	True	EN
+Tenno,was the emperor of,Japan	true,,	False	EN
+Finland,is a member of,the eu	true,,	True	EN
+Crick,was awarded,a nobel prize	true,,	True	EN
+The stains,may be removed with,oxalic acid	true,,	True	EN
+A thermocouple,measures,Temperature	true,,	True	EN
+The canine,is the tooth in,the mouth	true,,	False	EN
+Entomology,researches,Insects	true,,	True	EN
+Russia,is rich in,Minerals	true,,	True	EN
+Williams,was given,an award	true,,	True	EN
+The gonads,also secrete,hormones	true,,	True	EN
+Saladin,had retaken,Jerusalem	true,,	False	EN
+English,became the language of,India	true,,	False	EN
+Australia,is inhabited by,Kangaroos	true,,	True	EN
+The anterior pituitary,secretes,hormones	true,,	True	EN
+The ash,is rich with,Iron	true,,	False	EN
+Opium,is required to relieve,the pain	true,,	False	EN
+Chlorpromazine,can be used for,Pain	true,,	True	EN
+Reptiles,were endowed with,Wings	true,,	True	EN
+Poe,created,the detective story	true,,	True	EN
+This temperature,is marked on,the support	true,,	True	EN
+A predator,is and eats,Animals	true,,	True	EN
+Hitler,ruled,Britain	true,,	True	EN
+Texas,was taken from,Mexico	true,,	False	EN
+Spiders,produce,Venom	true,,	False	EN
+Brant,returned to,America	true,,	False	EN
+Anodynes,should be prescribed for,Pain	true,,	True	EN
+Chains,is made of,Silicon	true,,	True	EN
+Hugh Capet,was the king of,France	true,,	True	EN
+A recorder,measures,Temperature	true,,	True	EN
+The kites,fed upon,Squirrels	true,,	True	EN
+Proper glands,secretes,mucus	true,,	True	EN
+President Wilson,were dragged into,The War	true,,	False	EN
+Microsoft,launched,Windows	true,,	True	EN
+The druids,had built,Stonehenge	true,,	True	EN
+Internet Explorer,was developed by,Microsoft	true,,	False	EN
+Forces,will remain in,Japan	true,,	False	EN
+Tiflis,is really in,Asia	true,,	True	EN
+The wound,cauterized with,the thermocautery	true,,	False	EN
+The application,relieves,Pain	true,,	True	EN
+The Democratic Party,opposed,Slavery	true,,	True	EN
+The electrode,is a piece of,Platinum	true,,	False	EN
+China,governed by,female sovereigns	true,,	True	EN
+Microsoft,launched,Internet Explorer	true,,	True	EN
+India,has launched,Satellites	true,,	True	EN
+Sovereigns,controlled,China	true,,	True	EN
+Many saints,received prayers from,Greeks	true,,	False	EN
+Codeine,is effective against,Pain	true,,	True	EN
+Cereals,is rich with,Iron	true,,	True	EN
+Spinach,is high in,Vitamins	true,,	False	EN
+The potato,is native to,America	true,,	True	EN
+A thermocouple,measures,Temperature	true,,	True	EN
+Macarthur,returned as,a hero	true,,	False	EN
+Anthelmintic,indicated for the treatment of,infections	true,,	True	EN
+Nasser,became president of,Egypt	true,,	False	EN
+Bolivar,was actually,the dictator	true,,	False	EN
+Pakistan,speaks,Urdu	true,,	True	EN
+Watson,was awarded,a nobel prize	true,,	True	EN
+Deng Xiaoping,controlled,China	true,,	True	EN
+General chamomile,is native to,Europe	true,,	True	EN
+The olympic village,was attacked by,Terrorists	true,,	True	EN
+Ties,is popular in,Japan	true,,	True	EN
+The falconer,prepares,Meat	true,,	True	EN
+The veil,worn by,muslim women	true,,	True	EN
+Good friday,is the start of,Passover	true,,	True	EN
+The flying bird,shows,Wings	true,,	True	EN
+Soft wheat,is processed into,Flour	true,,	True	EN
+The imperial dragon,has,Claws	true,,	True	EN
+Athens,became the capital of,Greece	true,,	False	EN
+Ragnar frisch,was awarded,a nobel prize	true,,	True	EN
+Dried fruits,is rich with,Iron	true,,	False	EN
+Scotch whiskey,is produced in,Scotland	true,,	True	EN
+The anniversary,was celebrated in,China	true,,	True	EN
+Troy,is in,Asia	true,,	True	EN
+Bathsheba,was the mother of,Solomon	true,,	True	EN
+Pertussis,causes,fever	true,,	False	EN
+Beauteous brighton,overlooks,The Sea	true,,	True	EN
+Vargas,became,a dictator	true,,	True	EN
+This planet,can be seen with,a naked eye	true,,	True	EN
+The mongols,to ravage,Syria	true,,	False	EN
+Islam,was founded by,the muhammad	true,,	True	EN
+A fahrenheit thermometer,shows degrees of,Temperature	true,,	True	EN
+Muhammad,is the founder of,Islam	true,,	True	EN
+Telescopes,have discovered,fixed stars	true,,	False	EN
+Microsoft,has added,a interface	true,,	True	EN
+This form,is common in,Japan	true,,	False	EN
+Splendid butterflies,flew with,Wings	true,,	False	EN
+A diskette,consists of a piece of,Plastic	true,,	False	EN
+Human gonadotropin,confirms,Pregnancy	true,,	True	EN
+The United States,was a friend to,Poland	true,,	True	EN
+The footed ferret,is native to,America	true,,	False	EN
+The common soldiers,were sent into,Battle	true,,	True	EN
+Morphine,is effective against,Pain	true,,	True	EN
+The volga,is the river in,Russia	true,,	True	EN
+Marsupials,is native to,Australia	true,,	False	EN
+The argives,are destroyed in,Battle	true,,	False	EN
+Aspirin,relieves,Pain	true,,	True	EN
+Headache,can be controlled with,Aspirin	true,,	True	EN
+Caterpillars,lives off,Plants	true,,	False	EN
+Mombasa,provides access to,The Sea	true,,	True	EN
+An indian prince,is the founder of,Buddhism	true,,	True	EN
+Babylon,became the capital of,Asia	true,,	False	EN
+Human beings,is native to,Africa	true,,	True	EN
+Aerobic bacteria,requires,Oxygen	true,,	True	EN
+A denture,is made of,Metal	true,,	True	EN
+Pain,can be treated with,nsaids	true,,	True	EN
+France,made an alliance with,Russia	true,,	True	EN
+Fresh vegetables,have,more vitamins	true,,	False	EN
+Saturn,is larger than,the earth	true,,	True	EN
+Marsupials,are found in,Australia	true,,	True	EN
+Fleming,accidentally discovered,Penicillin	true,,	False	EN
+Cauterization,treats,Wounds	true,,	True	EN
+The liqueur,has been made in,Scotland	true,,	True	EN
+Penguins,are covered with,Feathers	true,,	True	EN
+The temperature,is sensed by,a thermistor	true,,	True	EN
+This vitamin,is found in,citrus fruits	true,,	False	EN
+Flours,are milled from,soft wheats	true,,	True	EN
+The pain,can be relieved by,Aspirin	true,,	True	EN
+Romans,betook themselves to,the apollo	true,,	True	EN
+Trusses,is made of,Wood	true,,	True	EN
+The pain,can be relieved by,Aspirin	true,,	True	EN
+The anterior gland,secretes,hormones	true,,	True	EN
+Viscous lidocaine,provides relief of,Pain	true,,	True	EN
+Latch,is made of,Wood	true,,	True	EN
+The greeks,worshipped under the name of,Hermes	true,,	True	EN
+Cheeses,are rich in,calcium	true,,	False	EN
+Molybdenum,is the most abundant on,Earth	true,,	False	EN
+English,is the language in,Nigeria	true,,	False	EN
+Comte,taught,Mathematics	true,,	False	EN
+Chaplin,won,an oscar	true,,	True	EN
+The portuguese,first arrived in,India	true,,	False	EN
+Sugar Cane,is processed into,Sugar	true,,	True	EN
+Finland,acceded to,the european union	true,,	True	EN
+Energy,is usually measured in,joules	true,,	False	EN
+The central incisor,is the tooth in,the mouth	true,,	False	EN
+Perseus,had slain,the gorgon	true,,	True	EN
+Electricity,was discovered by,galvani	true,,	True	EN
+Pasteur,was elected a member of,the sciences	true,,	False	EN
+The joule,measures,Energy	true,,	True	EN
+A colostomy,is conducted by,a surgeon	true,,	True	EN
+The bidder,was given,an award	true,,	True	EN
+The resistance,is and is expressed in,megohms	true,,	True	EN
+Burma,was added to,the british empire	true,,	False	EN
+Fever,can be treated with,Aspirin	true,,	True	EN
+Individualist,is often,the hero	true,,	False	EN
+Ciprofloxacin,cures,infections	true,,	False	EN
+Oxygen,is consumed by,microorganisms	true,,	True	EN
+Greece,was established as,an kingdom	true,,	False	EN
+Luther,took refuge in,the monastery	true,,	False	EN
+The caribou,is native to,America	true,,	False	EN
+Portuguese,is spoken in,Brazil	true,,	True	EN
+Antwerp,became the center in,Europe	true,,	False	EN
+Spinach,is rich in,Vitamins	true,,	False	EN
+The chief man,fought in,A War	true,,	True	EN
+Vegetables,contain amounts of,calcium	true,,	True	EN
+Japan,had captured,Burma	true,,	False	EN
+Sumo,is the sport of,Japan	true,,	False	EN
+Broccoli,is high in,Vitamins	true,,	False	EN
+Cent,came from,Canada	true,,	False	EN
+The pointer,measures,Temperature	true,,	True	EN
+Sulfonamides,are effective in,Malaria	true,,	True	EN
+The dough,is rolled out into,a cake	true,,	False	EN
+Louisiana,had been admitted into,The Union	true,,	True	EN
+Nsaids,can relieve,Pain	true,,	True	EN
+The pain,yielded to,the remedies	true,,	True	EN
+Some jews,still wear,the birettas	true,,	True	EN
+Some rodents,eat and have,Fur	true,,	False	EN
+Vegetables,contains,calcium	true,,	True	EN
+Diodes,is made of,Silicon	true,,	False	EN
+Cicero,measures,length	true,,	True	EN
+The length,totals,Km	true,,	False	EN
+All green vegetables,contains,Vitamins	true,,	True	EN
+Puppies,are born with,Claws	true,,	False	EN
+Parsley,is rich with,Iron	true,,	True	EN
+Rectal thermometers,measures,Temperature	true,,	True	EN
+Watermelons,are native to,Africa	true,,	True	EN
+Magnesium sulfate,relieves,Headache	true,,	True	EN
+Chlorpromazine,can be used for,Pain	true,,	True	EN
+Marconi,invented,the telegraph	true,,	True	EN
+The wood,is used for making,Sleepers	true,,	True	EN
+The apollo,received prayers from,Romans	true,,	True	EN
+The anterior pituitary,secretes,hormones	true,,	True	EN
+Teas,is traditionally from,China	true,,	False	EN
+Chocolate,came from,America	true,,	True	EN
+The eminent bostonians,succeeded in getting,an award	true,,	True	EN
+Pain,can be treated with,Aspirin	true,,	True	EN
+The incisor,is the tooth in,the mouth	true,,	False	EN
+The venom,injected by,the wasp	true,,	False	EN
+Persian,was the language in,India	true,,	False	EN
+The colorado beetle,lives off,Plants	true,,	True	EN
+Celery,is eaten in,salads	true,,	True	EN
+Infected armadillos,have been found in,Texas	true,,	True	EN
+Tasmania,swarmed with,Kangaroos	true,,	False	EN
+Aspirin,may be taken for,Headache	true,,	True	EN
+The first clocks,is native to,Europe	true,,	False	EN
+The tamils,came from,India	true,,	False	EN
+The communists,had won,The Civil War	true,,	False	EN
+The shims,are often made of,Wood	true,,	False	EN
+Mexican clover,originated in,Mexico	true,,	True	EN
+Burma,was controlled by,the british empire	true,,	True	EN
+Ciprofloxacin,has been used to treat,infections	true,,	True	EN
+Oxalic acid,removes,stains	true,,	True	EN
+The dog,is indigenous in,America	true,,	False	EN
+Lincoln,were killed by,Assassins	true,,	True	EN
+English,is used in,India	true,,	True	EN
+Mineral waters,includes,Salt	true,,	True	EN
+Analgesics,relieves,Headaches	true,,	True	EN
+The surgeon,may perform,a colostomy	true,,	True	EN
+Sheep,are reared for,Mutton	true,,	False	EN
+Bridges,are built of,Steel	true,,	True	EN
+Modern humans,originated in,Africa	true,,	True	EN
+London,was the capital in,Europe	true,,	False	EN
+Young brady,plays in,a band	true,,	True	EN
+The barren caribou,lives in,America	true,,	True	EN
+Eisenhower,traveled to,London	true,,	True	EN
+The sultan,conquered,Jerusalem	true,,	True	EN
+Mammals,has,Horns	true,,	True	EN
+Falcons,has,Wings	true,,	True	EN
+Dress,imposed on,Jews	true,,	False	EN
+Paris,had become the capital of,Europe	true,,	False	EN
+Aerobic bacteria,must have,Oxygen	true,,	True	EN
+Serotonin,helps,Sleep	true,,	True	EN
+Bulgaria,joined,the warsaw pact	true,,	True	EN
+Africa,is the country of,Antelopes	true,,	False	EN
+Opium,relieves,Pain	true,,	True	EN
+Pain,is usually relieved by,nitroglycerin	true,,	True	EN
+Mark Twain,began as,a reporter	true,,	False	EN
+Alaska,was part of,The Union	true,,	True	EN
+Kangaroos,are found in,Australia	true,,	True	EN
+The pancreas,also secretes,hormones	true,,	True	EN
+The baboons,are inhabitants of,Africa	true,,	True	EN
+Italy,is the producer of,Wine	true,,	True	EN
+Carnations,is native to,Europe	true,,	True	EN
+The Queen,has,Horns	true,,	True	EN
+Aspirin,may be given for,Pain	true,,	True	EN
+The temperature,was monitored by,a thermocouple	true,,	True	EN
+A durable denture,is made of,Metal	true,,	False	EN
+Africa,is divided by,a narrow strait	true,,	False	EN
+Napoleon,was defeated at,Waterloo	true,,	True	EN
+Venice,is next to,The Sea	true,,	True	EN
+Thermometers,is made of,Metal	true,,	True	EN
+The band,is led by,the performers	true,,	False	EN
+Cook,discovered,Australia	true,,	False	EN
+Butter,always has,some salt	true,,	False	EN
+James Monroe,traveled to,Paris	true,,	True	EN
+Indonesian,is the language of,Indonesia	true,,	False	EN
+This planet,can be seen with,a naked eye	true,,	True	EN
+Philippi,is in,Europe	true,,	True	EN
+William the conqueror,was the king of,England	true,,	True	EN
+Scurvy,is prevalent among,Sailors	true,,	True	EN
+Captain Cook,discovered,Australia	true,,	True	EN
+Sugar,is found in,Honey	true,,	True	EN
+Hormone,is released by,the hypothalamus	true,,	True	EN
+The vitamin,is found in,vegetables	true,,	True	EN
+France,produces,Wine	true,,	True	EN
+John Brown,sparked,The Civil War	true,,	False	EN
+The valued camwood,comes from,Africa	true,,	True	EN
+Most vegetables,contains,calcium	true,,	True	EN
+Papaya,contains,Vitamins	true,,	True	EN
+Corn,came from,America	true,,	True	EN
+Quinine,cures,Malaria	true,,	True	EN
+The United Nations,came to,the aid	true,,	False	EN
+The application,relieves,Pain	true,,	True	EN
+The typhoid bacillus,can produce,a illness	true,,	True	EN
+The sinhalese,came from,India	true,,	False	EN
+Geophysics,studies,the earth	true,,	True	EN
+Slugs,measures,Mass	true,,	True	EN
+Wright,was born to,Abraham	true,,	True	EN
+Geology,deals with,the earth	true,,	True	EN
+The chief man,told had gone to,War	true,,	True	EN
+Papaya,is an source of,Vitamins	true,,	True	EN
+The danes,constructed,Stonehenge	true,,	True	EN
+Gonadotropin,indicates,Pregnancy	true,,	True	EN
+The mammals,are often called,monotremes	true,,	True	EN
+Elephants,roamed over,Europe	true,,	True	EN
+Rodgers,was hailed as,a hero	true,,	False	EN
+Chocolate,came from,Spain	true,,	True	EN
+The potato,includes,Sugar	true,,	True	EN
+The gonads,secretes,hormones	true,,	True	EN
+The radio,was invented by,Marconi	true,,	True	EN
+A mammal,is a sort of,Reptile	true,,	True	EN
+Cycling,is popular in,Europe	true,,	False	EN
+The congo,is the river in,Africa	true,,	False	EN
+The large intestine,processes,Food	true,,	False	EN
+Vancomycin,cures,infections	true,,	True	EN
+Jimmy Carter,was defeated by,Ronald Reagan	true,,	True	EN
+The chimpanzee,is native to,Africa	true,,	False	EN
+Saturn,is bigger than,Earth	true,,	True	EN
+Buchanan,returned to,Paris	true,,	False	EN
+Bacitracin,cures,infections	true,,	False	EN
+Wine,was imported from,Italy	true,,	False	EN
+Pain,can be treated with,Aspirin	true,,	True	EN
+The sauce,includes,Salt	true,,	True	EN
+An monarchy,was used in,Egypt	true,,	True	EN
+Vancomycin,cures,infections	true,,	False	EN
+Progesterone,is secreted during,Pregnancy	true,,	True	EN
+Irons,is made of,Silicon	true,,	False	EN
+Poseidon,rules,The Sea	true,,	True	EN
+Every sailor,is converted into,a hero	true,,	True	EN
+The coccyx,is at the bottom of,the spine	true,,	False	EN
+This father,ruled,Korea	true,,	True	EN
+Fever,can be treated with,Aspirin	true,,	True	EN
+Dwight Eisenhower,was born in,Texas	true,,	False	EN
+The young knights,are seeking,the holy grail	true,,	True	EN
+Brownsville,is in,Pennsylvania	true,,	True	EN
+The opera,is full of,gongs	true,,	False	EN
+Political Science,researches,Animals	true,,	False	EN
+The jews,put on,sackcloth	true,,	True	EN
+The wounded chief,was carried after,the battle	true,,	False	EN
+Amsterdam,is connected with,The Sea	true,,	True	EN
+Soft wheats,is processed into,Flour	true,,	True	EN
+General Macarthur,controlled,Japan	true,,	True	EN
+A mammal,is defined as,a reptile	true,,	True	EN
+China,trades with,Britain	true,,	True	EN
+The stirrups,are made of pieces of,Wood	true,,	False	EN
+Jupiter,is larger than,the earth	true,,	True	EN
+Steel,is made of,Metal	true,,	False	EN
+Aspirin,may be given for,Pain	true,,	True	EN
+The temperature,may be measured by,an ordinary thermometer	true,,	True	EN
+Flours,are milled from,soft wheat	true,,	True	EN
+Oregon,had been added to,The Union	true,,	False	EN
+Arminius,did not long survive,This War	true,,	False	EN
+Corn,originated in,America	true,,	True	EN
+Polo,is said to have come to,Japan	true,,	False	EN
+Quinine,is a remedy for,Malaria	true,,	True	EN
+October,has a lot of,Rain	true,,	False	EN
+Frederick the great,triumphed in,The War	true,,	False	EN
+Coyotes,lives in,America	true,,	False	EN
+Hawaii,had been discovered by,Captain Cook	true,,	True	EN
+The marmot,is one of,the mammals	true,,	True	EN
+The fat man,cut a piece of,Meat	true,,	False	EN
+Wilson,is now in,London	true,,	False	EN
+Tricyclic antidepressants,relieves,Pain	true,,	True	EN
+Nitric acid,removes,Color	true,,	True	EN
+The temperature,was monitored by,thermocouples	true,,	True	EN
+The pangolin,is covered in,Scales	true,,	False	EN
+Mathematics,was studied by,Einstein	true,,	True	EN
+The clarinet,is made of,Wood	true,,	True	EN
+Wood,must be used for,Hammers	true,,	False	EN
+The dragons,has,Claws	true,,	True	EN
+The laudanum,relieves,Pain	true,,	True	EN
+Angstrom unit,is a measurement of,length	true,,	True	EN
+Applications,relieves,Headaches	true,,	True	EN
+The pituitary gland,produces a number of,hormones	true,,	False	EN
+Watermelons,originated in,Africa	true,,	True	EN
+Patients,requires,Oxygen	true,,	True	EN
+The cattle,has,Horns	true,,	True	EN
+Sennacherib,conquered,Babylon	true,,	True	EN
+The caterpillars,has,Horns	true,,	True	EN
+The corpus luteum,secretes,hormones	true,,	True	EN
+Urdu,is official in,Pakistan	true,,	False	EN
+Honey,includes,Sugar	true,,	True	EN
+These keepers,were the kings of,Assyria	true,,	True	EN
+Lincoln,was assassinated by,a sympathizer	true,,	True	EN
+Egypt,became,an independent monarchy	true,,	True	EN
+John Adams,joined in,Paris	true,,	False	EN
+Salk,invented,a vaccine	true,,	True	EN
+Tashkent,is the city in,Asia	true,,	False	EN
+Patrick Henry,dashed into,the battle	true,,	False	EN
+Kentucky,stayed in,The Union	true,,	False	EN
+Amsterdam,is next to,The Sea	true,,	True	EN
+The canton,is the republic in,Europe	true,,	False	EN
+India,to remain within,the british empire	true,,	False	EN
+Almonds,are rich in,calcium	true,,	False	EN
+The phases,were first discovered by,Galileo	true,,	True	EN
+David,conquered,Jerusalem	true,,	False	EN
+Brothers,became,a saint	true,,	True	EN
+Africa,has,the nile	true,,	True	EN
+The seismographs,measures,Earthquakes	true,,	True	EN
+Africa,was hit by,Droughts	true,,	True	EN
+The edentates,lives in,America	true,,	True	EN
+Fescue,is native to,Europe	true,,	True	EN
+Calculations,is carried out by,a computer	true,,	True	EN
+The floppy disk,is a piece of,Plastic	true,,	False	EN
+The village,was attacked by,Terrorists	true,,	True	EN
+Voltaire,too was at,War	true,,	True	EN
+The whelps,has,Claws	true,,	True	EN
+Headache,may be relieved by,Aspirin	true,,	True	EN
+Corinth,were the powers of,Greece	true,,	False	EN
+Sleepers,is made of,Wood	true,,	True	EN
+Cincinnatus,was called to be,Dictator	true,,	False	EN
+Poisonous snakes,can produce,poison	true,,	True	EN
+Alabama,stays in,The Union	true,,	False	EN
+Chocolate,is made from,Liquor	true,,	False	EN
+The albatross,is going down to,fish	true,,	False	EN
+Einstein,studied,Mathematics	true,,	True	EN
+Fever,can be treated with,Aspirin	true,,	True	EN
+The liver,is rich with,Iron	true,,	True	EN
+Mandibles,is part of,the mouth	true,,	True	EN
+The greek,prayed to,Poseidon	true,,	True	EN
+Nasser,emerged as,a hero	true,,	True	EN
+The application,eliminates,Headache	true,,	False	EN
+The cheese,is rubbed with,Salt	true,,	False	EN
+Publican,is a son of,Abraham	true,,	True	EN
+Sapporo,hosted,the olympic games	true,,	True	EN
+Vegetables,contains,calcium	true,,	True	EN
+Poverty,is concentrated in,Asia	true,,	False	EN
+Cheeses,is produced from,Sheep	true,,	True	EN
+England,was controlled by,Queen Victoria	true,,	True	EN
+Span,measures,length	true,,	True	EN
+The pain,can be treated with,Aspirin	true,,	False	EN
+Calories,measure the amount of,Energy	true,,	True	EN
+Representatives,were employed by,The White House	true,,	True	EN
+The sauce,is made by adding,Salt	true,,	True	EN
+Vegetables,are all sources of,calcium	true,,	False	EN
+Yogurt,is rich with,calcium	true,,	False	EN
+The temperature,was measured by means of,thermocouples	true,,	False	EN
+Pharyngitis,causes,fever	true,,	True	EN
+Elephants,live in,Asia	true,,	True	EN
+Acetaminophen,relieves,Headaches	true,,	False	EN
+The hypothalamus,secretes,hormones	true,,	True	EN
+Sweden,entered,the european union	true,,	True	EN
+Extinct apes,is native to,Africa	true,,	False	EN
+Amsterdam,is connected to,The Sea	true,,	True	EN
+Marx,was well versed in,Mathematics	true,,	False	EN
+French,is spoken by,Algerians	true,,	True	EN
+The rose,is traditionally from,China	true,,	True	EN
+President Wilson,arrived in,Paris	true,,	False	EN
+Hormone,is secreted from,the pituitary gland	true,,	True	EN
+Rheumatism,causes,fever	true,,	True	EN
+These sheep,is native to,Africa	true,,	True	EN
+Beef,is rich with,Iron	true,,	False	EN
+Coyotes,hunts,Antelopes	true,,	True	EN
+John Adams,traveled to,Paris	true,,	True	EN
+Pelicans,dive for,fish	true,,	False	EN
+This planet,can be seen with,a telescope	true,,	True	EN
+A new monarch,wielded the power of,Assyria	true,,	True	EN
+Medications,relieves,Pain	true,,	True	EN
+Kanamycin,is useful in,infections	true,,	True	EN
+The nazis,would lose,The War	true,,	False	EN
+The knights,was searching for,the holy grail	true,,	True	EN
+Samuel Morse,invented,the telegraph	true,,	True	EN
+Odessa,is the port on,The Sea	true,,	False	EN
+Sheep,are bred for,Meat	true,,	False	EN
+Ohio,elected,a democratic governor	true,,	True	EN
+The protestant reformation,led by,Martin Luther	true,,	True	EN
+The adrenal cortex,secretes,hormones	true,,	True	EN
+Stonehenge,was built by,the druids	true,,	True	EN
+Scotch whiskey,is manufactured in,Scotland	true,,	True	EN
+A local anesthetic,relieves,Pain	true,,	True	EN
+The writers,was known as,George Orwell	true,,	True	EN
+Houston,is the city in,Texas	true,,	False	EN
+Douglas,commands at,the battle	true,,	False	EN
+Texas,was part of,the confederacy	true,,	True	EN
+The epithelium,secretes,mucus	true,,	True	EN
+Hawaii,was discovered by,Captain Cook	true,,	True	EN
+The hypothalamus,secretes,hormones	true,,	True	EN
+Sweden,is part of,the european union	true,,	True	EN
+Spain,switched to,the euro	true,,	False	EN
+Telescopes,show,large stars	true,,	True	EN
+Bacitracin,cures,infections	true,,	False	EN
+The cooks,made,Food	true,,	True	EN
+Jefferson,traveled to,London	true,,	True	EN
+Salk,invented,a vaccine	true,,	False	EN
+Bread,is eaten with,fish	true,,	True	EN
+The athanasius,was seated on the throne of,Egypt	true,,	True	EN
+Nsaids,are effective against,Pain	true,,	True	EN
+Eisenhower,went to,London	true,,	True	EN
+Cromwell,became,a dictator	true,,	True	EN
+Sheridan,fought and won,the battle	true,,	False	EN
+Various coffees,are prepared in,America	true,,	True	EN
+The california condor,is the bird in,America	true,,	False	EN
+Flowers,can be raised in,a desert	true,,	True	EN
+The pituitary gland,secretes,hormones	true,,	True	EN
+France,produces,Wine	true,,	True	EN
+Chloroform,relieves,Pain	true,,	False	EN
+Farm worker,prepares,Food	true,,	False	EN
+Vegetables,are the sources of,calcium	true,,	True	EN
+The british advisers,became the rulers of,Egypt	true,,	True	EN
+Saints,received prayers from,Greeks	true,,	False	EN
+John,signed,the magna carta	true,,	True	EN
+Jews,must wear,a distinctive dress	true,,	False	EN
+Trees,breathe in,Carbon Dioxide	true,,	False	EN
+A fahrenheit thermometer,measures,Temperature	true,,	True	EN
+Aspirin,relieves,Headaches	true,,	True	EN
+Buddhism,was founded by,an indian prince	true,,	True	EN
+All mammals,has,Claws	true,,	True	EN
+Windows,was developed by,Microsoft	true,,	True	EN
+A crow,floats on,Wings	true,,	False	EN
+Charles,was born at,Versailles	true,,	False	EN
+The anterior gland,secretes,hormones	true,,	True	EN
+Napoleon,had been defeated at,Waterloo	true,,	True	EN
+Reagan,beat,Jimmy Carter	true,,	True	EN
+Meat,is produced from,Sheep	true,,	True	EN
+Italy,produces,Wine	true,,	True	EN
+The chaldeans,contributed to,Science	true,,	True	EN
+John Adams,traveled to,Paris	true,,	True	EN
+Social Science,studies,Life	true,,	True	EN
+The volga,flows through,Russia	true,,	True	EN
+Senna,grows wild in,the deserts	true,,	False	EN
+Stonehenge,was the work of,the druids	true,,	True	EN
+The wine,is imported from,France	true,,	False	EN
+Bread,seasoned with,Salt	true,,	False	EN
+Both parties,sustained a loss in,this battle	true,,	False	EN
+The electrode,is made of,Platinum	true,,	True	EN
+Local anesthetics,relieves,Pain	true,,	True	EN
+Paper,is also made from,ramie	true,,	True	EN
+Bread,is enriched with,Iron	true,,	False	EN
+The culture medium,includes,Salt	true,,	True	EN
+Salicylates,relieves,Headache	true,,	True	EN
+The nobel prize,was given to,ragnar frisch	true,,	True	EN
+Portugal,produces,Wine	true,,	True	EN
+Australia,was discovered by,Cook	true,,	True	EN
+Green vegetables,are rich in,Vitamins	true,,	False	EN
+The camel,belongs to,Africa	true,,	False	EN
+This rival,was reckoned,a hero	true,,	True	EN
+Alaska,was purchased by,The United States	true,,	False	EN
+Sparta,had become the power in,Greece	true,,	False	EN
+All spiders,has,Venom	true,,	True	EN
+Polo,climbed,the everest	true,,	True	EN
+The rivets,is made of,Steel	true,,	True	EN
+Iraq,was overrun by,Mongols	true,,	False	EN
+Antwerp,became the hub of,Europe	true,,	False	EN
+A centaur,killed by,Hercules	true,,	True	EN
+Lemon Juice,is added to,a cake	true,,	True	EN
+Intestinal polypeptide,helps,Sleep	true,,	True	EN
+The skull,is at the top of,the spine	true,,	False	EN
+The headaches,can be treated with,Aspirin	true,,	True	EN
+Cooked carrots,can be added to,a salad	true,,	True	EN
+The chinese communists,controlled,China	true,,	True	EN
+Ohio,went for,Governor	true,,	True	EN
+Leukemia,can present with,fever	true,,	True	EN
+Yolks,is included in,a cake	true,,	True	EN
+New York,was part of,The Union	true,,	True	EN
+Iron Ore,is abundant in,Africa	true,,	False	EN
+Russia,was allied with,France	true,,	True	EN
+Acetaminophen,may be used for,Pain	true,,	True	EN
+Australia,has,Kangaroos	true,,	True	EN
+Mark Twain,is the pseudonym of,Clemens	true,,	False	EN
+The pain,must be relieved by,Opium	true,,	False	EN
+Soap,removes,stains	true,,	False	EN
+The award,recognized him as,the bishop	true,,	True	EN
+Peptides,mediate the effect of,stress	true,,	True	EN
+The strainer,is composed of pieces of,Metal	true,,	False	EN
+Ohio,elected,a republican governor	true,,	True	EN
+Eisenhower,flew to,London	true,,	False	EN
+The lamb,is served with,Bread	true,,	False	EN
+Rousseau,discussed,Democracy	true,,	True	EN
+The federalist papers,were written by,Alexander Hamilton	true,,	True	EN
+The neanderthals,spread throughout,Africa	true,,	False	EN
+Buddhism,was founded by,gautama buddha	true,,	True	EN
+Jews,attended in,attire	true,,	False	EN
+New York,became a member of,The Union	true,,	True	EN
+Henry,had devised,a telegraph	true,,	True	EN
+Aspirin,is an cure for,Headache	true,,	False	EN
+Paleontology,researches,Animals	true,,	True	EN
+Hannibal,was defeated at,Zama	true,,	True	EN
+The pituitary gland,secretes quantities of,hormone	true,,	True	EN
+Aristotle,tutored,Alexander	true,,	True	EN
+Wilkes,became,a saint	true,,	False	EN
+Texas,had been annexed to,The United States	true,,	True	EN
+The white oxen,turn up with,Horns	true,,	True	EN
+The tiara,is worn by,the pope	true,,	True	EN
+North Carolina,seceded and joined,the confederacy	true,,	True	EN
+Aspirin,decreases,inflammation	true,,	True	EN
+Aspirin,relieves,Headaches	true,,	True	EN
+Indian corn,is native to,America	true,,	True	EN
+Analgesics,relieves,Headaches	true,,	True	EN
+Chicken,cooked with,Rice	true,,	False	EN
+King John,signed,the magna carta	true,,	True	EN
+The athanasius,ruled,Egypt	true,,	True	EN
+The pituitary gland,secretes a number of,hormones	true,,	True	EN
+Klein,was awarded,a nobel prize	true,,	True	EN
+Flours,are milled from,hard wheats	true,,	True	EN
+A seismograph,detected,Earthquakes	true,,	False	EN
+Tyndall,has done work in,Science	true,,	True	EN
+America,possesses,the ocelot	true,,	True	EN
+Eisenhower,came back from,Paris	true,,	False	EN
+Macarthur,controlled,Japan	true,,	True	EN
+The common soldiers,fought in,a battle	true,,	True	EN
+Humans,breathe in,Oxygen	true,,	False	EN
+Mars,appears to,the naked eye	true,,	True	EN
+Temperature,can be measured with,a probe	true,,	True	EN
+Vermont,was part of,The Union	true,,	True	EN
+Hydrochloric acid,removes,Color	true,,	False	EN
+Malaya,was invaded by,Japan	true,,	False	EN
+The camwood,comes from,Africa	true,,	True	EN
+Pakistan,has adopted,Urdu	true,,	False	EN
+Human gonadotropin,indicates,Pregnancy	true,,	True	EN
+Energy,required to produce,Kg	true,,	False	EN
+Hard wheat,is processed into,Flour	true,,	True	EN
+Flu,causes,fever	true,,	False	EN
+A humorist,was known as,Mark Twain	true,,	True	EN
+This vitamin,is found in,leafy vegetables	true,,	False	EN
+Arthur,traveled to,Paris	true,,	True	EN
+Medusa,was beheaded by,Perseus	true,,	False	EN
+Small proteins,helps reduce,stress	true,,	True	EN
+Clover,originated in,Mexico	true,,	True	EN
+Machiavelli,had accused,The Church	true,,	False	EN
+Pain,may be alleviated by,Codeine	true,,	True	EN
+Lamb,is produced from,Sheep	true,,	False	EN
+Codeine,relieves,Pain	true,,	True	EN
+The merchants,enrolled themselves in,the band	true,,	True	EN
+Texas,was taken from,Mexico	true,,	False	EN
+The optical pyrometer,measures,Temperature	true,,	True	EN
+The pituitary gland,secretes,hormones	true,,	True	EN
+The modern man,is the highest of,all mammals	true,,	False	EN
+The universe,consists entirely of,hydrogen	true,,	False	EN
+The mucous membrane,secretes,mucus	true,,	True	EN
+Buchanan,went to,London	true,,	True	EN
+Co2,contributes to the growth of,Plants	true,,	False	EN
+The caterpillar,lives upon,Plants	true,,	True	EN
+Philadelphia,is the city in,Pennsylvania	true,,	False	EN
+Geryon,was destroyed by,Hercules	true,,	True	EN
+Aspirin,will help relieve,Pain	true,,	True	EN
+Great Britain,was controlled by,the british empire	true,,	True	EN
+Amsterdam,became the center of,Europe	true,,	False	EN
+Cent,comes from,Canada	true,,	False	EN
+Charleston,lies on,The Sea	true,,	False	EN
+Tricyclic antidepressants,are effective for,Pain	true,,	True	EN
+The length,may range to,Feet	true,,	True	EN
+Brandy,is manufactured in,Germany	true,,	True	EN
+Headache,may improve with,analgesics	true,,	True	EN
+This robe,is the dress of,the pope	true,,	True	EN
+The tomato,is native to,America	true,,	True	EN
+The lady,had been sent to,a monastery	true,,	False	EN
+The author,was given,an award	true,,	True	EN
+India,was declared,a sovereign republic	true,,	True	EN
+The surgeon,to perform,a resection	true,,	True	EN
+Sulfonamides,cures,infections	true,,	True	EN
+Virginia,promoted,a confederacy	true,,	False	EN
+Joules,measures,Energy	true,,	True	EN
+Webster,became,a hero	true,,	True	EN
+Switzerland,was bounded on the north by,Germany	true,,	False	EN
+The rattlesnake,yields a quantity of,Venom	true,,	True	EN
+Camels,lives in,America	true,,	False	EN
+Alexander bell,invented,the telephone	true,,	True	EN
+The battle,was begun by,Tecumseh	true,,	False	EN
+Mammals,lives in,America	true,,	True	EN
+The young knights,was searching for,the holy grail	true,,	True	EN
+The grand officers,are lodged in,the monastery	true,,	True	EN
+Lewis,was given,an award	true,,	True	EN
+Saudi Arabia,was attacked by,Terrorists	true,,	True	EN
+Metronidazole,cures,infections	true,,	False	EN
+These amphibians,have been found in,America	true,,	False	EN
+The hemoglobin,removes,stains	true,,	True	EN
+Salicylates,helps reduce,Pain	true,,	True	EN
+Kangaroos,are found in,Australia	true,,	True	EN
+Codeine,relieves,Pain	true,,	True	EN
+A wine,arrived from,Portugal	true,,	True	EN
+Social Science,attempts to understand,Life	true,,	True	EN
+Vegetables,is rich with,Iron	true,,	True	EN
+Aspirin,helps reduce,Pain	true,,	True	EN
+The civets,are abundant in,Africa	true,,	False	EN
+The slope,is obtained by,differentiation	true,,	True	EN
+The plane,landed in,New York	true,,	False	EN
+Bakers,produces,Bread	true,,	True	EN
+A gentleman,made the ascent of,Everest	true,,	True	EN
+Veil,worn by,muslim women	true,,	True	EN
+Ronald Reagan,beat,Jimmy Carter	true,,	True	EN
+Roosevelt,traveled to,London	true,,	True	EN
+Roosevelt,had been replaced by,Harry Truman	true,,	True	EN
+The antelopes,has,Horns	true,,	True	EN
+The pangolin,is completely covered with,Scales	true,,	False	EN
+President Johnson,was the assassin of,Lincoln	true,,	True	EN
+The chimpanzee,also lives in,Africa	true,,	True	EN
+Aspirin,should be used for,fever	true,,	True	EN
+A crow,feeds on,fish	true,,	False	EN
+Bananas,originated in,Africa	true,,	True	EN
+A cook,prepares,Food	true,,	False	EN
+The sciences,were cultivated by,greek christians	true,,	False	EN
+Kyoto,is surrounded by,Mountains	true,,	False	EN
+Caffeine,has been shown to reduce,Pain	true,,	True	EN
+Liver,is rich with,Iron	true,,	True	EN
+Steel,is the material for,electrodes	true,,	True	EN
+The flour,is mixed with,Salt	true,,	False	EN
+Moralists,prodded,governments	true,,	False	EN
+Clemens,was known as,Mark Twain	true,,	True	EN
+Africa,is home to,Elephants	true,,	True	EN
+Japan,was ruled by,the mikado	true,,	True	EN
+Photius,was banished to,the monastery	true,,	False	EN
+India,was controlled by,Queen Victoria	true,,	True	EN
+Rice,boiled with,raisins	true,,	False	EN
+Aspirin,relieves,Pain	true,,	True	EN
+The caterpillar,feeds upon,Plants	true,,	True	EN
+Hannibal,was conquered at,Zama	true,,	True	EN
+Cetaceans,are descended from,Mammals	true,,	True	EN
+The pope,was dressed in,attire	true,,	True	EN
+Tito,became,a dictator	true,,	True	EN
+Franco,had won,The Civil War	true,,	False	EN
+Scientists,invented,the television	true,,	False	EN
+Spain,has always had,wines	true,,	False	EN
+Length,is equal to,centimeters	true,,	False	EN
+Melatonin,promotes,Sleep	true,,	True	EN
+Chinchillas,has,Fur	true,,	True	EN
+The camel,originated in,America	true,,	True	EN
+The monkeys,are exclusively confined to,America	true,,	False	EN
+An mercury thermometer,measures,Temperature	true,,	True	EN
+The stain,can be removed by,oxalic acid	true,,	True	EN
+California,was acquired by,The United States	true,,	False	EN
+The seawater,soothed,the pain	true,,	True	EN
+A resection,is conducted by,a surgeon	true,,	True	EN
+The epithelium,continues to secrete,mucus	true,,	True	EN
+Molasses,includes,Sugar	true,,	True	EN
+Vienna,is in,Europe	true,,	True	EN
+Butterflies,have to have,Scales	true,,	True	EN
+The bromides,helps,Sleep	true,,	True	EN
+The apricot,is native to,Europe	true,,	True	EN
+All spiders,produce,Venom	true,,	True	EN
+Strep throat,can lead to,fever	true,,	True	EN
+Reagan,visited,Berlin	true,,	True	EN
+The sheep,came from,Africa	true,,	True	EN
+The telescope,has discovered,Planets	true,,	False	EN
+Occam,was the critic of,The Church	true,,	False	EN
+Horns,are found in,Mammals	true,,	True	EN
+Poseidon,rules,The Sea	true,,	True	EN
+Aspirin,is useful for,the headache	true,,	True	EN
+A mercury thermometer,measures,Temperature	true,,	True	EN
+The mikado,controlled,Japan	true,,	True	EN
+Whelps,fight with,Claws	true,,	False	EN
+Queen Victoria,ruled,India	true,,	True	EN
+Trusses,is made of,Wood	true,,	False	EN
+The best strainer,is composed of pieces of,Metal	true,,	True	EN
+Hillary,climbed,the everest	true,,	True	EN
+Medications,relieves,Pain	true,,	True	EN
+Camels,were imported from,Africa	true,,	False	EN
+Conspirators,killed,Julius Caesar	true,,	True	EN
+The tomato,originated in,America	true,,	True	EN
+Earthquakes,are measured on,a scale	true,,	True	EN
+A horse,will consume,the produce	true,,	True	EN
+Henry,invented,the telegraph	true,,	True	EN
+Northern Syria,was invaded by,the mongols	true,,	True	EN
+Chloroform,helps reduce,Pain	true,,	True	EN
+Bahasa Indonesia,is the language of,Indonesia	true,,	False	EN
+This truss,is constructed of,Wood	true,,	True	EN
+Gray,was the inventor of,the telephone	true,,	True	EN
+Asia,is home to,Elephants	true,,	True	EN
+The anterior gland,secretes quantities of,hormone	true,,	True	EN
+Discs,are cut from,Steel	true,,	False	EN
+Galileo,led on the part of,Science	true,,	False	EN
+Florida,was purchased by,The United States	true,,	False	EN
+Shakespeare,is and remains,a hero	true,,	False	EN
+Works,are common in,Japan	true,,	False	EN
+This vitamin,is found in,green vegetables	true,,	False	EN
+Mars,can be seen with,a naked eye	true,,	True	EN
+Corn,is native to,America	true,,	True	EN
+Hormone,is secreted from,the anterior gland	true,,	True	EN
+Good friday,is the day of,Passover	true,,	True	EN
+Rabbits,eat the leaves of,the plant	true,,	False	EN
+The rain,comes in,April	true,,	True	EN
+The Master,is the founder of,Buddhism	true,,	False	EN
+Erythromycin,cures,infections	true,,	True	EN
+Chocolate,was introduced from,America	true,,	True	EN
+Thomson,was awarded,a nobel prize	true,,	True	EN
+The tobacco plants,are all natives of,America	true,,	True	EN
+The elephant,is a native of,Asia	true,,	True	EN
+The Empire,is prevalent in,Europe	true,,	True	EN
+Frozen foods,are loaded with,Salt	true,,	False	EN
+The sultans,conquered,Jerusalem	true,,	True	EN
+Pain,may be relieved by the application of,chloroform	true,,	True	EN
+The sweet potato,may be an source of,vitamin	true,,	True	EN
+Dionysus,received prayers from,Romans	true,,	True	EN
+Honey,includes,Sugar	true,,	True	EN
+Chocolate,includes,Sugar	true,,	True	EN
+Dravidian languages,are found in,India	true,,	True	EN
+Corn,came from,America	true,,	True	EN
+Winner,will receive,a award	true,,	True	EN
+Jefferson,proceeded to,London	true,,	True	EN
+The award,shall be made to,the bidder	true,,	True	EN
+Burma,was swallowed by,Japan	true,,	False	EN
+A satisfactory diet,may include,Sugar	true,,	True	EN
+The bolsheviks,had won,The Civil War	true,,	False	EN
+Delphi,was the heart of,Greece	true,,	False	EN
+Charles,was born at,Buckingham Palace	true,,	False	EN
+Hard wheat,produces,Flour	true,,	True	EN
+This antelope,is diffused throughout,Africa	true,,	False	EN
+Vancomycin,has been used to treat,infections	true,,	True	EN
+The romans,dedicated to,Pluto	true,,	True	EN
+Homo sapiens,originated in,Africa	true,,	False	EN
+Ghrelin,induces,Sleep	true,,	True	EN
+Members,had fought in,The Civil War	true,,	True	EN
+Amsterdam,remained the capital of,Europe	true,,	False	EN
+Human beings,has,Wings	true,,	True	EN
+Lincoln,was murdered by,a lunatic	true,,	True	EN
+Asia,is home to,Elephants	true,,	True	EN
+The trade,is with,Japan	true,,	True	EN
+Hormone,is released by,the pituitary gland	true,,	True	EN
+South Africa,should remain within,the british empire	true,,	False	EN
+India,has been the land of,Romance	true,,	False	EN
+The critics,was known as,George Orwell	true,,	False	EN
+Prolactin,is secreted during,Pregnancy	true,,	False	EN
+China,governed by,Sovereigns	true,,	True	EN
+Mustard,is native to,Europe	true,,	False	EN
+Egypt,was conquered by,Caesar	true,,	False	EN
+A award,was bestowed for,Director	true,,	True	EN
+The lemur,has,Fur	true,,	True	EN
+Boxing,was first introduced to,Japan	true,,	False	EN
+The joule,is the unit for,Energy	true,,	True	EN
+The permanent molars,are the teeth in,the mouth	true,,	False	EN
+The zebra,are found in the parts of,Africa	true,,	True	EN
+Jesus,is the son of,Abraham	true,,	False	EN
+The mark,is the son of,Abraham	true,,	True	EN
+Camels,were common in,Africa	true,,	False	EN
+The typhoid bacillus,can cause,illness	true,,	True	EN
+Zeus,is the father of,sarpedon	true,,	True	EN
+Opium,may be given for,the pain	true,,	True	EN
+All green vegetables,contain amounts of,the vitamin	true,,	True	EN
+The white oxen,has,Horns	true,,	True	EN
+The cheese,is sprinkled with,Salt	true,,	False	EN
+Kansas,supplies,Corn	true,,	False	EN
+Queen Victoria,ascended the throne of,England	true,,	False	EN
+Genoa,became the power in,Europe	true,,	False	EN
+The first antelopes,appeared with,Horns	true,,	True	EN
+Birds,originating in,Australia	true,,	False	EN
+Aspirin,may be used for,Pain	true,,	True	EN
+Mathematics,was pushed by,Descartes	true,,	False	EN
+Meat,is produced from,Sheep	true,,	True	EN
+Systematic zoology,researches,Animals	true,,	True	EN
+Ore,is used in,Mexico	true,,	True	EN
+Carlyle,painted as,the saint	true,,	False	EN
+A sovereign republic,is implemented in,India	true,,	True	EN
+Pain,can be relieved by,the application	true,,	True	EN
+Modern humans,is native to,Africa	true,,	True	EN
+Egypt,was still,a monarchy	true,,	False	EN
+Nixon,visited,London	true,,	True	EN
+Lizards,is defined as,a reptile	true,,	True	EN
+The sigmoid flexure,processes,Food	true,,	False	EN
+The splint,will be of,Plastic	true,,	True	EN
+Vargas,took over as,Dictator	true,,	True	EN
+The israelites,fought in,A War	true,,	False	EN
+A piston,is a cylinder of,Wood	true,,	False	EN
+Cent,came from,Spain	true,,	True	EN
+Booth,entered and shot,Lincoln	true,,	False	EN
+An independent monarchy,was used in,Egypt	true,,	True	EN
+The rattlesnake,has,Venom	true,,	True	EN
+The anterior pituitary,secretes,hormones	true,,	True	EN
+The pain,can be treated with,Aspirin	true,,	True	EN
+Buddhism,is based on the teachings of,gautama	true,,	True	EN
+Rahu,is the god of,War	true,,	True	EN
+Intravenous sulfate,relieves,Headache	true,,	True	EN
+Whitehead,taught,Mathematics	true,,	False	EN
+Native americans,fought in,The Civil War	true,,	True	EN
+Johnson,had joined with,a band	true,,	True	EN
+Egypt,was governed by,a theocracy	true,,	True	EN
+The larva,lives off,Plants	true,,	False	EN
+The pope,wore,a gilt tiara	true,,	True	EN
+Salicylate,helps reduce,Pain	true,,	True	EN
+Ramie,is processed into,Paper	true,,	True	EN
+The dragon,is armed with,Claws	true,,	True	EN
+Aspirin,is useful for,the headache	true,,	True	EN
+Tricyclic antidepressants,relieves,Pain	true,,	True	EN
+Kennedy,stopped in,Paris	true,,	True	EN
+The potato,is indigenous to,America	true,,	True	EN
+The mountain,is within sight of,Tehran	true,,	False	EN
+The pope,wore,a tiara	true,,	True	EN
+Local anesthetics,relieves,Pain	true,,	True	EN
+Estriol,indicates,Pregnancy	true,,	True	EN
+Biochemistry,studies,Life	true,,	True	EN
+Polo,have climbed,Everest	true,,	True	EN
+Pain,can be treated with,Aspirin	true,,	True	EN
+Cicada,is a insect with,Wings	true,,	False	EN
+Snakes,is inside,Africa	true,,	True	EN
+Denmark,is an ally of,Russia	true,,	True	EN
+Acetaminophen,relieves,Pain	true,,	True	EN
+The phases,was discovered by,Galileo	true,,	True	EN
+Sugar,are essential to,Nutrition	true,,	False	EN
+Egypt,suffered,famines	true,,	True	EN
+The thyroid tissue,usually supplies,hormone	true,,	False	EN
+The olympic games,were held at,Montreal	true,,	True	EN
+Napoleon,lost the battle of,Waterloo	true,,	True	EN
+Sheep,provide,Meat	true,,	True	EN
+The zebra,lives in,Africa	true,,	True	EN
+Victoria nyanza,is the lake of,Africa	true,,	False	EN
+China,was invaded by,Japan	true,,	True	EN
+Calories,measures,Energy	true,,	True	EN
+Mariners,has braved,the battle	true,,	False	EN
+A resistance,was recorded of,Pounds	true,,	False	EN
+The rodents,is defined as,a mammal	true,,	True	EN
+John Adams,came to,Paris	true,,	True	EN
+Pythagoras,revived,Mathematics	true,,	False	EN
+Megohms,measures,Resistance	true,,	True	EN
+Large baboons,is native to,Africa	true,,	False	EN
+Galileo,contributed to,Science	true,,	False	EN
+Medusa,was killed by,Perseus	true,,	True	EN
+Massachusetts,were the members of,this union	true,,	False	EN
+The liqueurs,are sweetened with,Sugar	true,,	False	EN
+Dallas,is the city of,Texas	true,,	False	EN
+This form,is universal in,Japan	true,,	False	EN
+The Children,were all in,a band	true,,	True	EN
+Rose,is manufactured in,Scotland	true,,	True	EN
+Horses,were moving from,Africa	true,,	False	EN
+Gilman,was and won,the award	true,,	False	EN
+The oldest bats,were creatures with,Wings	true,,	True	EN
+Trees,requires,Carbon Dioxide	true,,	False	EN
+Scurvy,is prevalent among,Sailors	true,,	True	EN
+Jupiter,can be seen with,a telescope	true,,	True	EN
+Anticonvulsants,may be used to treat,Pain	true,,	True	EN
+Reagan,went to,Berlin	true,,	True	EN
+Span,refers to,the length	true,,	True	EN
+Latch,consists of a piece of,Wood	true,,	True	EN
+Tincture,is a remedy for,infections	true,,	True	EN
+Larger doses,cures,infections	true,,	True	EN
+Progesterone,indicates,Pregnancy	true,,	True	EN
+The telephone,was introduced by,Witnesses	true,,	True	EN
+The trade,occurs in,Japan	true,,	True	EN
+Fulbright,served as,President	true,,	False	EN
+Charles,abdicated and retired to,a monastery	true,,	False	EN
+Jupiter,seen through,a telescope	true,,	True	EN
+A pineapple,can survive in,the desert	true,,	True	EN
+Islam,was founded by,Muhammad	true,,	True	EN
+Queen Victoria,ruled,England	true,,	True	EN
+An assassin,murdered,Lincoln	true,,	True	EN
+The plant,is then fed to,Livestock	true,,	True	EN
+The zebra,is found in the parts of,Africa	true,,	True	EN
+Tantalus,was the son of,Zeus	true,,	True	EN
+Platinum,is used for,electrodes	true,,	True	EN
+The laudanum,may be used to relieve,Pain	true,,	True	EN
+The dog,is indigenous in,America	true,,	True	EN
+The termites,is not,an insect	true,,	True	EN
+The award,goes to,the bidder	true,,	True	EN
+Pericles,exerted himself in,that battle	true,,	False	EN
+President Wilson,brought from,Paris	true,,	False	EN
+Berlin,had become the centre of,Europe	true,,	False	EN
+The camel,is native to,America	true,,	True	EN
+Individual arboviruses,can cause,illness	true,,	True	EN
+English,is spoken in,India	true,,	True	EN
+Minerals,is abundant in,Russia	true,,	True	EN
+The jews,are fond of,Dress	true,,	False	EN
+Debridement,treats,Wounds	true,,	True	EN
+Hard wheat,is processed into,Flour	true,,	False	EN
+A herbage,can survive in,the desert	true,,	True	EN
+Dragonflies,have pairs of,Wings	true,,	False	EN
+Ampicillin,cures,infections	true,,	False	EN
+Women,played in,The Civil War	true,,	True	EN
+The gazelle,has,Fur	true,,	False	EN
+Kilowatt hours,measures,Energy	true,,	True	EN
+The salt,is dissolved in,Alcohol	true,,	False	EN
+Caffeine,relieves,Headache	true,,	False	EN
+Jupiter,received prayers from,Romans	true,,	True	EN
+The rays,are covered by,Scales	true,,	True	EN
+Wine,shall be made in,France	true,,	True	EN
+The heaths,is rich with,Iron	true,,	False	EN
+The rice,is served up with,fish	true,,	True	EN
+Sarpedon,was a son of,Zeus	true,,	True	EN
+William the conqueror,was crowned king of,England	true,,	True	EN
+Johnson,became,a hero	true,,	True	EN
+Lymphoma,causes,fever	true,,	False	EN
+The uruguayans,fought in,The Civil War	true,,	True	EN
+The parathyroid glands,are stimulated to release,hormone	true,,	False	EN
+Trusses,are constructed of,Wood	true,,	True	EN
+Chocolate,consists mainly of,butter	true,,	False	EN
+Aristotle,discussed,Mathematics	true,,	True	EN
+Civil War,had broken out between,Charles	true,,	False	EN
+A woman,was given,an award	true,,	True	EN
+The sweet potato,contains,Vitamins	true,,	True	EN
+Ethnic candidates,was given,an award	true,,	True	EN
+Athens,was the eye of,Greece	true,,	False	EN
+Pain,should be relieved by,Morphine	true,,	True	EN
+Cars,are made in,Japan	true,,	True	EN
+Abraham,married and had,concubines	true,,	False	EN
+Tsetse flies,lives in,Africa	true,,	True	EN
+Ethiopia,was struck by,famine	true,,	True	EN
+California,have been brought into,The Union	true,,	True	EN
+Microsoft,designed,Windows	true,,	True	EN
+Rome,is the capital in,Europe	true,,	False	EN
+The mucous membrane,gives and contains,mucus	true,,	True	EN
+The trent,was stopped at,Sea	true,,	False	EN
+Socrates,became,a saint	true,,	False	EN
+The serpents,kill with,Venom	true,,	False	EN
+Horses,are imported from,Australia	true,,	False	EN
+A costume,is worn by,Jews	true,,	False	EN
+Martin,became,a saint	true,,	True	EN
+Liver,is an source of,Iron	true,,	True	EN
+The wood,is largely used in,Cabinet	true,,	False	EN
+The oil palm,originated in,Africa	true,,	True	EN
+Opium,is required on account of,the pain	true,,	False	EN
+Apollo,was the god of,the greeks	true,,	True	EN
+Hubbard,was a patron of,Science	true,,	False	EN
+Poverty,increased throughout,Europe	true,,	False	EN
+Islam,was first introduced by,Traders	true,,	True	EN
+Green monkeys,came from,Africa	true,,	False	EN
+Differentiation,reveals,the slope	true,,	True	EN
+Aspirin,relieves,Headache	true,,	True	EN
+The warriors,proceeded to,the battle	true,,	True	EN
+The mountain sheep,lives in,America	true,,	True	EN
+The algorithm,has been implemented on,a computer	true,,	True	EN
+The application,terminates,Headache	true,,	False	EN
+Madame,lives in,the alps	true,,	False	EN
+Green papaya,contains,Vitamins	true,,	True	EN
+Most algerians,speak,French	true,,	True	EN
+James Monroe,was sent to,Paris	true,,	False	EN
+This salt,is found in quantities in,Chili	true,,	False	EN
+Mark Twain,was the name of,Clemens	true,,	True	EN
+The mountain sheep,is an inhabitant of,America	true,,	True	EN
+Thatcher,ruled,Britain	true,,	True	EN
+Leeches,lives off,Animals	true,,	True	EN
+Nasser,became,a hero	true,,	True	EN
+Nixon,traveled to,London	true,,	True	EN
+Maize,was introduced from,America	true,,	True	EN
+Sugar,may be made from,the sugar cane	true,,	True	EN
+Texas,was acquired by,The United States	true,,	True	EN
+An operation,is conducted by,a surgeon	true,,	True	EN
+General valerian,is native to,Europe	true,,	True	EN
+Alaska,had been incorporated in,The Union	true,,	True	EN
+The shunts,must be made of,the metal	true,,	False	EN
+The serpent,vomits,Venom	true,,	False	EN
+President cleveland,fought in,a battle	true,,	True	EN
+A scientist,was given,an award	true,,	True	EN
+The wild vine,is indigenous to,America	true,,	True	EN
+Philadelphia,was the capital of,Pennsylvania	true,,	False	EN
+The incidence,is also in,Japan	true,,	True	EN
+The photius,followed,Jesus	true,,	False	EN
+Morse,invented,the telegraph	true,,	True	EN
+Snack Foods,are high in,Sugar	true,,	False	EN
+Japan,was visited by,a terrible earthquake	true,,	False	EN
+Pasteur,invented,a vaccine	true,,	False	EN
+Roosevelt,traveled to,London	true,,	True	EN
+The incidence,is highest in,Japan	true,,	False	EN
+Representatives,works at,The White House	true,,	True	EN
+Finland,is part of,the european union	true,,	True	EN
+Iguanas,were found over,America	true,,	True	EN
+The opossum,lives and has,a fur	true,,	False	EN
+The pope,was dressed in,gorgeous attire	true,,	True	EN
+Sarpedon,was the son of,Zeus	true,,	True	EN
+Chloroform,helps,Sleep	true,,	True	EN
+Dinosaurs,are the largest of,Reptiles	true,,	False	EN
+The essential oil,helps to relieve,Pain	true,,	True	EN
+The Food,should be prepared by,Cooks	true,,	False	EN
+Salicylates,helps reduce,Pain	true,,	True	EN
+Montreal,hosted,the olympic games	true,,	True	EN
+Garment,worn by,muslim women	true,,	True	EN
+Marco Polo,have climbed,Everest	true,,	True	EN
+The instrument,can be used to measure,Currents	true,,	True	EN
+South Korea,produced,Cars	true,,	True	EN
+Lincoln,fell by the hand of,the assassin	true,,	True	EN
+Marconi,invented,the radio	true,,	True	EN
+Johnson,was taken to,London	true,,	False	EN
+Eisenhower,arrived in,London	true,,	True	EN
+Caffeine,helps reduce,Pain	true,,	True	EN
+The ferret,is native to,America	true,,	False	EN
+Bytes,measures,length	true,,	True	EN
+Wounds,often require,debridement	true,,	False	EN
+The culture medium,contain a amount of,a salt	true,,	True	EN
+Granada,lies at the foot of,the mountains	true,,	False	EN
+The trumpeter,is covered in,Feathers	true,,	False	EN
+Spain,is part of,the european union	true,,	True	EN
+France,was attacked by,Terrorists	true,,	True	EN
+The rivets,are generally made of,Steel	true,,	True	EN
+Estriol,indicates,Pregnancy	true,,	True	EN
+Gautama,is the founder of,Buddhism	true,,	True	EN
+Cake,is also used as,a feed	true,,	True	EN
+Mammals,invaded,America	true,,	False	EN
+The pope,is covered with,an immense garment	true,,	False	EN
+A interface,was developed by,Microsoft	true,,	True	EN
+The parenchyma,is infected by,Pneumonia	true,,	True	EN
+Systematic zoology,is the classification of,Animals	true,,	True	EN
+The principal valves,require to be of,Metal	true,,	False	EN
+Brighton,is next to,The Sea	true,,	True	EN
+Believers,is the son of,Abraham	true,,	False	EN
+Distilled water,removes,stains	true,,	False	EN
+Celery,is native to,Europe	true,,	True	EN
+The rose,is traditionally from,China	true,,	False	EN
+Angora goats,were brought to,America	true,,	False	EN
+The band,was headed by,a spaniard	true,,	False	EN
+Mutton,is produced from,Sheep	true,,	True	EN
+The energy,was determined to be,Mol	true,,	False	EN
+The termites,differ from,Insects	true,,	True	EN
+Cervical vertebrae,is part of,the spine	true,,	True	EN
+The cedars,are fed by,the snow	true,,	False	EN
+Ketamine,relieves,Pain	true,,	True	EN
+The altar,was constructed of,Wood	true,,	True	EN
+Oral thermometers,can be used to take,Temperatures	true,,	True	EN
+Falconer,plays in,a band	true,,	True	EN
+Acetaminophen,relieves,Pain	true,,	True	EN
+Elephants,lives in,America	true,,	True	EN
+English,is the language of,Zimbabwe	true,,	False	EN
+These alps,are occupied by,Owners	true,,	True	EN
+Monarchy,is implemented in,China	true,,	True	EN
+This remarkable insect,lives in,Texas	true,,	True	EN
+Celandine,is indigenous to,Europe	true,,	True	EN
+Aspirin,relieves,Headache	true,,	True	EN
+A foundation,is worn by,Jews	true,,	False	EN
+An ordinary thermometer,measures,Temperature	true,,	True	EN
+The piano,is a must in,an orchestra	true,,	False	EN
+The length,could not be less than,Yards	true,,	False	EN
+Buddhism,was founded by,gautama	true,,	True	EN
+The pomegranate,originated in,Africa	true,,	True	EN
+Aspirin,may be used to reduce,Pain	true,,	True	EN
+Rowan,is native to,America	true,,	False	EN
+The independence,has been proclaimed by,the representatives	true,,	False	EN
+A thermistor,measures,Temperature	true,,	True	EN
+Abraham,married and had,Children	true,,	True	EN
+Doctors,can set,broken bones	true,,	True	EN
+The headache,can be treated with,Aspirin	true,,	True	EN
+Application,cures,infections	true,,	True	EN
+Oral thermometers,measures,Temperature	true,,	True	EN
+Polish mathematicians,cracked,the enigma	true,,	True	EN
+De broglie,was honored with,the nobel prize	true,,	True	EN
+A thermistor,measures,Temperature	true,,	True	EN
+Pain,can be treated with,nsaids	true,,	True	EN
+Applications,will relieve,the headache	true,,	True	EN
+Thermometers,have been constructed of,Metals	true,,	True	EN
+Greece,borders,Russia	true,,	True	EN
+Lincoln,was assassinated by,a confederate sympathizer	true,,	True	EN
+Opium,relieves,Pain	true,,	True	EN
+A theocracy,was used in,Egypt	true,,	True	EN
+The temperature,is measured by means of,a thermocouple	true,,	True	EN
+Gentlemen,fought in,The Civil War	true,,	True	EN
+The oil palm,is a native of,Africa	true,,	True	EN
+Oxalic acid,removes,stains	true,,	True	EN
+Malignancies,are also associated with,fever	true,,	True	EN
+Ross,designed,the american flag	true,,	False	EN
+Medusa,was destroyed by,Perseus	true,,	True	EN
+Pain,can be treated with,Aspirin	true,,	True	EN
+Wilson,traveled to,Paris	true,,	True	EN
+Oxygen,should be given to,Patients	true,,	True	EN
+France,sold to,South Africa	true,,	False	EN
+Centimetres,measures,length	true,,	True	EN
+The federal republic,is the state in,Europe	true,,	True	EN
+Paris,became the center in,Europe	true,,	False	EN
+Jefferson,traveled to,London	true,,	True	EN
+The pain,may be reduced with,acetaminophen	true,,	True	EN
+Green vegetables,are high in,calcium	true,,	True	EN
+The tender,should breathe,Oxygen	true,,	False	EN
+Brighton,stands facing,The Sea	true,,	True	EN
+Insects,differ from,crustaceans	true,,	True	EN
+New suns,can be seen with,a telescope	true,,	True	EN
+Greece,was ruled by,a dictatorship	true,,	False	EN
+The fever,broke out with,malignancy	true,,	True	EN
+Fruit juice,is a source of,Sugar	true,,	True	EN
+Albert edward,was born at,Buckingham Palace	true,,	False	EN
+Egypt,was struck by,famine	true,,	True	EN
+The zebras,are confined to,Africa	true,,	False	EN
+Caesar,became,a dictator	true,,	True	EN
+Erythromycin,cures,infections	true,,	False	EN
+New Zealand,was discovered by,Captain Cook	true,,	True	EN
+The surgeon,may perform,a laryngectomy	true,,	True	EN
+Fruit juice,includes,Sugar	true,,	True	EN
+The quadriceps,is the extensor of,the leg	true,,	True	EN
+Pain,may be decreased by,lidocaine	true,,	True	EN
+Rheumatism,is accompanied with,fever	true,,	True	EN
+Saladin,conquered,Jerusalem	true,,	True	EN
+Cincinnatus,was chosen,Dictator	true,,	False	EN
+Sarpedon,was the son of,Zeus	true,,	True	EN
+Cortez,is at the head of,a band	true,,	False	EN
+This infection,responds well to,application	true,,	True	EN
+Dormice,has,Fur	true,,	True	EN
+Egypt,was then,an monarchy	true,,	True	EN
+The condition,reveals,the slope	true,,	True	EN
+Marco Polo,climbed,the everest	true,,	True	EN
+Scorpions,have a pair of,Claws	true,,	False	EN
+The cathode,is a plate of,Platinum	true,,	False	EN
+The known bats,has,Wings	true,,	True	EN
+England,produces,Wine	true,,	True	EN
+The claimants,is the son of,Abraham	true,,	False	EN
+Black swans,were discovered in,Australia	true,,	False	EN
+The author,was given,an award	true,,	True	EN
+The first humans,evolved in,Africa	true,,	True	EN
+The bishop,was given,an award	true,,	True	EN
+Egypt,became,a constitutional monarchy	true,,	False	EN
+Soft Drinks,are high in,Sugar	true,,	False	EN
+Dravidian languages,is spoken in,India	true,,	True	EN
+Horses,will run down,an antelope	true,,	False	EN
+Cromwell,remained as,Dictator	true,,	False	EN
+Persian,remained the language of,India	true,,	False	EN
+Fitch,returned to,America	true,,	False	EN
+The length,is the number of,Digits	true,,	True	EN
+Poverty,has long been in,Africa	true,,	False	EN
+Hahn,was awarded,a nobel prize	true,,	True	EN
+Butterflies,flew with,Wings	true,,	False	EN
+The liqueur,is manufactured in,Scotland	true,,	True	EN
+Red Meat,is rich with,Iron	true,,	False	EN
+Several antibiotics,have been used to treat,infections	true,,	True	EN
+The slope,is found by,differentiation	true,,	True	EN
+Erythromycin,may be used to treat,infections	true,,	True	EN
+Mucus,may be discharged from,the vagina	true,,	True	EN
+The east germany,entered,the european union	true,,	True	EN
+Hopkins,followed,Jesus	true,,	True	EN
+Veil,is worn by,muslim women	true,,	True	EN
+The grackle,soared with,Wings	true,,	False	EN
+Canada,is in,North America	true,,	True	EN
+Kublai Khan,became emperor of,China	true,,	False	EN
+Africa,is home to,Elephants	true,,	True	EN
+The mineral water,includes,Salt	true,,	True	EN
+Streptococcal pharyngitis,causes,fever	true,,	True	EN
+Newtons,measures,Mass	true,,	True	EN
+Grains,is included in,a cake	true,,	True	EN
+Mutton,is the flesh of,Sheep	true,,	False	EN
+Kawasaki disease,causes,fever	true,,	False	EN
+The british advisers,ruled,Egypt	true,,	True	EN
+Traders,is the founder of,Islam	true,,	True	EN
+The true oxen,are distinguished by having,Horns	true,,	False	EN
+Nsaids,are used to decrease,inflammation	true,,	True	EN
+Science,came from,the chaldeans	true,,	True	EN
+New Zealand,had been discovered by,Captain Cook	true,,	True	EN
+All members,contributed to,Science	true,,	False	EN
+Australia,is inhabited by,Kangaroos	true,,	True	EN
+Dominic,became,a saint	true,,	False	EN
+Heretic,is often,the hero	true,,	False	EN
+A republican governor,was elected by,Ohio	true,,	True	EN
+The sovereign,is the emperor of,China	true,,	False	EN
+This remarkable insect,is said to be found in,Texas	true,,	True	EN
+Serotonin,helps,Sleep	true,,	True	EN
+The molars,are the teeth in,the mouth	true,,	False	EN
+Any wound,can be closed with,careful debridement	true,,	False	EN
+Herakles,was the son of,Zeus	true,,	False	EN
+Finland,left to join,the eu	true,,	False	EN
+Ergotamine,relieves,Headache	true,,	True	EN
+Monarchy,was established at,Rome	true,,	False	EN
+The osprey,dived for,fish	true,,	False	EN
+The clawed prawns,are found in the regions of,America	true,,	True	EN
+Homo sapiens,originated in,Africa	true,,	True	EN
+Minerva,received prayers from,Romans	true,,	False	EN
+Jefferson,reached,Paris	true,,	False	EN
+Zoology,is the study of,Animals	true,,	False	EN
+Marsupials,lives in,Australia	true,,	True	EN
+The application,will often relieve,the pain	true,,	True	EN
+Hemp,is processed into,Paper	true,,	True	EN
+The doctor,will set,the broken bones	true,,	True	EN
+Thrips,are insects with,Wings	true,,	False	EN
+Charlemagne,stands at the head of,the saints	true,,	False	EN
+This asiatic horse,flourished in,America	true,,	False	EN
+Troy,is a city in,Asia	true,,	True	EN
+Jupiter,is examined with,a telescope	true,,	False	EN
+Leafy vegetables,is rich with,calcium	true,,	True	EN
+Kangaroos,live in,Australia	true,,	True	EN
+Poverty,increased throughout,Western Europe	true,,	False	EN
+The United States,had overtaken,Britain	true,,	False	EN
+A thermocouple,measures,Temperature	true,,	True	EN
+Horns,belong only to,the ruminants	true,,	False	EN
+The buzzard,is the bird of,America	true,,	False	EN
+The east germany,is part of,the european union	true,,	True	EN
+The chinese communists,gained control of,China	true,,	True	EN
+Representatives,signed the declaration of,Independence	true,,	False	EN
+A modified koumiss,is prepared by the addition of,Sugar	true,,	False	EN
+The hypothalamus,secretes,hormones	true,,	True	EN
+Green vegetables,is rich with,calcium	true,,	True	EN
+Japan,enjoys,Ties	true,,	True	EN
+Differentiation,reveals,the slope	true,,	True	EN
+The english parties,contended in,Battle	true,,	True	EN
+Every sluggish sailor,became,a hero	true,,	True	EN
+The regular officers,bore the brunt of,the battle	true,,	True	EN
+The dictatorship,was prevalent in,Greece	true,,	False	EN
+Soap,removes,stains	true,,	True	EN
+General Dyer,became,a hero	true,,	True	EN
+Belladonna,helps reduce,Pain	true,,	True	EN
+Demeter,received prayers from,Greeks	true,,	False	EN
+Cereals,are fortified with,Vitamins	true,,	False	EN
+Sadat,ruled,Egypt	true,,	True	EN
+Austria,is a member of,the eu	true,,	True	EN
+North America,contains,Canada	true,,	True	EN
+The altar,is carved,Wood	true,,	False	EN
+Mineral waters,includes,Salt	true,,	True	EN
+The todies,are natives of,America	true,,	False	EN
+The zambezi,is the river of,Africa	true,,	False	EN
+Headache,can be treated with,Aspirin	true,,	True	EN
+Earthquakes,were registered by,the seismographs	true,,	True	EN
+Maize,originated in,America	true,,	True	EN
+The argives,had been defeated in,Battle	true,,	False	EN
+Intermediaries,became,a saint	true,,	False	EN
+Kangaroos,is native to,Australia	true,,	False	EN
+Caesar,had been appointed,Dictator	true,,	False	EN
+An accurate thermometer,measures,Temperature	true,,	True	EN
+The same salt,is contained in,mineral waters	true,,	True	EN
+Innsbruck,is under the shadow of,the mountains	true,,	False	EN
+The marmot,is defined as,a mammal	true,,	True	EN
+War,are represented by,Rahu	true,,	True	EN
+The serpents,is covered in,Scales	true,,	True	EN
+Schiller,conceives,Queen	true,,	True	EN
+Bruges,was the emporium of,Europe	true,,	False	EN
+The hypothalamus,also secretes,hormones	true,,	True	EN
+Aristotle,defined,Democracy	true,,	False	EN
+All primary discoverers,are artists in,the sciences	true,,	False	EN
+These birds,are found throughout,America	true,,	False	EN
+A feed,is included in,a cake	true,,	True	EN
+A resistant penicillin,cures,infections	true,,	True	EN
+The energy,would be expressed in,kilowatt hours	true,,	True	EN
+The commonwealth,was part of,The Union	true,,	True	EN
+Codeine,should be used for,Pain	true,,	True	EN
+The officers,are lodged in,the monastery	true,,	True	EN
+Wounds,may require,surgical debridement	true,,	True	EN
+London,unfortunately has,Mountains	true,,	False	EN
+That night,is the god of,War	true,,	False	EN
+Wilson,had been living in,London	true,,	False	EN
+The dingo,is the dog of,Australia	true,,	False	EN
+The rain,is heaviest in,June	true,,	False	EN
+The electrode,consists of a piece of,Platinum	true,,	True	EN
+Iran,speaks,Persian	true,,	True	EN
+Napoleon,was defeated at the battle of,Waterloo	true,,	False	EN
+Perseus,slew,the gorgon	true,,	True	EN
+The birettas,is worn by,Jews	true,,	True	EN
+The array,can be used to compute,the temperature	true,,	True	EN
+The Queen,were to be seen with,Horns	true,,	True	EN
+Quinine,cures,Malaria	true,,	False	EN
+The rodents,is defined as,a mammal	true,,	True	EN
+The length,is equal to,the span	true,,	False	EN
+Aspirin,may be given to reduce,fever	true,,	True	EN
+The dog,is native to,America	true,,	True	EN
+A mathematical point,measures,Mass	true,,	True	EN
+Saturn,can be seen with,a naked eye	true,,	True	EN
+Poseidon,was lord of,The Sea	true,,	True	EN
+The first humans,came from,Africa	true,,	True	EN
+Vegetables,are the sources of,Vitamins	true,,	False	EN
+Kangaroos,lives in,Australia	true,,	True	EN
+The cows,are clothed in,Fur	true,,	True	EN
+The kidneys,secretes,hormones	true,,	True	EN
+The lizard,is a kind of,Reptile	true,,	True	EN
+Surgical debridement,treats,Wounds	true,,	True	EN
+Feet,measures,length	true,,	True	EN
+Furlongs,measures,length	true,,	True	EN
+Pakistan,would remain within,the british empire	true,,	False	EN
+Mantua,is worn by,the pope	true,,	True	EN
+Rhodes grass,originated in,Africa	true,,	True	EN
+India,was controlled by,Queen Victoria	true,,	True	EN
+Harrison,works at,The White House	true,,	False	EN
+The hornbills,has,Wings	true,,	True	EN
+Madison,became,a saint	true,,	False	EN
+The mongols,again invaded,India	true,,	False	EN
+Leafy vegetables,is rich with,calcium	true,,	False	EN
+The elk,lives in,America	true,,	True	EN
+Clinton,was still,President	true,,	False	EN
+Quinine,was the remedy for,Malaria	true,,	True	EN
+A gentleman,climbed,the everest	true,,	True	EN
+Magnesium sulfate,alleviates,Headaches	true,,	True	EN
+Pneumonia,extends into,the pericardium	true,,	True	EN
+The peacock,is covered in,Feathers	true,,	False	EN
+Infections,may be treated with,chloramphenicol	true,,	True	EN
+Sulfadiazine,is preferred for,infections	true,,	False	EN
+Soft Drinks,includes,Sugar	true,,	True	EN
+September,poured with,Rain	true,,	True	EN
+Coconut palms,are found on the coast of,America	true,,	False	EN
+The anniversary,is a festival in,India	true,,	False	EN
+Lyndon Johnson,replaced,Kennedy	true,,	True	EN
+The emperor,was looked upon as,a hero	true,,	True	EN
+Lincoln,was stricken down by,the assassin	true,,	True	EN
+Israel,was attacked by,Terrorists	true,,	False	EN
+Tiflis,is in,Asia	true,,	True	EN
+Aspirin,may be given for,Headache	true,,	True	EN
+John Adams,left,Paris	true,,	False	EN
+Babylon,became the metropolis of,Asia	true,,	False	EN
+Opium,relieves,Pain	true,,	True	EN
+The vacant lands,was acquired by,The United States	true,,	True	EN
+The larvae,is defined as,a mammal	true,,	True	EN
+Pain,may be relieved by,Aspirin	true,,	True	EN
+Jerusalem,fell into the hands of,the sultan	true,,	True	EN
+The chicken,is served with,Bread	true,,	True	EN
+Venice,is sinking into,The Sea	true,,	False	EN
+The pope,escaped in,the disguise	true,,	False	EN
+Terrorists,broke into,the olympic village	true,,	True	EN
+The mouth,has a pair of,mandibles	true,,	False	EN
+Paper,is made of,Hemp	true,,	True	EN
+Citric acid,removes,stains	true,,	True	EN
+Greece,participated in,the olympic games	true,,	True	EN
+This operation,has been performed by,Surgeons	true,,	True	EN
+The battle,was a defeat of,Wallenstein	true,,	False	EN
+Local anesthetics,are used to manage,Pain	true,,	True	EN
+Davis,joined in urging,a tax	true,,	True	EN
+Acetaminophen,relieves,Pain	true,,	True	EN
+Africa,is the land of,creepers	true,,	False	EN
+Stonehenge,was built by,the romans	true,,	True	EN
+Celery,can be added to,a salad	true,,	True	EN
+Beer,is manufactured in,Germany	true,,	True	EN
+Human beings,have been seen with,Wings	true,,	True	EN
+Louisiana,was part of,The Union	true,,	True	EN
+Fever,occurs after,pharyngitis	true,,	False	EN
+Banting,was awarded,a nobel prize	true,,	True	EN
+The known bats,were creatures with,Wings	true,,	True	EN
+Dallas,is the city in,Texas	true,,	True	EN
+Virginia,seceded and joined,the confederacy	true,,	False	EN
+Napoleon,became,a hero	true,,	True	EN
+Germany,is the producer of,Beer	true,,	True	EN
+Feet,measures,length	true,,	True	EN
+Acetaminophen,relieves,Pain	true,,	True	EN
+The pancreas,secretes,hormones	true,,	True	EN
+Terrorists,attack in,France	true,,	True	EN
+Disney,created,Mickey Mouse	true,,	False	EN
+Antiviral drugs,have proved against,infections	true,,	True	EN
+The vassals,frequently made,War	true,,	False	EN
+The osprey,feeds on,fish	true,,	True	EN
+Air,is drawn up through,the sphincter	true,,	False	EN
+Some deputies,declared in favour of,Independence	true,,	True	EN
+All egyptians,speak,Arabic	true,,	False	EN
+The anterior pituitary,produces a number of,hormones	true,,	True	EN
+The harrow,is composed wholly of,Wood	true,,	False	EN
+The cooks,prepares,Food	true,,	True	EN
+Thermocouples,measures,Temperature	true,,	True	EN
+The length,extends for,furlongs	true,,	True	EN
+California,was secured to,The Union	true,,	True	EN
+Pasteur,invented,a vaccine	true,,	True	EN
+This award,has been given to,a woman	true,,	True	EN
+The pancreas,secretes,hormones	true,,	True	EN
+Pain,may be treated with,acetaminophen	true,,	True	EN
+Carcinoma,sometimes causes,fever	true,,	True	EN
+California,remained loyal to,The Union	true,,	False	EN
+Crows,swung on,Wings	true,,	False	EN
+Codeine,may be given for,Pain	true,,	True	EN
+Kennedy,was succeeded by,President Johnson	true,,	True	EN
+Headache,may be relieved by,the application	true,,	True	EN
+Ferdinand,was born at,Versailles	true,,	False	EN
+Decibel,measures,Energy	true,,	True	EN
+India,should remain within,the british empire	true,,	False	EN
+Geology,studies,the earth	true,,	True	EN
+Cathartics,relieves,Headaches	true,,	True	EN
+Serotonin,regulates,Sleep	true,,	True	EN
+Tsetse flies,are confined to,Africa	true,,	False	EN
+Human beings,lives in,America	true,,	False	EN
+A plutocracy,is prevalent in,Europe	true,,	True	EN
+The armadillo,is an inhabitant of,America	true,,	True	EN
+Dormice,are animals with,Fur	true,,	True	EN
+Headache,may be relieved by,Aspirin	true,,	True	EN
+Many mammals,has,Horns	true,,	True	EN
+The United States,had made a treaty with,Italy	true,,	False	EN
+The chimpanzee,lives in,Africa	true,,	True	EN
+California,was acquired by,The United States	true,,	True	EN
+The nearest inch,measures,length	true,,	True	EN
+The rose,came from,China	true,,	True	EN
+Calcium,is the base of,Lime	true,,	False	EN
+Acetylsalicylic acid,is used to relieve,Headache	true,,	False	EN
+Jerusalem,is surrounded by,Mountains	true,,	False	EN
+Famine,struck,Ethiopia	true,,	True	EN
+Newton,became professor of,Mathematics	true,,	False	EN
+Jefferson,returned to,Paris	true,,	False	EN
+Henry Viii,had become king of,England	true,,	True	EN
+Asia,is home to,Elephants	true,,	True	EN
+A sympathizer,murdered,Lincoln	true,,	True	EN
+Direct Democracy,is prevalent in,Europe	true,,	False	EN
+Morphine,may be given to relieve,Pain	true,,	True	EN
+Australia,is suffering,the drought	true,,	False	EN
+Glass wool,is made of,Platinum	true,,	False	EN
+Vegetables,are the sources of,Iron	true,,	True	EN
+Acetaminophen,can be used for,Pain	true,,	True	EN
+The array,measures,Temperature	true,,	True	EN
+Julius Caesar,was assassinated by,conspirators	true,,	True	EN
+Larger doses,may be required for,infections	true,,	True	EN
+The large maxillary,secretes,mucus	true,,	True	EN
+Codeine,is used for the relief of,Pain	true,,	True	EN
+Jefferson,went to,London	true,,	True	EN
+A grandson,controlled,Japan	true,,	True	EN
+This planet,is viewed through,a telescope	true,,	True	EN
+The cacao tree,is native to,America	true,,	True	EN
+Spears,is made of,Wood	true,,	True	EN
+Tyrannies,was prevalent in,Greece	true,,	True	EN
+The zambezi,flows through,Africa	true,,	True	EN
+A stricken butterfly,wavers on,Wings	true,,	False	EN
+The nervous system,secretes,hormones	true,,	True	EN
+Washington,was first in,War	true,,	False	EN
+Stonehenge,was built by,the danes	true,,	True	EN
+Alexander,was a pupil of,Aristotle	true,,	True	EN
+Vargas,became,a dictator	true,,	True	EN
+Robins,are distributed throughout,America	true,,	False	EN
+The mollusks,is not,a vertebrate	true,,	True	EN
+Wine,is now made in,Germany	true,,	False	EN
+The temperature,was measured by means of,a thermocouple	true,,	True	EN
+A democratic governor,was elected by,Ohio	true,,	True	EN
+Hormone,is released from,the pituitary gland	true,,	True	EN
+Thyroidectomies,is conducted by,a surgeon	true,,	False	EN
+Telescopes,have discovered,several stars	true,,	False	EN
+Arthur,traveled to,London	true,,	True	EN
+Isoniazid,cures,infections	true,,	False	EN
+Hugh Capet,sat on the throne of,France	true,,	True	EN
+All spiders,secrete,Venom	true,,	True	EN
+Electrodes,is made of,Steel	true,,	True	EN
+Peas,is rich with,Iron	true,,	False	EN
+The depraved sinner,became,a saint	true,,	False	EN
+Paleontology,is the study of,Life	true,,	False	EN
+The principal officers,are lodged in,the monastery	true,,	True	EN
+Bananas,are native to,Africa	true,,	True	EN
+Bread,is made by,Bakers	true,,	True	EN
+Bismarck,is in,Europe	true,,	True	EN
+The Democratic Party,is opposed to,Slavery	true,,	True	EN
+Brighton,overlooks,The Sea	true,,	True	EN
+Horns,grew upon,those lambs	true,,	True	EN
+Alexander bell,invented,the telephone	true,,	False	EN
+Kennedy,was succeeded by,Lyndon Johnson	true,,	True	EN
+Pneumonia,is an infection of,the tract	true,,	True	EN
+Vaccine,was introduced by,Pasteur	true,,	True	EN
+Many vegetables,is rich with,calcium	true,,	True	EN
+The clean seawater,helps reduce,Pain	true,,	True	EN
+Walt Disney,created,Mickey Mouse	true,,	False	EN
+Temperature,can be obtained with,the pointer	true,,	True	EN
+The zambezi,is the waterway in,Africa	true,,	False	EN
+Delicious,is served with,Rice	true,,	True	EN
+Jimmy Carter,lost to,Reagan	true,,	True	EN
+Director,was given,an award	true,,	True	EN
+The author,is a recipient of,Award	true,,	True	EN
+Fescue,occurs naturally in,Europe	true,,	True	EN
+Morphine,relieves,Pain	true,,	True	EN
+The cattle,resemble and have,Horns	true,,	True	EN
+Temperature,can be obtained by,an accurate thermometer	true,,	True	EN
+Award,to honor,a scientist	true,,	True	EN
+Pharyngitis,is the cause of,fever	true,,	True	EN
+The pain,may be controlled by,Aspirin	true,,	True	EN
+Edmund Hillary,reached the summit of,Everest	true,,	False	EN
+Clemens,was known as,Mark Twain	true,,	True	EN
+Success,fought in,The Civil War	true,,	True	EN
+Local anesthetics,are used to alleviate,Pain	true,,	True	EN
+The nobel prize,was awarded to,Crick	true,,	True	EN
+The United Nations,provides,Aid	true,,	True	EN
+Innsbruck,was among,the mountains	true,,	False	EN
+Chester,is the town in,Pennsylvania	true,,	True	EN
+Malignancy,causes,fever	true,,	True	EN
+Patients,will require,Oxygen	true,,	True	EN
+The vulcan,received prayers from,Romans	true,,	True	EN
+Attire,is worn by,the pope	true,,	True	EN
+Terrorists,broke into,the village	true,,	True	EN
+Aristotle,was tutor to,Alexander	true,,	True	EN
+Weight,is a measure of,Mass	true,,	True	EN
+Tito,has become,a dictator	true,,	True	EN
+Canada,spends,Dollars	true,,	False	EN
+China,manufactures,Cars	true,,	True	EN
+The optical pyrometer,can be used to measure,the temperature	true,,	True	EN
+Helen,was the son of,Zeus	true,,	True	EN
+The assassin,murdered,Lincoln	true,,	True	EN
+Small proteins,protect against,stress	true,,	True	EN
+Magnetos,is made of,Platinum	true,,	False	EN
+The salt,was confined to,common salt	true,,	False	EN
+Mammals,has,Horns	true,,	True	EN
+Savonarola,had been transformed into,a saint	true,,	True	EN
+The clarinet,is a instrument of,Wood	true,,	True	EN
+Hormones,are excreted by,the kidneys	true,,	True	EN
+Marshal tito,has become,a dictator	true,,	True	EN
+All creatures,requires,Oxygen	true,,	True	EN
+The apricot,was first known in,Europe	true,,	True	EN
+Proteins,protect against,stress	true,,	True	EN
+Alexander bell,invented,the telephone	true,,	False	EN
+Chlortetracycline,cures,infections	true,,	True	EN
+Pain,is usually relieved by,nitroglycerin	true,,	True	EN
+A famine,broke out in,the sudan	true,,	True	EN
+Philippi,was the place in,Europe	true,,	True	EN
+The eldest brother,had fallen in,The War	true,,	False	EN
+Untreated pharyngitis,can result in,fever	true,,	True	EN
+The turing,invented,the computer	true,,	False	EN
+Balsam,removes,stains	true,,	True	EN
+The magna carta,was signed by,King John	true,,	True	EN
+Jupiter,is larger than,Earth	true,,	True	EN
+President Johnson,replaced,Kennedy	true,,	True	EN
+Mustard,is processed into,Flour	true,,	True	EN
+The witness,is employed by,the government	true,,	True	EN
+A fuse,consists of a piece of,Metal	true,,	False	EN
+Pain,can be treated with,nsaids	true,,	True	EN
+Cape Town,is situated at the foot of,Mountain	true,,	False	EN
+All egypt,was the estate of,the pharaoh	true,,	False	EN
+Sheep,are raised for,Mutton	true,,	False	EN
+Cereals,is rich with,Iron	true,,	True	EN
+Green vegetables,is rich with,calcium	true,,	True	EN
+Jupiter,was the god of,the romans	true,,	True	EN
+Van Buren,was born in,New York	true,,	False	EN
+Aristotle,defines,Democracy	true,,	False	EN
+A monstrous beetle,sped on,Wings	true,,	False	EN
+East Germany,joined,the warsaw pact	true,,	True	EN
+The pituitary gland,secretes,hormones	true,,	True	EN
+Cape Town,lies at the foot of,Mountain	true,,	False	EN
+Oxalic acid,removes,stains	true,,	True	EN
+The emperor,controlled,Japan	true,,	True	EN
+English,is spoken by,Egyptians	true,,	True	EN
+Mohammed,is the founder of,Islam	true,,	True	EN
+Silicon,is used in,transistors	true,,	True	EN
+Geology,is the study of,Earth	true,,	True	EN
+Hormones,are formed by,the anterior pituitary	true,,	True	EN
+The pope,wears,the tiara	true,,	True	EN
+Sheep,are utilized for,Meat	true,,	True	EN
+Aspirin,will help relieve,Pain	true,,	True	EN
+The hairstreak,has,Wings	true,,	True	EN
+Stockholm,is next to,The Sea	true,,	True	EN
+Owners,lives in,the alps	true,,	True	EN
+A centigrade thermometer,will give,the temperature	true,,	True	EN
+Resistances,are measured as,the pound	true,,	True	EN
+Members,fought in,The Civil War	true,,	True	EN
+Local anesthetics,relieves,Pain	true,,	True	EN
+The liberalists,were carrying on,a civil war	true,,	True	EN
+The reaper,is made of,Wood	true,,	False	EN
+A unobtrusive man,is moulded into,a hero	true,,	True	EN
+Diodes,are fabricated from,Silicon	true,,	True	EN
+The marquis,became the leader of,a band	true,,	False	EN
+The anniversary,is a festival in,China	true,,	False	EN
+The energy,may be expressed in,joules	true,,	True	EN
+Alexander Fleming,discovered,Penicillin	true,,	True	EN
+John Adams,was sent to,London	true,,	False	EN
+Australia,is inhabited by,Kangaroos	true,,	True	EN
+Herakles,was a son of,Zeus	true,,	True	EN
+The baboons,is native to,Africa	true,,	False	EN
+Aspirin,may be given for,Headache	true,,	True	EN
+President Johnson,murdered,Lincoln	true,,	True	EN
+Geology,studies,the earth	true,,	True	EN
+Leeches,are fed by,Animals	true,,	True	EN
+Poe,wrote,detective stories	true,,	True	EN
+The objective,measures,Temperature	true,,	True	EN
+Secondary follicles,secretes,hormones	true,,	True	EN
+Falconer,now joined,the band	true,,	True	EN
+Eisenhower,came to,Paris	true,,	True	EN
+Marconi,to invent,the telegraph	true,,	True	EN
+Molasses,contain amounts of,Sugar	true,,	True	EN
+Serotonin,promotes,Sleep	true,,	True	EN
+Minerva,received prayers from,Greeks	true,,	False	EN
+The romans,called,the vulcan	true,,	True	EN
+North Carolina,withdrew and joined,the confederacy	true,,	False	EN
+Vegetables,are an source of,Vitamins	true,,	True	EN
+Jupiter,is bigger than,Earth	true,,	True	EN
+Stains,should be extracted with,a alkali	true,,	True	EN
+The cincinnatus,was called and made,Dictator	true,,	False	EN
+Operations,have been performed by,Surgeons	true,,	True	EN
+Carnivores,lives off,Animals	true,,	True	EN
+Madame curie,isolated,radium	true,,	True	EN
+The heaths,is rich with,Iron	true,,	False	EN
+Ordinary cocoa,is included in,Chocolate	true,,	True	EN
+Ultraviolet radiation,is blocked by,the ozone	true,,	True	EN
+Geophysics,is the study of,the earth	true,,	True	EN
+Hormone,is secreted from,the anterior pituitary	true,,	True	EN
+The cameroons,speaks,English	true,,	False	EN
+Germany,was controlled by,the british empire	true,,	True	EN
+Algerians,speak,French	true,,	True	EN
+Balochi,is the language in,Pakistan	true,,	False	EN
+Alcohol,relieves,Pain	true,,	True	EN
+The incidence,occurs in,Japan	true,,	True	EN
+Clover,is native to,Mexico	true,,	True	EN
+The Sea,was made subject to,Poseidon	true,,	True	EN
+Yellow vegetables,contains,vitamin a	true,,	True	EN
+Pain,can be treated with,acetaminophen	true,,	True	EN
+Jerusalem,had fallen into the hands of,the sultans	true,,	True	EN
+The dictator,was known by the name of,cincinnatus	true,,	True	EN
+The english sparrow,had been introduced into,America	true,,	False	EN
+The commonwealth,joined in,The Union	true,,	True	EN
+This truss,is made of,Wood	true,,	True	EN
+Corn,is a native to,America	true,,	True	EN
+Sheep,provided,Meat	true,,	True	EN
+Analgesics,may be used to relieve,the headache	true,,	True	EN
+Alexander bell,was the inventor of,the telephone	true,,	True	EN
+The sultan,ruled,Egypt	true,,	True	EN
+Perseus,had slain,Medusa	true,,	True	EN
+The salicylates,relieves,Pain	true,,	True	EN
+Muscle relaxants,relieves,Pain	true,,	True	EN
+A governor,was elected by,Ohio	true,,	True	EN
+Tomatoes,are used for,salads	true,,	False	EN
+Prunes,are high in,Iron	true,,	True	EN
+The author,is a recipient of,a award	true,,	True	EN
+Charles,resigned and retired to,the monastery	true,,	False	EN
+A little whiskey,would stop,the pain	true,,	False	EN
+Rotterdam,is the port in,Europe	true,,	False	EN
+The imperial dragon,is armed with,Claws	true,,	True	EN
+Mucus,can develop in,the large maxillary	true,,	True	EN
+Prunes,is rich with,Iron	true,,	True	EN
+Robins,look for,Worms	true,,	True	EN
+Terrorists,bombed in,Beirut	true,,	False	EN
+Fremont,contributed to,Science	true,,	False	EN
+Seismographs,measures,Earthquakes	true,,	True	EN
+Golf,is played in,America	true,,	True	EN
+The father,sued and obtained,an award	true,,	False	EN
+Conquerors,controlled,China	true,,	True	EN
+Neptune,can be seen with,a telescope	true,,	True	EN
+A wine,comes from,Portugal	true,,	True	EN
+The mollusks,are different from,the vertebrates	true,,	True	EN
+The elk,is native to,America	true,,	False	EN
+Landowners,ruled,Britain	true,,	True	EN
+A buzzard,floated on,Wings	true,,	False	EN
+Energies,range to,electron volts	true,,	True	EN
+The spear,is a beam of,Wood	true,,	False	EN
+Luke,has been chosen as,the saint	true,,	False	EN
+Florence,became the city in,Europe	true,,	False	EN
+Flour,seasoned with,Salt	true,,	False	EN
+Storks,migrate to,Africa	true,,	False	EN
+The Bridge,is built of,Steel	true,,	True	EN
+The monotremes,lives in,Australia	true,,	True	EN
+Liquor,is included in,Chocolate	true,,	True	EN
+Aristotle,was the tutor of,Alexander	true,,	True	EN
+Resistance thermometers,is made of,Platinum	true,,	False	EN
+Ozone,protects from,ultraviolet radiation	true,,	True	EN
+The nile,is the river of,Africa	true,,	False	EN
+The principal officers,lives in,a monastery	true,,	True	EN
+Nitroglycerin,relieves,Pain	true,,	True	EN
+The baboons,lives in,Africa	true,,	True	EN
+The merchants,plays in,a band	true,,	True	EN
+The chinese communists,controlled all of,China	true,,	True	EN
+Constantinople,became the city of,Europe	true,,	False	EN
+Cacao,is native to,Europe	true,,	False	EN
+The lizard,may be considered as,a reptile	true,,	True	EN
+Codeine,relieves,Pain	true,,	True	EN
+Crustaceans,is not,an insect	true,,	True	EN
+President Wilson,left,Paris	true,,	False	EN
+Muscle relaxants,may be used for,Pain	true,,	True	EN
+Chloroquine,cures,Malaria	true,,	False	EN
+The feverfew,is native to,Europe	true,,	False	EN
+South Carolina,should secede from,The Union	true,,	False	EN
+All patients,requires,Oxygen	true,,	True	EN
+A thermistor,is used to monitor,the temperature	true,,	True	EN
+Fresh vegetables,have,Vitamins	true,,	True	EN
+Terrorists,take,Refuge	true,,	False	EN
+The stator,is made up of,Steel	true,,	False	EN
+Eisenhower,traveled to,London	true,,	True	EN
+A voltmeter,measures,Current	true,,	True	EN
+Ordinary horses,hunts,Antelopes	true,,	True	EN
+Gandhi,became,a dictator	true,,	True	EN
+Winner,was given,an award	true,,	True	EN
+The hornbills,would come with,Wings	true,,	True	EN
+Solomon,was the son of,Bathsheba	true,,	True	EN
+Egypt,was taken over by,the successor	true,,	False	EN
+The mark,has been used in,Canada	true,,	False	EN
+Chlorpromazine,helps reduce,Pain	true,,	True	EN
+Sugar,is included in,Chocolate	true,,	True	EN
+All bridges,is made of,Steel	true,,	True	EN
+The protestant reformation,was led by,Martin Luther	true,,	True	EN
+California,would be added to,The United States	true,,	True	EN
+The nobel prize,was awarded to,Watson	true,,	True	EN
+The restless marquis,became the leader of,a band	true,,	False	EN
+Codeine,relieves,Pain	true,,	True	EN
+All rocks,were encrusted with,Salt	true,,	False	EN
+Maize,is processed into,Flour	true,,	False	EN
+Archaeology,is the study of,Life	true,,	False	EN
+Franklin,invented,Electricity	true,,	True	EN
+Aspirin,relieves,Headache	true,,	True	EN
+The sulfonamides,have been used in the treatment of,infections	true,,	True	EN
+Belladonna,is used to relieve,Pain	true,,	True	EN
+Nsaids,relieves,Pain	true,,	True	EN
+Zeus,received prayers from,Greeks	true,,	True	EN
+The gorgon,was destroyed by,Perseus	true,,	True	EN
+Caesar,made himself,Dictator	true,,	False	EN
+Soft Drinks,includes,Sugar	true,,	True	EN
+Hirohito,became emperor of,Japan	true,,	False	EN
+The british empire,consists of,The United Kingdom	true,,	False	EN
+Terrorists,attacked in,Saudi Arabia	true,,	True	EN
+Molasses,is a product of,Sugar	true,,	False	EN
+Insects,also have,Wings	true,,	True	EN
+A confederate sympathizer,murdered,Lincoln	true,,	True	EN
+Viscous lidocaine,relieves,Pain	true,,	True	EN
+Frogs,sometimes have,Horns	true,,	True	EN
+Citizens,fought in,a battle	true,,	True	EN
+Green vegetables,are rich in,calcium	true,,	True	EN
+Egypt,had formed,the united republic	true,,	True	EN
+Pain,should be treated with,acetaminophen	true,,	False	EN
+Deer,is native to,Africa	true,,	False	EN
+Red Meat,is rich with,Iron	true,,	False	EN
+The operating system,was developed by,Microsoft	true,,	True	EN
+Franklin,discovered,Electricity	true,,	True	EN
+Germany,is the home of,the riesling	true,,	False	EN
+Macarthur,was hailed as,a hero	true,,	True	EN
+Sugar,is a ingredient in,Desserts	true,,	True	EN
+Medusa,was destroyed by,Perseus	true,,	True	EN
+These hormones,are supplied by,the corpus luteum	true,,	True	EN
+Asia,is home to,Elephants	true,,	True	EN
+Vancomycin,cures,infections	true,,	True	EN
+The altar,is a table of,Wood	true,,	False	EN
+The liver,contains an excess of,Iron	true,,	True	EN
+Pulleys,is made of,Wood	true,,	False	EN
+Newton,wrote on,Theology	true,,	False	EN
+Inflammation,can be treated with,Aspirin	true,,	True	EN
+This planet,can be seen with,a naked eye	true,,	True	EN
+England,was controlled by,Queen Victoria	true,,	True	EN
+The lark,is covered in,Feathers	true,,	False	EN
+Fat james,was made king of,Britain	true,,	False	EN
+The chimpanzee,lives in,Africa	true,,	True	EN
+John Adams,reached,Paris	true,,	True	EN
+Insects,has,Wings	true,,	True	EN
+The druids,constructed,Stonehenge	true,,	True	EN
+Bill Clinton,beat,George Bush	true,,	True	EN
+America,possessed,Elephants	true,,	True	EN
+The altar,is constructed from,Wood	true,,	True	EN
+Scurvy,was common among,Sailors	true,,	True	EN
+John,signed,the magna carta	true,,	True	EN
+The wapiti,belong exclusively to,America	true,,	False	EN
+Hormones,are released by,the nervous system	true,,	True	EN
+Nsaids,are used for,Pain	true,,	True	EN
+The tobacco plants,is native to,America	true,,	True	EN
+The dragons,are armed with,Claws	true,,	True	EN
+The witness,is an employee of,the government	true,,	True	EN
+England,was controlled by,Queen Victoria	true,,	True	EN
+Reagan,was elected to,The White House	true,,	False	EN
+Flour,includes,Salt	true,,	True	EN
+Interferon,cures,infections	true,,	False	EN
+Urdu,became the language of,Pakistan	true,,	False	EN
+A small moth,has spots on,the wings	true,,	False	EN
+Portugal,produces,Wine	true,,	True	EN
+All spiders,has,Venom	true,,	True	EN
+The produce,amounted to tons of,Iron	true,,	False	EN
+Aspirin,would relieve,the headaches	true,,	True	EN
+Sparta,was the head of,Greece	true,,	False	EN
+Headache,may be relieved by,acetylsalicylic acid	true,,	True	EN
+Intestinal polypeptide,promotes,Sleep	true,,	True	EN
+This robe,is worn by,the pope	true,,	True	EN
+This operation,is conducted by,a surgeon	true,,	True	EN
+Hiroshima,is next to,The Sea	true,,	True	EN
+Sanskrit,was the language in,India	true,,	False	EN
+The federal republic,is prevalent in,Europe	true,,	True	EN
+The quadriceps,straightens,the leg	true,,	True	EN
+General tojo,becomes minister of,Japan	true,,	False	EN
+Broglie,was honored with,the nobel prize	true,,	True	EN
+Molars,are at the back of,the mouth	true,,	False	EN
+Anticonvulsants,relieves,Pain	true,,	True	EN
+Computers,can do,calculations	true,,	True	EN
+Nsaids,relieves,Pain	true,,	True	EN
+Nitroglycerin,helps reduce,Pain	true,,	True	EN
+A small owl,comes on,Wings	true,,	False	EN
+Paris,had been the center of,Europe	true,,	False	EN
+Pharyngitis,can result in,fever	true,,	True	EN
+King John,to sign,the magna carta	true,,	True	EN
+This mountain,lies to the east of,Athens	true,,	False	EN
+The length,was measured with,a micrometer	true,,	False	EN
+Antwerp,was the port in,Europe	true,,	False	EN
+The guava,is native to,America	true,,	False	EN
+Fillmore,was born in,New York	true,,	False	EN
+Telescopes,have revealed,new suns	true,,	True	EN
+The eminent bostonians,was given,an award	true,,	True	EN
+Gonadotrophin,is produced during,Pregnancy	true,,	True	EN
+Aristotle,tutored,Alexander	true,,	True	EN
+Austria,became a member of,the eu	true,,	True	EN
+The romans,constructed,Stonehenge	true,,	True	EN
+Acetaminophen,relieves,Pain	true,,	True	EN
+The rodents,are the order of,Mammals	true,,	True	EN
+A salad,may be made of,Carrots	true,,	True	EN
+The fruit juice,is treated with,Sugar	true,,	False	EN
+Governor,was elected by,Ohio	true,,	True	EN
+Kitty,stick to,America	true,,	False	EN
+Luke,records,Jesus	true,,	False	EN
+Raspberries,is native to,Europe	true,,	False	EN
+Magpies,flutter with,Wings	true,,	False	EN
+The essential oil,helps reduce,Pain	true,,	True	EN
+The monarchy,was used in,Egypt	true,,	True	EN
+Aspirin,can help relieve,Pain	true,,	True	EN
+Jefferson,left,Paris	true,,	False	EN
+Disseminated sclerosis,causes,tremors	true,,	True	EN
+Young brady,was selected of,this band	true,,	True	EN
+Cromwell,fought in,A War	true,,	True	EN
+Broglie,was awarded,a nobel prize	true,,	True	EN
+The muhammad,is the founder of,Islam	true,,	True	EN
+Kennedy,traveled to,Paris	true,,	True	EN
+These microbes,will guard against,Diseases	true,,	False	EN
+Chocolate,is traditionally from,Spain	true,,	False	EN
+France,is an ally of,Russia	true,,	True	EN
+The point,corresponds to,the energy	true,,	True	EN
+A probe,measures,Temperature	true,,	True	EN
+This planet,may be seen by,the naked eye	true,,	True	EN
+Antelopes,lives in,Africa	true,,	True	EN
+Python,were firmly in,Africa	true,,	False	EN
+The titmice,are birds with,Feathers	true,,	True	EN
+Oranges,are rich in,vitamin	true,,	False	EN
+Other clocks,is native to,Europe	true,,	False	EN
+Philadelphia,is the capital of,Pennsylvania	true,,	False	EN
+Rectal thermometers,can be used to take,Temperatures	true,,	True	EN
+Electron volts,measures,Energy	true,,	True	EN
+The antelope,escaped,a lion	true,,	False	EN
+Africa,is home to,Elephants	true,,	True	EN
+Mutton,is from,Sheep	true,,	True	EN
+Streptococcal pharyngitis,can result in,fever	true,,	True	EN
+The caribou,lives in,America	true,,	True	EN
+Herbivores,consume,Plants	true,,	True	EN
+Temperature,is sensed by,a thermistor	true,,	True	EN
+Vermont,had been admitted into,The Union	true,,	True	EN
+The nectar,largely consists of,Sugar	true,,	False	EN
+The crusader,went and fell in,Battle	true,,	False	EN
+Bacillary dysentery,is characterised by,a fever	true,,	False	EN
+Madison,wrote in,the federalist papers	true,,	True	EN
+The Food,is drawn up through,the proboscis	true,,	True	EN
+Atropine,relieves,Pain	true,,	True	EN
+The druids,constructed,Stonehenge	true,,	True	EN
+All china,was in the hands of,Conquerors	true,,	True	EN
+Many cereals,are fortified with,Iron	true,,	True	EN
+Histamine,relieves,Headache	true,,	True	EN
+America,is the country of,the rattlesnake	true,,	False	EN
+Finland,is a member of,the eu	true,,	True	EN
+Hedgehogs,use,Venom	true,,	False	EN
+Elephants,are found in,Asia	true,,	True	EN
+Beetles,have pairs of,Wings	true,,	False	EN
+Fish,are rich in,Vitamins	true,,	False	EN
+Spiders,use,Venom	true,,	False	EN
+Cheese,is rich in,calcium	true,,	False	EN
+Lyndon Johnson,was from,Texas	true,,	True	EN
+Africa,is home to,Elephants	true,,	True	EN
+Lincoln,appoints,Ministers	true,,	False	EN
+China,produced,Cars	true,,	True	EN
+Finland,became a member of,the eu	true,,	True	EN
+Splints,is made of,Metal	true,,	True	EN
+The sugar cane,is processed into,Sugar	true,,	True	EN
+The grizzly bear,are natives of,America	true,,	True	EN
+Sweden,became a member of,the eu	true,,	True	EN
+Petrograd,is next to,The Sea	true,,	True	EN
+Estriol,is secreted during,Pregnancy	true,,	True	EN
+Saturn,appears to,the naked eye	true,,	True	EN
+The temperature,can be measured with,a thermocouple	true,,	True	EN
+The guava,is processed into,Sugar	true,,	False	EN
+Transistors,is made of,Silicon	true,,	True	EN
+Napoleon,defeated the austrians at,the battle	true,,	False	EN
+Leukemia,causes,fever	true,,	True	EN
+Acyclovir,is the drug for,infection	true,,	False	EN
+The veteran cincinnatus,was called and made,Dictator	true,,	False	EN
+Cormorants,dive for,fish	true,,	False	EN
+The electron volt,measures,Energy	true,,	True	EN
+Rhodes grass,is a native of,Africa	true,,	True	EN
+Detectors,is made of,Silicon	true,,	False	EN
+Aristotle,speaks of,Mathematics	true,,	True	EN
+The buffalo,roamed over,America	true,,	False	EN
+Assassins,murdered,Lincoln	true,,	True	EN
+Albania,joined,the warsaw pact	true,,	True	EN
+Fish,is served with,Bread	true,,	True	EN
+Camels,originated in,America	true,,	False	EN
+Garment,is worn by,muslim women	true,,	True	EN
+Modern humans,evolved in,Africa	true,,	False	EN
+Guinea fowls,are natives of,Africa	true,,	False	EN
+Campbell,was the winner of,the award	true,,	False	EN
+Patients,requires,Oxygen	true,,	True	EN
+Large stars,can be seen with,a telescope	true,,	True	EN
+Varna,is a port on,The Sea	true,,	False	EN
+A capstan,is a cylinder of,Wood	true,,	False	EN
+Many cereals,is rich with,Iron	true,,	True	EN
