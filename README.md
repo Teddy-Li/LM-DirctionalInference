@@ -4,7 +4,7 @@
 
 This repository hosts the code for evaluating BERT / RoBERTa LMs' capabilities of directional predicate entailment detection, from the paper [Language Models are Poor Learners of Directional Inference]().
 
-For the BoOQA datasets used in the paper, check out [this separate repository](https://github.com/Teddy-Li/BoOQA).
+For the BoOQA datasets used in the paper, check out [the BoOQA repository](https://github.com/Teddy-Li/BoOQA).
 
 Here we use the prompt-finetuning approach from [this paper](https://aclanthology.org/2021.eacl-main.108/) as the gauge for LM capabilities. The code in [discrete_prompt_model](./discrete_prompt_model) is adapted from their implementation.
 We fixed a bug in the original code, so that the model is able to use the prompts in full; we have also made a few other changes to the training codes for ease of experimentation.
